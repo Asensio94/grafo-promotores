@@ -2,11 +2,11 @@
  "generado": "2026-09-23",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 1396,
-  "inscripciones_borme": 69,
-  "sociedades": 712,
+  "actos_boe": 1397,
+  "inscripciones_borme": 408,
+  "sociedades": 715,
   "instalaciones": 885,
-  "grupos": 51,
+  "grupos": 54,
   "indicios": 58
  },
  "indicios": [
@@ -3205,6 +3205,17 @@
    ]
   },
   {
+   "id": "G-ENAGAS-TRANSPORTE",
+   "sociedades": [
+    "ENAGAS TRANSPORTE",
+    "ENAGAS TRANSPORTE DEL NORTE"
+   ],
+   "en_boe": [
+    "ENAGAS TRANSPORTE",
+    "ENAGAS TRANSPORTE DEL NORTE"
+   ]
+  },
+  {
    "id": "G-OLMEDILLA-HIVE",
    "sociedades": [
     "OLMEDILLA HIVE",
@@ -3433,6 +3444,26 @@
    ],
    "en_boe": [
     "GAETANA SOLAR"
+   ]
+  },
+  {
+   "id": "G-BOMBEOS-CANTILLANA",
+   "sociedades": [
+    "BOMBEOS CANTILLANA",
+    "GENERAL DE BOMBEO DE HORMIGON"
+   ],
+   "en_boe": [
+    "GENERAL DE BOMBEO DE HORMIGON"
+   ]
+  },
+  {
+   "id": "G-REDEXIS-INFRAESTRUCTURAS",
+   "sociedades": [
+    "REDEXIS INFRAESTRUCTURAS",
+    "REDEXIS RENOVABLES"
+   ],
+   "en_boe": [
+    "REDEXIS INFRAESTRUCTURAS"
    ]
   }
  ],
@@ -4728,6 +4759,32 @@
    "borme": [],
    "en_boe": true,
    "grupo": "BOLARDO SOLAR"
+  },
+  "BOMBEOS CANTILLANA": {
+   "id": "BOMBEOS CANTILLANA",
+   "nombres": [
+    "BOMBEOS CANTILLANA SOCIEDAD LIMITADA"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2026-09-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-41",
+     "num": 418421,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "BOMBEOS CANTILLANA"
   },
   "BOREAS WIND": {
    "id": "BOREAS WIND",
@@ -6217,14 +6274,26 @@
   "ENAGAS TRANSPORTE": {
    "id": "ENAGAS TRANSPORTE",
    "nombres": [
-    "Enagás Transporte, SAU"
+    "Enagás Transporte, SAU",
+    "ENAGAS TRANSPORTE SA"
    ],
    "nifs": [],
    "domicilios": [],
    "actos_boe": [
     "BOE-A-2022-11209"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-16",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-28",
+     "num": 416335,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "ENAGAS TRANSPORTE"
   },
@@ -6256,7 +6325,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ENAGAS TRANSPORTE DEL NORTE"
+   "grupo": "ENAGAS TRANSPORTE"
   },
   "ENCE ENERGIA": {
    "id": "ENCE ENERGIA",
@@ -8516,7 +8585,8 @@
   "ESTEYCO": {
    "id": "ESTEYCO",
    "nombres": [
-    "Esteyco, SA"
+    "Esteyco, SA",
+    "ESTEYCO SA"
    ],
    "nifs": [],
    "domicilios": [
@@ -8526,7 +8596,17 @@
     "BOE-A-2018-7427",
     "BOE-A-2026-16637"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
+     "num": 422496,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "ESTEYCO"
   },
@@ -9207,7 +9287,8 @@
   "GENERAL DE BOMBEO DE HORMIGON": {
    "id": "GENERAL DE BOMBEO DE HORMIGON",
    "nombres": [
-    "General de Bombeo de Hormigón, SL"
+    "General de Bombeo de Hormigón, SL",
+    "GENERAL DE BOMBEO DE HORMIGON SL"
    ],
    "nifs": [],
    "domicilios": [],
@@ -9216,7 +9297,7 @@
    ],
    "borme": [],
    "en_boe": true,
-   "grupo": "GENERAL DE BOMBEO DE HORMIGON"
+   "grupo": "BOMBEOS CANTILLANA"
   },
   "GENIA EXTREMADURA SOLAR": {
    "id": "GENIA EXTREMADURA SOLAR",
@@ -10118,6 +10199,22 @@
    "en_boe": true,
    "grupo": "BUGANVILLA SOLAR PV"
   },
+  "GREEN RIC ENERGY": {
+   "id": "GREEN RIC ENERGY",
+   "nombres": [
+    "Green Ric Energy, SLU"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "Paseo de la Castellana 95, planta 13, 28046 Madrid"
+   ],
+   "actos_boe": [
+    "BOE-B-2026-30746"
+   ],
+   "borme": [],
+   "en_boe": true,
+   "grupo": "GREEN RIC ENERGY"
+  },
   "GREEN STONE RENEWABLE X": {
    "id": "GREEN STONE RENEWABLE X",
    "nombres": [
@@ -10808,14 +10905,43 @@
   "IBERDROLA RENOVABLES ENERGIA": {
    "id": "IBERDROLA RENOVABLES ENERGIA",
    "nombres": [
-    "Iberdrola Renovables Energía, SA"
+    "Iberdrola Renovables Energía, SA",
+    "IBERDROLA RENOVABLES ENERGIA SOCIEDAD ANONIMA"
    ],
    "nifs": [],
    "domicilios": [],
    "actos_boe": [
     "BOE-A-2018-6579"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-48",
+     "num": 417305,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-48",
+     "num": 417306,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-48",
+     "num": 417307,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "IBERDROLA RENOVABLES ENERGIA"
   },
@@ -11923,7 +12049,8 @@
    "id": "MURSOLAR 14",
    "nombres": [
     "MURSOLAR 14, SL",
-    "Mursolar 14, SL"
+    "Mursolar 14, SL",
+    "MURSOLAR 14 SL"
    ],
    "nifs": [],
    "domicilios": [
@@ -11935,7 +12062,17 @@
     "BOE-A-2022-13368",
     "BOE-B-2026-25685"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28",
+     "num": 426222,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "EXELIO ENERGY TRADING"
   },
@@ -12068,7 +12205,8 @@
   "NATURGY VENTO": {
    "id": "NATURGY VENTO",
    "nombres": [
-    "Naturgy Vento, SAU"
+    "Naturgy Vento, SAU",
+    "NATURGY VENTO SA"
    ],
    "nifs": [],
    "domicilios": [],
@@ -12076,7 +12214,17 @@
     "BOE-A-2026-18030",
     "BOE-A-2026-18031"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
+     "num": 422387,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "NATURGY VENTO"
   },
@@ -12384,14 +12532,25 @@
   "OROPESA SOLAR": {
    "id": "OROPESA SOLAR",
    "nombres": [
-    "Oropesa Solar, SL"
+    "Oropesa Solar, SL",
+    "OROPESA SOLAR SOCIEDAD LIMITADA"
    ],
    "nifs": [],
    "domicilios": [],
    "actos_boe": [
     "BOE-A-2026-14322"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-46",
+     "num": 418645,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
    "grupo": "OROPESA SOLAR"
   },
@@ -13039,6 +13198,26 @@
     "BOE-B-2020-35118"
    ],
    "borme": [
+    {
+     "fecha": "2026-09-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-181-28",
+     "num": 420397,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
+     "num": 422654,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
     {
      "fecha": "2026-09-22",
      "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-183-28",
@@ -14060,7 +14239,8 @@
    "id": "REDEXIS INFRAESTRUCTURAS",
    "nombres": [
     "Redexis Infraestructuras, SLU",
-    "Redexis Infraestructuras, SL"
+    "Redexis Infraestructuras, SL",
+    "REDEXIS INFRAESTRUCTURAS SL"
    ],
    "nifs": [
     "B86589884"
@@ -14074,8 +14254,58 @@
     "BOE-A-2026-19475",
     "BOE-B-2026-30637"
    ],
-   "borme": [],
+   "borme": [
+    {
+     "fecha": "2026-09-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
+     "num": 422518,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
+     "num": 422519,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
    "en_boe": true,
+   "grupo": "REDEXIS INFRAESTRUCTURAS"
+  },
+  "REDEXIS RENOVABLES": {
+   "id": "REDEXIS RENOVABLES",
+   "nombres": [
+    "REDEXIS RENOVABLES SL"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2026-09-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28",
+     "num": 426011,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28",
+     "num": 426012,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
    "grupo": "REDEXIS INFRAESTRUCTURAS"
   },
   "REFUGIO FOTOVOLTAICO": {
@@ -54671,6 +54901,142 @@
   }
  },
  "evidencias": [
+  {
+   "tipo": "persona",
+   "a": "PF-e4081a54ab",
+   "b": "ENAGAS TRANSPORTE",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-09-16",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e4081a54ab",
+   "b": "ENAGAS TRANSPORTE DEL NORTE",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-183-48"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-52ba2984d8",
+   "b": "ENAGAS TRANSPORTE",
+   "detalle": "Apoderado solidario",
+   "fecha": "2026-09-16",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-52ba2984d8",
+   "b": "ENAGAS TRANSPORTE DEL NORTE",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-183-48"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-a5761d65c9",
+   "b": "ENAGAS TRANSPORTE",
+   "detalle": "Apoderado solidario",
+   "fecha": "2026-09-16",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-a5761d65c9",
+   "b": "ENAGAS TRANSPORTE DEL NORTE",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-183-48"
+  },
+  {
+   "tipo": "control",
+   "a": "GENERAL DE BOMBEO DE HORMIGON",
+   "b": "BOMBEOS CANTILLANA",
+   "detalle": "Socio único",
+   "fecha": "2026-09-17",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-180-41"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-d7b98b85f5",
+   "b": "REDEXIS INFRAESTRUCTURAS",
+   "detalle": "Apoderado, Apoderado solidario",
+   "fecha": "2026-09-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-d7b98b85f5",
+   "b": "REDEXIS RENOVABLES",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-a8873d1d89",
+   "b": "REDEXIS INFRAESTRUCTURAS",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-09-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-a8873d1d89",
+   "b": "REDEXIS RENOVABLES",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-65e5de9845",
+   "b": "REDEXIS INFRAESTRUCTURAS",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-09-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-65e5de9845",
+   "b": "REDEXIS RENOVABLES",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-6fb8b99608",
+   "b": "REDEXIS INFRAESTRUCTURAS",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-09-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-6fb8b99608",
+   "b": "REDEXIS RENOVABLES",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f5c1cb6863",
+   "b": "REDEXIS INFRAESTRUCTURAS",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-09-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f5c1cb6863",
+   "b": "REDEXIS RENOVABLES",
+   "detalle": "Apoderado",
+   "fecha": "2026-09-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-28"
+  },
   {
    "tipo": "persona",
    "a": "PF-bda05ddd1b",
