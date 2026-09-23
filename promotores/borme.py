@@ -43,7 +43,7 @@ def sal() -> bytes:
     if _sal is None:
         import os
         if os.environ.get("GRAFO_SAL"):
-            _sal = os.environ["GRAFO_SAL"].encode()
+            _sal = os.environ["GRAFO_SAL"].strip().encode()
         elif SAL_PATH.exists():
             _sal = SAL_PATH.read_bytes().strip()
         else:
