@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+# Descargas en bruto (BOE y BORME): se regeneran y el BORME en bruto contiene nombres de personas físicas
+data/cache/
+# Sal secreta para seudonimizar personas físicas: nunca en el repositorio (en Actions va como secreto GRAFO_SAL)
+data/.sal
+*.log
