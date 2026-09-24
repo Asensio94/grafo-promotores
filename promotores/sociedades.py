@@ -48,6 +48,24 @@ def clave(nombre: str) -> str:
     return s
 
 
+_TRAS_FORMA = re.compile(r"\b(S\.?\s?L\.?\s?U\.?|S\.?\s?A\.?\s?U\.?|S\.?\s?L\.?|S\.?\s?A\.?)(?=\s+[A-Z0-9])")
+
+
+_SOLO_FORMA = re.compile(r"(?:S\.?\s?[LA]\.?(?:\s?U\.?)?|SOCIEDAD\s+(?:LIMITADA|ANONIMA|ANÓNIMA)(?:\s+UNIPERSONAL)?)$", re.I)
+
+
+def partir_denominaciones(lista: str) -> list[str]:
+    """«ACERVATIN CONSTRUCCIONES SL ARCIS 2009 SL DESARROLLOS REGIS SOL SL» → tres sociedades. El BORME separa
+    las absorbidas con comas o punto y coma, pero a veces solo con la forma jurídica."""
+    trozos: list[str] = []
+    for n in re.split(r"[;,]\s*(?=[A-Z0-9])", lista):
+        if trozos and _SOLO_FORMA.match(n.strip(" .")):
+            trozos[-1] += ", " + n  # «AMDA ENERGIA, S.L.»: la coma separa la forma, no otra sociedad
+            continue
+        trozos += _TRAS_FORMA.sub(lambda m: m.group(1) + "|", n).split("|")
+    return [n.strip(" .") for n in trozos if len(n.strip(" .")) > 2 and not _SOLO_FORMA.match(n.strip(" ."))]
+
+
 def forma(nombre: str) -> str:
     s = re.sub(r"[.,]", " ", sin_acentos(nombre).upper())
     s = re.sub(r"\s+", " ", s).strip()

@@ -14,9 +14,22 @@ Web: <https://asensio94.github.io/grafo-promotores/> · se rehace cada día con 
 2. **BORME** (sección A). Lee cada día todas las inscripciones y guarda las de sociedades del sector o ya presentes
    en el grafo: constitución, socio único, nombramientos, ceses y revocaciones de administradores y apoderados,
    fusiones y cambios de denominación o de domicilio.
-3. **Grafo**. Une sociedades en *grupos empresariales* cuando comparten socio único, administrador o apoderado,
-   domicilio, o se han fusionado. Une instalaciones en *conjuntos* cuando aparecen en el mismo anuncio, evacuan por
-   la misma subestación colectora o están en el mismo municipio con titulares del mismo grupo.
+3. **Grafo**. Agrupa sociedades en *grupos empresariales*, y lo que manda es la propiedad:
+   - **Núcleos**: el socio único vigente, sea sociedad o persona, y las fusiones. Cuenta la última declaración de
+     socio único inscrita, incluido el «cambio de identidad del socio único» con que se inscribe la venta de una SPV,
+     hasta que la sociedad pierde la unipersonalidad.
+   - **Uniones débiles**: administradores personales, parejas de apoderados (3 o más sociedades en común) y un
+     domicilio social idéntico con número. Solo cuelgan de un núcleo las sociedades sin dueño conocido. Dos núcleos
+     distintos se unen solo con al menos dos vínculos independientes.
+   - **Vigencia**: un cargo cuenta si su último acto es un nombramiento o una reelección. Los extinguidos se muestran
+     como históricos y no unen.
+   - **No unen**: las AIE, las UTE y las sociedades con varios socios de control, que son infraestructura
+     compartida de evacuación. Tampoco unen las gestoras que administran más de 40 sociedades ajenas, las personas
+     con más de 40 sociedades ni los domicilios con más de 8.
+
+   Une instalaciones en *conjuntos* cuando aparecen en el mismo anuncio, evacuan por la misma subestación colectora
+   con titulares del mismo grupo, o están en el mismo municipio con titulares del mismo núcleo o con una persona en
+   común. Dos parques con el mismo nombre se distinguen por su titular o su provincia.
 4. **Indicios**. En cada conjunto mide:
 
 | Señal | Peso | Qué mide |
@@ -47,8 +60,8 @@ calendario. Cada indicio enlaza a los actos del BOE y a las inscripciones del BO
   Los nombres que aparecen en texto libre del BORME («Otros conceptos») también se seudonimizan.
 - No se recogen NIF de personas físicas ni domicilios particulares; solo NIF y domicilios sociales de personas
   jurídicas publicados en el BOE.
-- Los apoderados que comparten más de 40 sociedades y los domicilios que comparten más de 25 se tratan como
-  despachos o centros de negocios: se listan, pero no unen grupos.
+- Las personas con cargos en más de 40 sociedades, las gestoras profesionales y los domicilios que comparten
+  más de 8 sociedades se tratan como despachos o centros de negocios: se listan, pero no unen grupos.
 - Si apareces en el grafo y crees que hay un error, abre una incidencia.
 
 ## Uso

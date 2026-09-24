@@ -186,6 +186,7 @@ _ACTOS = [
 _ACTOS_RE = re.compile(
     r"(?:(?<=^)|(?<=\.\s)|(?<=\.))\s*(" + "|".join(re.escape(a) for a in sorted(_ACTOS, key=len, reverse=True)) + r")(?=[.:]|\s)",
 )
+_UNIPERSONAL = {"Sociedad unipersonal", "Declaración de unipersonalidad", "Unipersonalidad"}
 _CON_CARGOS = {"Nombramientos", "Ceses/Dimisiones", "Revocaciones", "Reelecciones", "Cancelaciones de oficio de nombramientos"}
 _CARGO_RE = re.compile(r"(?:(?<=^)|(?<=\.\s)|(?<=\.))\s*([A-Z][A-Za-zÁÉÍÓÚáéíóúñ\./ ]{0,24}?\.?)\s*:\s")
 _SUBCAMPO_RE = re.compile(r"\b(Comienzo de operaciones|Objeto social|Domicilio|Capital|Duración|Resultante Suscrito|Suscrito|Desembolsado|Resultante Desembolsado)\s*:\s*")
@@ -256,6 +257,11 @@ def analizar(texto: str) -> list[dict]:
                                     "sujetos": _sujetos(base[c.end():cfin].strip(" ."))})
         elif tipo == "Socio único":
             a["sujetos"] = _sujetos(cuerpo)
+        elif tipo in _UNIPERSONAL:
+            # «Sociedad unipersonal. Cambio de identidad del socio único: X»: así se inscribe la venta de una SPV
+            m = re.search(r"socio [úu]nico\s*:\s*(.+)", cuerpo, re.I)
+            if m:
+                a["sujetos"] = _sujetos(m.group(1))
         elif tipo == "Constitución":
             sc = _subcampos(cuerpo)
             a.update({k: v for k, v in {
@@ -273,8 +279,7 @@ def analizar(texto: str) -> list[dict]:
             partes = re.split(r":\s*", cuerpo, maxsplit=1)
             lista = partes[1] if len(partes) == 2 else cuerpo
             a["detalle"] = partes[0][:80] if len(partes) == 2 else ""
-            a["sociedades"] = [{"nombre": n.strip(" ."), "clave": so.clave(n)} for n in re.split(r"[;,]\s*(?=[A-Z0-9])", lista)
-                               if len(n.strip(" .")) > 2][:20]
+            a["sociedades"] = [{"nombre": n, "clave": so.clave(n)} for n in so.partir_denominaciones(lista)][:20]
         elif tipo in ("Ampliación de capital", "Reducción de capital"):
             sc = _subcampos(cuerpo)
             a.update({k: v for k, v in {"capital": sc.get("Capital", ""), "suscrito": sc.get("Resultante Suscrito", "")}.items() if v})
