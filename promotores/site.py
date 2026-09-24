@@ -11,6 +11,11 @@ from .config import DOCS_DIR
 _BOE = "https://www.boe.es/diario_boe/txt.php?id={}"
 
 
+# primero lo que forma el grupo (propiedad), luego lo que solo cuelga sociedades de él, y al final lo histórico
+ORDEN_EV = {"control": 0, "participa": 1, "fusion": 2, "administra": 3, "gestion": 4, "persona": 5, "domicilio": 6,
+            "historico": 8}
+
+
 def _datos(g: dict) -> dict:
     inst, socs = g["instalaciones"], g["sociedades"]
 
@@ -64,7 +69,7 @@ def _datos(g: dict) -> dict:
         grupos.append({"id": gr["id"], "sociedades": [{"nombre": nombre_soc(k), "en_boe": socs[k]["en_boe"],
                                                          "actos": len(socs[k]["actos_boe"]), "borme": len(socs[k]["borme"])}
                                                         for k in ks],
-                       "evidencias": sorted(evs, key=lambda e: (e["tipo"] != "control", e["tipo"], -len(e["b"]), e["a"]))[:60]})
+                       "evidencias": sorted(evs, key=lambda e: (ORDEN_EV.get(e["tipo"], 9), -len(e["b"]), e["a"]))[:60]})
     return {"generado": g["generado"], "umbral": g["umbral_mw"], "resumen": g["resumen"], "indicios": indicios,
             "grupos": grupos, "servicio": g["nodos_servicio"]}
 
@@ -198,7 +203,8 @@ footer p{margin:0;max-width:85ch}
   <div class="nota">
     <p>Cada día se leen los sumarios del BOE (secciones III y V-B) y se extraen los actos de proyectos de generación, almacenamiento y evacuación: titular, potencia de cada instalación, subestaciones, expedientes y municipios. Del BORME (sección A) se guardan las inscripciones de sociedades del sector o ya presentes en el grafo.</p>
     <p>Señales medidas en cada conjunto: suma por encima de 50&nbsp;MW sin que ninguna instalación lo supere; potencias entre 46 y 50&nbsp;MW; potencias idénticas; expedientes con numeración seguida; tramitación conjunta o acumulación reconocida por la Administración; sociedades titulares distintas pero vinculadas; y subestación colectora compartida. Los nudos de la red de transporte no cuentan como vínculo, porque los comparten promotores ajenos entre sí.</p>
-    <p>Las personas físicas nunca se publican con su nombre ni se guardan en el repositorio. Su seudónimo es un HMAC-SHA256 con una clave secreta que no se publica. No se recogen NIF de personas físicas. Los apoderados o domicilios que comparten más de 40 o 25 sociedades se tratan como despachos o centros de negocios y no unen grupos.</p>
+    <p>Las personas físicas nunca se publican con su nombre ni se guardan en el repositorio. Su seudónimo es un HMAC-SHA256 con una clave secreta que no se publica. No se recogen NIF de personas físicas.</p>
+    <p>Cómo se forma un grupo: manda la propiedad. Un grupo nace de las declaraciones de socio único vigentes (la última inscrita, hasta que se pierde la unipersonalidad) y de las fusiones. Administradores y apoderados en común y domicilios compartidos solo cuelgan de un grupo las sociedades sin dueño conocido; para unir dos grupos con dueño distinto hacen falta al menos dos vínculos independientes. Solo cuentan los cargos vigentes: un cese o una revocación posteriores los anulan. Las agrupaciones de interés económico, las UTE y las sociedades con varios socios de control son infraestructura compartida y no unen a sus socios. Las gestoras que administran decenas de sociedades ajenas, las personas con más de 40 sociedades y los domicilios con más de 8 se tratan como servicio profesional.</p>
     <p>Límites: la extracción es automática y puede fallar con redacciones atípicas; el BORME no tiene búsqueda por nombre, así que un vínculo anterior al periodo leído no aparece. Si detectas un error, abre una incidencia en el repositorio.</p>
   </div>
 </main>
@@ -218,7 +224,9 @@ footer p{margin:0;max-width:85ch}
   var ACTOS = {informacion_publica:"información pública", autorizacion:"autorización", utilidad_publica:"utilidad pública",
     evaluacion_ambiental:"evaluación ambiental", desistimiento:"desistimiento", desestimacion:"desestimación",
     correccion:"corrección", caducidad:"caducidad", expropiacion:"expropiación", otro:"otro"};
-  var TIPO_EV = {persona:"Persona en común", control:"Control societario", domicilio:"Domicilio compartido", fusion:"Fusión o escisión"};
+  var TIPO_EV = {persona:"Persona en común", control:"Socio único", participa:"Participación sin control exclusivo",
+    administra:"Administra la sociedad", gestion:"Gestora profesional", domicilio:"Domicilio compartido",
+    fusion:"Fusión o escisión", historico:"Vínculo ya extinguido"};
   function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
   function mw(x){return x==null?"—":x.toLocaleString("es-ES",{maximumFractionDigits:3})+" MW"}
   function fecha(s){if(!s)return"";var p=s.split("-");return p[2]+"/"+p[1]+"/"+p[0]}
@@ -290,7 +298,10 @@ footer p{margin:0;max-width:85ch}
   }).join("") : '<p class="vacio">Todavía no hay grupos con más de una sociedad.</p>';
 
   if (D.servicio && D.servicio.length) document.getElementById("servicio").textContent =
-    D.servicio.length+" apoderados o domicilios compartidos por muchas sociedades se tratan como nodos de servicio y no unen grupos.";
+    (function(){var n={};D.servicio.forEach(function(h){n[h.tipo]=(n[h.tipo]||0)+1});
+      return "No unen grupos: "+[[n.persona,"personas con cargos en muchas sociedades"],[n.sociedad,"gestoras profesionales"],
+        [n.domicilio,"domicilios de despacho"],[n.conjunta,"sociedades conjuntas (AIE, UTE o varios socios de control)"]]
+        .filter(function(x){return x[0]}).map(function(x){return x[0].toLocaleString("es-ES")+" "+x[1]}).join(", ")+".";})();
 })();
 </script>
 </body>

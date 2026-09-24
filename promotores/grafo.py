@@ -22,14 +22,70 @@ from collections import Counter, defaultdict
 from datetime import date
 from itertools import combinations
 
-from . import sociedades as so
+from . import borme, sociedades as so
 from .config import GRAFO_PATH, MARGEN_BAJO_UMBRAL, UMBRAL_COMPETENCIA_MW
 
-# Un apoderado o un domicilio compartido por más sociedades que esto suele ser un despacho o un centro de
-# negocios: se publica, pero no se usa para unir grupos.
+# Una persona, una sociedad administradora o un domicilio compartidos por más sociedades que esto suelen ser
+# un despacho, una gestora de servicios societarios o un centro de negocios: se publican, pero no unen grupos.
 HUB_PERSONA = 40
-HUB_DOMICILIO = 25
+HUB_PJ = 40
+HUB_DOMICILIO = 8
+# Un apoderado en común no basta: los de bancos y grandes grupos percolan todo el grafo. Se exige que dos
+# sociedades compartan al menos este número de apoderados (o un administrador, o el socio único).
+MIN_APODERADOS_COMUNES = 3
+# y solo cuentan los apoderados y consejeros con pocas sociedades: los de un despacho o un banco van en pareja
+# a decenas de sociedades de grupos distintos
+HUB_DEBIL = 10
 _MUNICIPIOS_RUIDO = {"Polígono", "Parcela", "Paraje"}
+
+# Cargos profesionales que no indican control: secretarios no consejeros, liquidadores, gestoras, auditores.
+_CARGO_NEUTRO = re.compile(r"SECRE|SECR|VSEC|LIQ|GESTORA|AUDIT|DEPOSIT|SOCPROF", re.I)
+
+
+def fuerza(rol: str, cargo: str) -> str:
+    """socio > admin > apoderado > neutro, según lo que el cargo dice sobre quién controla la sociedad."""
+    if rol == "socio":
+        return "socio"
+    if _CARGO_NEUTRO.search(re.sub(r"[^A-Za-z]", "", so.sin_acentos(cargo))):
+        return "neutro"
+    if rol != "admin":
+        return "apoderado"
+    # administrador único, solidario o mancomunado frente a consejero, presidente o consejero delegado: un
+    # consejero puede sentarse en consejos de grupos distintos, un administrador rara vez
+    return "admin" if so.sin_acentos(cargo).upper().startswith("ADM") else "consejo"
+
+
+_CONJUNTA = re.compile(r"\b(?:AIE|A I E|UTE|AGRUPACION DE INTERES ECONOMICO|UNION TEMPORAL)\b")
+_ALTA = {"Nombramientos", "Reelecciones"}
+_BAJA = {"Ceses/Dimisiones", "Revocaciones", "Cancelaciones de oficio de nombramientos"}
+
+
+def marca_vigencia(vinculos: dict[str, list[dict]], fin_unipersonal: dict[str, list[tuple]]) -> None:
+    """Pone v["vigente"]: un cargo sigue en vigor si su último acto es un nombramiento o reelección; un socio
+    único, si es el último declarado y la sociedad no ha perdido después la unipersonalidad."""
+    eventos = sorted(((v["orden"], 0 if v["acto"] in _BAJA else 1, sj, v) for sj, vs in vinculos.items() for v in vs),
+                     key=lambda e: (e[0], e[1]))
+    cargo_en_vigor: dict[tuple, bool] = {}
+    socio_actual: dict[str, tuple] = {}  # sociedad → (orden, {sujetos})
+    for orden, _, sj, v in eventos:
+        if v["rol"] == "socio":
+            previo = socio_actual.get(v["soc"])
+            if previo is None or orden > previo[0]:
+                socio_actual[v["soc"]] = (orden, {sj})
+            else:
+                previo[1].add(sj)
+        else:
+            cargo_en_vigor[(sj, v["soc"], v["cargo"])] = v["acto"] in _ALTA
+    for k, fines in fin_unipersonal.items():
+        if k in socio_actual and max(fines) > socio_actual[k][0]:
+            socio_actual[k] = (max(fines), set())
+    for sj, vs in vinculos.items():
+        for v in vs:
+            if v["rol"] == "socio":
+                suj = socio_actual[v["soc"]][1]
+                v["vigente"] = sj in suj
+            else:
+                v["vigente"] = v["acto"] in _ALTA and cargo_en_vigor[(sj, v["soc"], v["cargo"])]
 
 
 class UF:
@@ -161,6 +217,7 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
 
     # ---- BORME: personas y sociedades relacionadas
     vinculos_persona: dict[str, list[dict]] = defaultdict(list)  # sujeto → [{soc, rol, cargo, fecha, url}]
+    fin_unipersonal: dict[str, list[tuple]] = defaultdict(list)  # sociedad → [(fecha, num)] en que deja de tener socio único
     for ins in inscripciones:
         k = sid(ins["clave"], es_clave=True)
         d = soc(k, ins["sociedad"])
@@ -173,7 +230,8 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
             if a["tipo"] == "Cambio de domicilio social" and a.get("domicilio") and a["domicilio"] not in d["domicilios"]:
                 d["domicilios"].append(a["domicilio"])
             grupos_suj = []
-            if a["tipo"] == "Socio único":
+            if a["tipo"] == "Socio único" or (a["tipo"] in borme._UNIPERSONAL and a.get("sujetos")):
+                # el cambio de identidad del socio único se inscribe como «Sociedad unipersonal»: es la venta de la SPV
                 grupos_suj.append(("socio", "Socio único", a.get("sujetos", [])))
             for c in a.get("cargos", []):
                 if c.get("clase") in ("admin", "apoderado"):
@@ -184,48 +242,140 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
                     if s["tipo"] == "PJ":
                         soc(sid(s["clave"], es_clave=True), s["nombre"])
                     vinculos_persona[sj].append({"soc": k, "rol": rol, "cargo": cargo, "acto": a["tipo"],
-                                                 "fecha": ins["fecha"], "url": url})
+                                                 "fecha": ins["fecha"], "orden": (ins["fecha"], ins["num"]),
+                                                 "url": url})
+            if a["tipo"].startswith("Pérdida del car"):
+                fin_unipersonal[k].append((ins["fecha"], ins["num"]))
             if a["tipo"].startswith(("Fusión", "Escisión", "Segregación", "Cesión global")):
-                for o in a.get("sociedades", []):
+                # las inscripciones antiguas guardan a veces varias absorbidas en un solo nombre
+                for n in [n for o in a.get("sociedades", []) for n in so.partir_denominaciones(o["nombre"])]:
+                    o = {"nombre": n, "clave": so.clave(n)}
                     ko = sid(o["clave"], es_clave=True)
                     if ko and ko != k:
                         soc(ko, o["nombre"])
                         evidencias.append({"tipo": "fusion", "a": k, "b": ko, "detalle": a["tipo"],
                                            "fecha": ins["fecha"], "url": url})
 
-    grupo = UF()
-    for k in socs:
-        grupo.find(k)
+    marca_vigencia(vinculos_persona, fin_unipersonal)
 
-    # personas o sociedades que administran / apoderan / son socio único de varias sociedades
+    # La propiedad decide el grupo. Los núcleos se forman por socio único (sociedad o persona), por la sociedad
+    # matriz que administra a sus filiales y por fusión. Administradores personales, apoderados y domicilios
+    # compartidos son uniones débiles: sirven para colgar de un núcleo las sociedades sin dueño societario
+    # conocido, pero nunca funden dos núcleos distintos. Un administrador profesional que se sienta a la vez en
+    # SPV de Enel, FRV y Arena, o dos grupos con oficina en la misma torre, no los hacen el mismo grupo.
+    nucleo = UF()
+    persona_fuerte: dict[str, set[str]] = defaultdict(set)  # sociedad → socios únicos y administradores PF
+    debiles: list[tuple[str, str, str]] = []  # (sociedad, sociedad, motivo) para colgar sociedades sin núcleo
+    fuentes: list[tuple[str, set[str]]] = []  # (fuente, sociedades que enlaza) para fundir núcleos
+
+    # personas o sociedades que administran / apoderan / son socio único de varias sociedades. Solo unen los
+    # vínculos en vigor: las SPV se venden a menudo y, sumando cinco años de historia, cada venta encadena al
+    # vendedor con el comprador hasta fundir el sector entero en un solo grupo. Los ceses quedan como evidencia.
     hubs = []
+    apoderados_de: dict[str, set[str]] = defaultdict(set)  # sociedad → apoderados no hub (para exigir dos)
+    for vs in vinculos_persona.values():
+        for v in vs:
+            v["fuerza"] = fuerza(v["rol"], v["cargo"])
+    # sociedades conjuntas: una AIE o UTE, o una sociedad con dos o más sociedades administradoras o socias en
+    # vigor, suele ser la infraestructura común de varios promotores (subestación, línea de evacuación). Es un
+    # indicio de nudo compartido, pero no hace del mismo grupo a quienes participan en ella.
+    controladoras: dict[str, set[str]] = defaultdict(set)
     for sj, vs in vinculos_persona.items():
-        ks = sorted({v["soc"] for v in vs})
         if sj.startswith("PJ:"):
-            # una persona jurídica que administra o es socio único de otra: control directo
+            for v in vs:
+                if v["vigente"] and v["fuerza"] in ("socio", "admin", "consejo"):
+                    controladoras[v["soc"]].add(sj)
+    conjuntas = {k for k in socs if _CONJUNTA.search(k)} | {k for k, c in controladoras.items() if len(c) >= 2}
+    for k in sorted(conjuntas):
+        hubs.append({"tipo": "conjunta", "id": k, "sociedades": len(controladoras.get(k, ()))})
+    for sj, vs in vinculos_persona.items():
+        for v in vs:
+            if v["fuerza"] != "neutro" and not v["vigente"] and v["acto"] in _ALTA:
+                continue  # el nombramiento ya se ha cesado: lo documenta el propio cese
+            if v["fuerza"] != "neutro" and not v["vigente"]:
+                evidencias.append({"tipo": "historico", "a": sj[3:] if sj.startswith("PJ:") else sj, "b": v["soc"],
+                                   "detalle": f'{v["acto"]}: {v["cargo"]}', "fecha": v["fecha"], "url": v["url"]})
+        vs = [v for v in vs if v["fuerza"] != "neutro" and v["vigente"]]
+        ks = sorted({v["soc"] for v in vs})
+        if not ks:
+            continue
+        por_soc = {k: [v for v in vs if v["soc"] == k] for k in ks}
+        # una sociedad que administra otra, como administradora o como consejera, la controla; una persona
+        # física solo une por sí sola si es socio único o administradora
+        fuertes_pj = ("socio", "admin", "consejo") if sj.startswith("PJ:") else ("socio", "admin")
+        fuertes = {k for k in ks if any(v["fuerza"] in fuertes_pj for v in por_soc[k])}
+        socio = {k for k in ks if any(v["fuerza"] == "socio" for v in por_soc[k])}
+        if sj.startswith("PJ:"):
+            # una sociedad que es socio único de otra la controla; si solo la administra, se exige que no sea
+            # una gestora que administra decenas de sociedades ajenas
+            # una sociedad que administra varias sin ser socia de ninguna es una gestora de servicios societarios
+            gestora = len(fuertes - socio) > HUB_PJ or (not socio and len(fuertes) >= 3)
+            if gestora:
+                hubs.append({"tipo": "sociedad", "id": sj[3:], "sociedades": len(fuertes - socio)})
+            # solo la propiedad forma núcleo; administrar sin ser socia es un vínculo débil (lo que hacen las
+            # gestoras de fondos, que administran SPV ajenas)
+            administradas = sorted(fuertes - socio - conjuntas) if not gestora else []
+            debiles += [(sj[3:], k, f"administradora {sj[3:]}") for k in administradas]
+            if administradas:
+                fuentes.append((f"administradora {sj[3:]}", set(administradas) | {sj[3:]}))
             for k in ks:
-                evidencias.append({"tipo": "control", "a": sj[3:], "b": k,
-                                   "detalle": ", ".join(sorted({v["cargo"] for v in vs if v["soc"] == k})),
-                                   "fecha": max(v["fecha"] for v in vs if v["soc"] == k),
-                                   "url": next(v["url"] for v in vs if v["soc"] == k)})
-                grupo.union(sj[3:], k)
+                une = k not in conjuntas and k in socio
+                tipo = ("control" if une else "participa" if k in conjuntas
+                        else "administra" if k in administradas else "gestion")
+                evidencias.append({"tipo": tipo, "a": sj[3:], "b": k,
+                                   "detalle": ", ".join(sorted({v["cargo"] for v in por_soc[k]})),
+                                   "fecha": max(v["fecha"] for v in por_soc[k]), "url": por_soc[k][0]["url"]})
+                if une:
+                    nucleo.union(sj[3:], k)
             continue
         if len(ks) < 2:
             continue
         if len(ks) > HUB_PERSONA:
             hubs.append({"tipo": "persona", "id": sj, "sociedades": len(ks)})
             continue
-        for a, b in zip(ks, ks[1:]):
-            grupo.union(a, b)
+        fuertes = sorted(fuertes - conjuntas)
+        for k in fuertes:
+            persona_fuerte[k].add(sj)
+        propias = sorted(socio - conjuntas)  # la misma persona es socio único: el mismo dueño
+        for a, b in zip(propias, propias[1:]):
+            nucleo.union(a, b)
+        debiles += [(a, b, f"administrador {sj}") for a, b in zip(fuertes, fuertes[1:])]
+        if len(fuertes) >= 2:
+            fuentes.append((f"persona {sj}", set(fuertes)))
         for k in ks:
-            v = next(v for v in vs if v["soc"] == k)
+            if k not in fuertes and k not in conjuntas and len(ks) <= HUB_DEBIL:
+                apoderados_de[k].add(sj)
             evidencias.append({"tipo": "persona", "a": sj, "b": k,
-                               "detalle": ", ".join(sorted({x["cargo"] for x in vs if x["soc"] == k})),
-                               "fecha": v["fecha"], "url": v["url"]})
+                               "detalle": ", ".join(sorted({x["cargo"] for x in por_soc[k]})),
+                               "fecha": por_soc[k][0]["fecha"], "url": por_soc[k][0]["url"]})
+    # apoderados: dos sociedades se unen si comparten al menos MIN_APODERADOS_COMUNES
+    socs_de_apoderado: dict[str, list[str]] = defaultdict(list)
+    for k, pfs in apoderados_de.items():
+        for pf in pfs:
+            socs_de_apoderado[pf].append(k)
+    comunes: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for pf, ks in socs_de_apoderado.items():
+        for a, b in combinations(sorted(ks), 2):
+            comunes[(a, b)].add(pf)
+    # la fuente es el equipo de apoderados, no la pareja de sociedades: el mismo equipo repetido en diez
+    # sociedades es un solo vínculo, no diez independientes; dos equipos que comparten a alguien, tampoco
+    equipos = UF()
+    for pfs in comunes.values():
+        if len(pfs) >= MIN_APODERADOS_COMUNES:
+            primero, *resto = sorted(pfs)
+            for pf in resto:
+                equipos.union(primero, pf)
+    for (a, b), pfs in comunes.items():
+        if len(pfs) >= MIN_APODERADOS_COMUNES:
+            debiles.append((a, b, f"{len(pfs)} apoderados o consejeros comunes"))
+            fuentes.append((f"apoderados {equipos.find(min(pfs))}", {a, b}))
+    # un administrador que además está en un equipo de apoderados es la misma fuente que ese equipo
+    fuentes = [(f"apoderados {equipos.find(f[8:])}" if f.startswith("persona ") and f[8:] in equipos.p else f, ks)
+               for f, ks in fuentes]
 
     for e in evidencias:
         if e["tipo"] == "fusion":
-            grupo.union(e["a"], e["b"])
+            nucleo.union(e["a"], e["b"])
 
     # domicilio compartido (por código postal para no comparar todo con todo)
     por_cp = defaultdict(list)
@@ -235,19 +385,56 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
             if partes["cp"]:
                 por_cp[partes["cp"]].append((k, partes, dom))
     for cp, lista in por_cp.items():
-        pares = [(a, b) for a, b in combinations(lista, 2) if a[0] != b[0] and so.mismo_domicilio(a[1], b[1])]
-        implicadas = {x for a, b in pares for x in (a[0], b[0])}
-        if len(implicadas) > HUB_DOMICILIO:
-            hubs.append({"tipo": "domicilio", "id": lista[0][2], "sociedades": len(implicadas)})
-            continue
+        # sin número de portal no se sabe si es el mismo edificio; el umbral se aplica a cada dirección, no al
+        # código postal entero
+        pares = [(a, b) for a, b in combinations(lista, 2) if a[0] != b[0] and a[1]["num"] and b[1]["num"]
+                 and so.mismo_domicilio(a[1], b[1])]
+        direccion = UF()
         for a, b in pares:
-            grupo.union(a[0], b[0])
-            evidencias.append({"tipo": "domicilio", "a": a[0], "b": b[0], "detalle": a[2], "fecha": "", "url": ""})
+            direccion.union(a[0], b[0])
+        tam = Counter(direccion.find(k) for k in {x[0] for a, b in pares for x in (a, b)})
+        for raiz, n in tam.items():
+            if n > HUB_DOMICILIO:
+                dom = next(a[2] for a, b in pares if direccion.find(a[0]) == raiz)
+                hubs.append({"tipo": "domicilio", "id": dom, "sociedades": n})
+        por_direccion = defaultdict(set)
+        for a, b in pares:
+            if tam[direccion.find(a[0])] <= HUB_DOMICILIO:
+                por_direccion[direccion.find(a[0])] |= {a[0], b[0]}
+        fuentes += [(f"domicilio {cp} {r}", ks) for r, ks in por_direccion.items()]
+        for a, b in pares:
+            if tam[direccion.find(a[0])] <= HUB_DOMICILIO:  # los centros de negocios quedan solo como nodo
+                debiles.append((a[0], b[0], "domicilio"))
+                evidencias.append({"tipo": "domicilio", "a": a[0], "b": b[0], "detalle": a[2], "fecha": "", "url": ""})
+
+    grupo = UF()
+    for k in socs:
+        grupo.union(nucleo.find(k), k)
+    tam_nucleo = Counter(nucleo.find(k) for k in socs)
+    anclado = {k: nucleo.find(k) for k in socs if tam_nucleo[nucleo.find(k)] >= 2}
+    # dos núcleos se funden si los enlazan al menos dos fuentes independientes (dos personas, una persona y un
+    # domicilio…): así Green Capital Power y sus Green Capital Development, sí; Enel y FRV por un consejero
+    # profesional que se sienta en ambas, no
+    enlaces: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for fuente, ks in fuentes:
+        for x, y in combinations(sorted({anclado[k] for k in ks if k in anclado}), 2):
+            enlaces[(x, y)].add(fuente)
+    for (x, y), fs in enlaces.items():
+        if len(fs) >= 2:
+            grupo.union(x, y)
+    ancla = {grupo.find(k): True for k in anclado}
+    for a, b, motivo in debiles:
+        ra, rb = grupo.find(a), grupo.find(b)
+        if ra == rb or (ancla.get(ra) and ancla.get(rb)):  # ya juntas, o serían dos núcleos distintos
+            continue
+        grupo.union(a, b)
+        ancla[grupo.find(a)] = ancla.get(ra) or ancla.get(rb) or False
 
     # ---- instalaciones
     inst: dict[str, dict] = {}
     por_acto: dict[str, list[str]] = {}
     nombres_sub: dict[str, str] = {}
+    homonimas: dict[str, list[str]] = defaultdict(list)  # clave del nombre → instalaciones distintas con ese nombre
     for p in sorted(proyectos, key=lambda p: p["fecha"]):
         tits = [sid(t) for t in p["titulares"] if so.clave(t)]
         exps = [clave_expediente(e) for e in p.get("expedientes", [])]
@@ -256,10 +443,20 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
             nombres_sub.setdefault(s["clave"], f"{s['nombre']} ({s['kv']} kV)" if s.get("kv") else s["nombre"])
         munis = [m for m in p.get("municipios", []) if m not in _MUNICIPIOS_RUIDO]
         ids = []
+        provs = p.get("provincias", [])
         for i in p["instalaciones"]:
-            ki = clave_instalacion(i["nombre"])
-            if not ki:
+            base = clave_instalacion(i["nombre"])
+            if not base:
                 continue
+            # el mismo nombre con otro titular y en otra provincia es otra instalación («El Escudo» de Campoo y
+            # «Escudo» de Huesca); sin titular ni provincia no hay con qué distinguirlas y se toma la primera
+            ki = next((x for x in homonimas[base] if (not tits and not provs)
+                       or set(inst[x]["titulares"]) & set(tits) or set(inst[x]["provincias"]) & set(provs)), None)
+            if ki is None:
+                ki = base if not homonimas[base] else f"{base} ({provs[0] if provs else len(homonimas[base]) + 1})"
+                while ki in inst:
+                    ki += "*"
+                homonimas[base].append(ki)
             d = inst.setdefault(ki, {"id": ki, "nombres": [], "mw": None, "tecnologias": [], "titulares": [],
                                      "expedientes": [], "acumulacion": False, "colectoras": [], "municipios": [],
                                      "provincias": [], "actos": [], "primera": p["fecha"], "ultima": p["fecha"]})
@@ -288,6 +485,14 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
         gb = {grupo_de.get(t, t) for t in b["titulares"]}
         return bool(ga & gb)
 
+    def relacion_directa(a: dict, b: dict) -> bool:
+        """Mismo titular, mismo núcleo de control o un socio único o administrador en común. El grupo por
+        cadenas de terceros es demasiado amplio para juntar dos instalaciones solo por estar en el mismo término."""
+        if {nucleo.find(t) for t in a["titulares"]} & {nucleo.find(t) for t in b["titulares"]}:
+            return True
+        pa = set().union(*(persona_fuerte.get(t, set()) for t in a["titulares"]))
+        return bool(pa & set().union(*(persona_fuerte.get(t, set()) for t in b["titulares"])))
+
     conj = UF()
     motivos: dict[tuple[str, str], set[str]] = defaultdict(set)
     for k in inst:
@@ -302,10 +507,11 @@ def construir(proyectos: list[dict], inscripciones: list[dict]) -> dict:
             por_col[c].append(k)
         for m in d["municipios"]:
             por_muni[m].append(k)
-    for etiqueta, indice in (("misma subestación colectora", por_col), ("mismo municipio", por_muni)):
+    for etiqueta, indice, relacion in (("misma subestación colectora", por_col, mismo_grupo),
+                                       ("mismo municipio", por_muni, relacion_directa)):
         for _, ks in indice.items():
             for a, b in combinations(sorted(set(ks)), 2):
-                if mismo_grupo(inst[a], inst[b]):
+                if relacion(inst[a], inst[b]):
                     conj.union(a, b)
                     motivos[(a, b)].add(etiqueta)
 
