@@ -8,6 +8,7 @@ from pathlib import Path
 
 from . import grafo
 from .config import DOCS_DIR
+from .logo import LOGO_SVG, favicon_link
 
 _BOE = "https://www.boe.es/diario_boe/txt.php?id={}"
 
@@ -96,7 +97,9 @@ def _figures_html(summary: dict) -> str:
 def generar(out_dir: Path = DOCS_DIR) -> None:
     g = grafo.cargar()
     datos = json.dumps(_datos(g), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    html = (_PLANTILLA.replace("__COMMON_CSS__", COMMON_CSS.read_text(encoding="utf-8").strip())
+    html = (_PLANTILLA.replace("__LOGO__", LOGO_SVG)
+            .replace("__FAVICON__", favicon_link("#6b3fa0", "#b08ce0"))
+            .replace("__COMMON_CSS__", COMMON_CSS.read_text(encoding="utf-8").strip())
             .replace("__CIFRAS__", _figures_html(g["resumen"]))
             .replace("__FECHA__", date.fromisoformat(g["generado"]).strftime("%d/%m/%Y"))
             .replace("__DATOS__", datos))  # data last, so its text is never scanned for placeholders
@@ -110,6 +113,7 @@ _PLANTILLA = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+__FAVICON__
 <title>Grafo de promotores</title>
 <meta name="description" content="Quién está detrás de cada proyecto energético publicado en el BOE y qué conjuntos de instalaciones muestran indicios de fraccionamiento.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -187,7 +191,7 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
 <body>
 <header class="site-header">
   <span class="badge">BOE · BORME · actualizado <span class="data">__FECHA__</span></span>
-  <h1>Grafo de <span>promotores</span></h1>
+  <h1>__LOGO__Grafo de <span>promotores</span></h1>
   <p class="lede">Quién está detrás de cada proyecto energético publicado en el BOE, qué sociedades comparten administradores, apoderados, socio único o domicilio según el BORME, y qué conjuntos de instalaciones muestran indicios de fraccionamiento alrededor del umbral de 50&nbsp;MW.</p>
   <div class="figures">__CIFRAS__</div>
   <nav class="saltos" aria-label="En esta página"><a href="#indicios">Indicios</a><a href="#grupos">Grupos empresariales</a><a href="#metodo">Cómo se calcula</a><a href="https://github.com/Asensio94/grafo-promotores">Código y datos</a></nav>
