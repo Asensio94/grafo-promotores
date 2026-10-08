@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 from datetime import date
+from pathlib import Path
 
 from . import grafo
 from .config import DOCS_DIR
@@ -74,12 +75,34 @@ def _datos(g: dict) -> dict:
             "grupos": grupos, "servicio": g["nodos_servicio"]}
 
 
-def generar() -> None:
+# Shared stylesheet of the sibling projects, copied verbatim; it is inlined at the top of the page's <style>.
+COMMON_CSS = Path(__file__).with_name("common.css")
+
+# Key figures shown in the header (.figures): summary key -> label
+FIGURES = [("indicios", "conjuntos con indicios"), ("grupos", "grupos empresariales"),
+           ("instalaciones", "instalaciones"), ("sociedades", "sociedades"),
+           ("actos_boe", "actos del BOE"), ("inscripciones_borme", "inscripciones del BORME")]
+
+
+def _thousands(n: int) -> str:
+    """Spanish thousands separator: 148039 -> 148.039."""
+    return f"{n:,}".replace(",", ".")
+
+
+def _figures_html(summary: dict) -> str:
+    return "".join(f"<div><b>{_thousands(summary.get(k, 0))}</b><span>{label}</span></div>" for k, label in FIGURES)
+
+
+def generar(out_dir: Path = DOCS_DIR) -> None:
     g = grafo.cargar()
     datos = json.dumps(_datos(g), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    html = _PLANTILLA.replace("__DATOS__", datos).replace("__FECHA__", date.fromisoformat(g["generado"]).strftime("%d/%m/%Y"))
-    (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
-    (DOCS_DIR / ".nojekyll").write_text("", encoding="utf-8")
+    html = (_PLANTILLA.replace("__COMMON_CSS__", COMMON_CSS.read_text(encoding="utf-8").strip())
+            .replace("__CIFRAS__", _figures_html(g["resumen"]))
+            .replace("__FECHA__", date.fromisoformat(g["generado"]).strftime("%d/%m/%Y"))
+            .replace("__DATOS__", datos))  # data last, so its text is never scanned for placeholders
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "index.html").write_text(html, encoding="utf-8")
+    (out_dir / ".nojekyll").write_text("", encoding="utf-8")
 
 
 _PLANTILLA = r"""<!doctype html>
@@ -91,47 +114,31 @@ _PLANTILLA = r"""<!doctype html>
 <meta name="description" content="Quién está detrás de cada proyecto energético publicado en el BOE y qué conjuntos de instalaciones muestran indicios de fraccionamiento.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
+__COMMON_CSS__
+:root{--accent:#6b3fa0;--accent-dark:#b08ce0}
+
+/* Own tokens, pointed at the common ones; the remaining ones carry meaning (weight levels, power bar) */
 :root{
-  --suelo:#f6f7f4; --hoja:#ffffff; --tinta:#1b2430; --tenue:#5c6570; --filete:#d8dcd5; --filete-suave:#e8ebe5;
-  --sello:#5b3f8f; --sello-suave:#ece6f5; --alto:#b3261e; --alto-suave:#fbe9e7; --medio:#9a5b00; --medio-suave:#fdf1dc;
+  --suelo:var(--ground); --hoja:var(--paper); --tinta:var(--ink); --tenue:var(--muted); --filete:var(--line);
+  --sello:var(--accent); --sans:var(--font-text); --cond:var(--font-title); --mono:var(--font-data);
+  --filete-suave:#e8e2dc; --sello-suave:#ece6f5; --alto:#b3261e; --alto-suave:#fbe9e7; --medio:#9a5b00; --medio-suave:#fdf1dc;
   --barra:#8f7bb5; --umbral:#b3261e;
-  --sans:"IBM Plex Sans",system-ui,"Segoe UI",Roboto,sans-serif;
-  --cond:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
-  color-scheme:light;
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --suelo:#13161b; --hoja:#1b1f26; --tinta:#e5e7ea; --tenue:#9aa3ad; --filete:#2e343d; --filete-suave:#242931;
-    --sello:#b9a4e0; --sello-suave:#2b2438; --alto:#f28b82; --alto-suave:#3a1f1d; --medio:#f0b75e; --medio-suave:#33291a;
-    --barra:#8c78b8; --umbral:#f28b82; color-scheme:dark;
+    --filete-suave:#2a231f; --sello-suave:#2b2438; --alto:#f28b82; --alto-suave:#3a1f1d; --medio:#f0b75e; --medio-suave:#33291a;
+    --barra:#8c78b8; --umbral:#f28b82;
   }
 }
 :root[data-theme="dark"]{
-  --suelo:#13161b; --hoja:#1b1f26; --tinta:#e5e7ea; --tenue:#9aa3ad; --filete:#2e343d; --filete-suave:#242931;
-  --sello:#b9a4e0; --sello-suave:#2b2438; --alto:#f28b82; --alto-suave:#3a1f1d; --medio:#f0b75e; --medio-suave:#33291a;
-  --barra:#8c78b8; --umbral:#f28b82; color-scheme:dark;
+  --filete-suave:#2a231f; --sello-suave:#2b2438; --alto:#f28b82; --alto-suave:#3a1f1d; --medio:#f0b75e; --medio-suave:#33291a;
+  --barra:#8c78b8; --umbral:#f28b82;
 }
-*{box-sizing:border-box}
-html,body{background:var(--suelo);color:var(--tinta)}
-body{margin:0;font:15px/1.55 var(--sans)}
-a{color:var(--sello);text-underline-offset:2px}
-a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--sello);outline-offset:2px}
-.marco{max-width:1120px;margin:0 auto;padding:0 16px}
-header{border-bottom:1px solid var(--filete);background:var(--hoja)}
-header .marco{padding-top:28px;padding-bottom:20px;display:grid;gap:10px}
-.sello{font:600 11px/1 var(--cond);letter-spacing:.14em;text-transform:uppercase;color:var(--sello);
-  border:1.5px solid var(--sello);border-radius:3px;padding:5px 8px;justify-self:start;transform:rotate(-1.2deg)}
-h1{font:700 clamp(28px,4.4vw,40px)/1.08 var(--cond);margin:0;text-wrap:balance;letter-spacing:-.01em}
-.entradilla{margin:0;max-width:68ch;color:var(--tenue)}
-nav{display:flex;gap:18px;flex-wrap:wrap;font-size:14px}
-.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--filete);
-  border:1px solid var(--filete);border-radius:6px;overflow:hidden;margin:22px 0 8px}
-.cifra{background:var(--hoja);padding:12px 14px}
-.cifra b{display:block;font:600 26px/1.1 var(--cond);font-variant-numeric:tabular-nums}
-.cifra span{font-size:13px;color:var(--tenue)}
+.marco{max-width:1440px;margin:0 auto;padding:0 16px}
+.site-header .badge{justify-self:start}
+.saltos{display:flex;gap:6px 18px;flex-wrap:wrap;font-size:15px}
 .aviso{border-left:3px solid var(--sello);background:var(--sello-suave);padding:10px 14px;margin:18px 0;font-size:14px;max-width:80ch}
 h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
 .nota{color:var(--tenue);font-size:14px;margin:0 0 14px;max-width:75ch}
@@ -152,9 +159,9 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
 .senales li{font-size:13px;border:1px solid var(--filete);border-radius:3px;padding:3px 8px;background:var(--suelo)}
 .senales li.fuerte{border-color:var(--sello);color:var(--sello)}
 .tabla{overflow-x:auto}
-table{border-collapse:collapse;width:100%;font-size:13.5px}
-th,td{text-align:left;padding:6px 8px;border-top:1px solid var(--filete-suave);vertical-align:top}
-th{font:600 11px/1.2 var(--cond);letter-spacing:.08em;text-transform:uppercase;color:var(--tenue);border-top:0}
+.tabla table{border-collapse:collapse;width:100%;font-size:13.5px}
+.tabla th,.tabla td{text-align:left;padding:6px 8px;border-top:1px solid var(--filete-suave);vertical-align:top}
+.tabla th{font:600 12px/1.2 var(--cond);letter-spacing:.08em;text-transform:uppercase;color:var(--tenue);border-top:0}
 .mw{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
 .pot{position:relative;width:120px;height:8px;background:var(--filete-suave);border-radius:2px;margin-top:5px}
 .pot i{position:absolute;left:0;top:0;bottom:0;background:var(--barra);border-radius:2px}
@@ -168,21 +175,24 @@ th{font:600 11px/1.2 var(--cond);letter-spacing:.08em;text-transform:uppercase;c
 .grupo .dentro{padding:0 16px 14px;display:grid;gap:10px}
 .pf{font-family:var(--mono);font-size:12px;background:var(--filete-suave);padding:1px 5px;border-radius:3px}
 .vacio{color:var(--tenue);font-style:italic}
-footer{margin:48px 0 36px;padding-top:18px;border-top:1px solid var(--filete);font-size:13px;color:var(--tenue);display:grid;gap:8px}
-footer p{margin:0;max-width:85ch}
+.method ol{padding-left:1.4em}
+.method li+li{margin-top:6px}
+.desborde{overflow-x:auto;margin-top:8px}
+.site-footer{margin-top:24px}
+.site-footer p{margin:0;max-width:85ch}
 .leyenda{display:flex;gap:14px;align-items:center;font-size:13px;color:var(--tenue);flex-wrap:wrap}
 @media (prefers-reduced-motion:no-preference){.caso{transition:border-color .15s}.caso:hover{border-color:var(--barra)}}
 </style>
 </head>
 <body>
-<header><div class="marco">
-  <span class="sello">BOE · BORME · actualizado __FECHA__</span>
-  <h1>Grafo de promotores</h1>
-  <p class="entradilla">Quién está detrás de cada proyecto energético publicado en el BOE, qué sociedades comparten administradores, apoderados, socio único o domicilio, y qué conjuntos de instalaciones muestran indicios de fraccionamiento alrededor del umbral de 50&nbsp;MW.</p>
-  <nav><a href="#indicios">Indicios</a><a href="#grupos">Grupos empresariales</a><a href="#metodo">Método y privacidad</a><a href="https://github.com/Asensio94/grafo-promotores">Código y datos</a></nav>
-</div></header>
+<header class="site-header">
+  <span class="badge">BOE · BORME · actualizado <span class="data">__FECHA__</span></span>
+  <h1>Grafo de <span>promotores</span></h1>
+  <p class="lede">Quién está detrás de cada proyecto energético publicado en el BOE, qué sociedades comparten administradores, apoderados, socio único o domicilio según el BORME, y qué conjuntos de instalaciones muestran indicios de fraccionamiento alrededor del umbral de 50&nbsp;MW.</p>
+  <div class="figures">__CIFRAS__</div>
+  <nav class="saltos" aria-label="En esta página"><a href="#indicios">Indicios</a><a href="#grupos">Grupos empresariales</a><a href="#metodo">Cómo se calcula</a><a href="https://github.com/Asensio94/grafo-promotores">Código y datos</a></nav>
+</header>
 <main class="marco">
-  <div class="cifras" id="cifras"></div>
   <div class="aviso"><b>Indicios, no conclusiones.</b> Que varias instalaciones de un mismo grupo queden por debajo de 50&nbsp;MW y sumen más no prueba un fraccionamiento: puede responder a razones técnicas, de acceso a la red o de calendario. Cada caso enlaza a los anuncios del BOE y a las inscripciones del BORME de las que sale, para que se compruebe en la fuente.</div>
 
   <h2 id="indicios">Conjuntos con indicios de fraccionamiento</h2>
@@ -199,18 +209,72 @@ footer p{margin:0;max-width:85ch}
   <p class="nota">Sociedades titulares en el BOE unidas por el BORME (socio único, administración, apoderamiento, fusión, cambio de denominación) o por compartir domicilio en los anuncios. Las personas físicas aparecen con un seudónimo estable <span class="pf">PF-…</span>: permite ver que la misma persona actúa en varias sociedades sin publicar quién es.</p>
   <div class="lista" id="grupos-lista"></div>
 
-  <h2 id="metodo">Método y privacidad</h2>
-  <div class="nota">
-    <p>Cada día se leen los sumarios del BOE (secciones III y V-B) y se extraen los actos de proyectos de generación, almacenamiento y evacuación: titular, potencia de cada instalación, subestaciones, expedientes y municipios. Del BORME (sección A) se guardan las inscripciones de sociedades del sector o ya presentes en el grafo.</p>
-    <p>Señales medidas en cada conjunto: suma por encima de 50&nbsp;MW sin que ninguna instalación lo supere; potencias entre 46 y 50&nbsp;MW; potencias idénticas; expedientes con numeración seguida; tramitación conjunta o acumulación reconocida por la Administración; sociedades titulares distintas pero vinculadas; y subestación colectora compartida. Los nudos de la red de transporte no cuentan como vínculo, porque los comparten promotores ajenos entre sí.</p>
-    <p>Las personas físicas nunca se publican con su nombre ni se guardan en el repositorio. Su seudónimo es un HMAC-SHA256 con una clave secreta que no se publica. No se recogen NIF de personas físicas.</p>
-    <p>Cómo se forma un grupo: manda la propiedad. Un grupo nace de las declaraciones de socio único vigentes (la última inscrita, hasta que se pierde la unipersonalidad) y de las fusiones. Administradores y apoderados en común y domicilios compartidos solo cuelgan de un grupo las sociedades sin dueño conocido; para unir dos grupos con dueño distinto hacen falta al menos dos vínculos independientes. Solo cuentan los cargos vigentes: un cese o una revocación posteriores los anulan. Las agrupaciones de interés económico, las UTE y las sociedades con varios socios de control son infraestructura compartida y no unen a sus socios. Las gestoras que administran decenas de sociedades ajenas, las personas con más de 40 sociedades y los domicilios con más de 8 se tratan como servicio profesional.</p>
-    <p>Límites: la extracción es automática y puede fallar con redacciones atípicas; el BORME no tiene búsqueda por nombre, así que un vínculo anterior al periodo leído no aparece. Si detectas un error, abre una incidencia en el repositorio.</p>
-  </div>
 </main>
-<footer class="marco">
-  <p>Fuentes: Boletín Oficial del Estado y Boletín Oficial del Registro Mercantil (Agencia Estatal BOE, datos abiertos). Código con licencia MIT.</p>
+
+<section class="method" id="metodo">
+  <h2>Cómo se calcula</h2>
+  <ol>
+    <li><b>Actos del BOE.</b> Cada día se leen los sumarios del BOE (secciones III y V-B) y se extraen los anuncios y resoluciones de proyectos de generación, almacenamiento y evacuación: sociedad titular, potencia de cada instalación, subestaciones (las colectoras se distinguen de los nudos de la red de transporte), expedientes, municipios, domicilio del promotor, cambios de denominación y las frases en las que la Administración reconoce una tramitación conjunta o una acumulación.</li>
+    <li><b>Inscripciones del BORME.</b> Del BORME (sección A) se guardan las inscripciones de sociedades del sector o ya presentes en el grafo: constitución, socio único, nombramientos, ceses y revocaciones de administradores y apoderados, fusiones y cambios de denominación o de domicilio. Las personas físicas se sustituyen por un seudónimo antes de guardarlas.</li>
+    <li><b>Grupos empresariales: manda la propiedad.</b> Un grupo nace de las declaraciones de socio único vigentes (la última inscrita, hasta que se pierde la unipersonalidad) y de las fusiones. Administradores y apoderados en común y domicilios compartidos solo cuelgan de un grupo las sociedades sin dueño conocido; para unir dos grupos con dueño distinto hacen falta al menos dos vínculos independientes. Solo cuentan los cargos vigentes: un cese o una revocación posteriores los anulan, y se muestran como históricos.</li>
+    <li><b>Lo que no une.</b> Las agrupaciones de interés económico, las UTE y las sociedades con varios socios de control son infraestructura compartida de evacuación y no unen a sus socios. Tampoco unen las gestoras y las personas con cargos en muchas sociedades ni los domicilios de despacho (umbrales en la tabla).</li>
+    <li><b>Conjuntos de instalaciones.</b> Se unen las instalaciones que aparecen en el mismo anuncio, las que evacuan por la misma subestación colectora con titulares del mismo grupo y las del mismo municipio con titulares del mismo núcleo de propiedad o con una persona en común. Dos parques con el mismo nombre se distinguen por su titular o su provincia.</li>
+    <li><b>Señales y peso.</b> En cada conjunto de dos o más instalaciones se miden las siete señales de la tabla y se suman sus pesos. Solo se publica si hay al menos una señal de potencia: suma por encima del umbral, justo por debajo o potencias idénticas.</li>
+    <li><b>Orden.</b> Los conjuntos se ordenan por peso y, a igual peso, por potencia total. Peso 7 o más se marca como alto; de 4 a 6, medio; el resto, bajo.</li>
+  </ol>
+
+  <h3>Señales de fraccionamiento</h3>
+  <div class="desborde"><table class="params">
+    <thead><tr><th>Señal</th><th class="num">Peso</th><th>Qué mide</th></tr></thead>
+    <tbody>
+      <tr><td>Suma por encima del umbral</td><td class="num">2</td><td>Ninguna instalación supera 50&nbsp;MW, pero la suma sí</td></tr>
+      <tr><td>Justo por debajo de 50&nbsp;MW</td><td class="num">1–2</td><td>Potencias entre 46 y 50&nbsp;MW (el 92&nbsp;% del umbral); pesa 2 si son dos o más</td></tr>
+      <tr><td>Potencias idénticas</td><td class="num">1</td><td>Dos o más instalaciones con exactamente la misma potencia</td></tr>
+      <tr><td>Expedientes seguidos</td><td class="num">1</td><td>Numeración consecutiva en la misma serie (<span class="data">PEOL-FV-311</span>, <span class="data">-312</span>…)</td></tr>
+      <tr><td>Tramitación conjunta</td><td class="num">1</td><td>Acumulación o frases de tramitación conjunta en el propio acto</td></tr>
+      <tr><td>Sociedades vinculadas</td><td class="num">2</td><td>Titulares distintas con vínculos documentados entre sí</td></tr>
+      <tr><td>Evacuación compartida</td><td class="num">1</td><td>La misma subestación colectora; los nudos de la red de transporte no cuentan, porque los comparten promotores ajenos entre sí</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>Umbrales</h3>
+  <div class="desborde"><table class="params">
+    <thead><tr><th>Parámetro</th><th class="num">Valor</th><th>Por qué</th></tr></thead>
+    <tbody>
+      <tr><td>Umbral de competencia</td><td class="num">50&nbsp;MW</td><td>Por encima autoriza la Administración General del Estado (art. 3.13.a de la Ley 24/2013, del Sector Eléctrico); hasta 50&nbsp;MW, la comunidad autónoma</td></tr>
+      <tr><td>Justo por debajo</td><td class="num">46–50&nbsp;MW</td><td>Entre el 92&nbsp;% y el 100&nbsp;% del umbral</td></tr>
+      <tr><td>Apoderados en común</td><td class="num">3</td><td>Una pareja de apoderados une solo si comparte 3 o más sociedades</td></tr>
+      <tr><td>Personas con muchos cargos</td><td class="num">&gt;&nbsp;40</td><td>Con cargos en más de 40 sociedades se listan, pero no unen grupos</td></tr>
+      <tr><td>Gestoras profesionales</td><td class="num">&gt;&nbsp;40</td><td>Las que administran más de 40 sociedades ajenas no unen grupos</td></tr>
+      <tr><td>Domicilios de despacho</td><td class="num">&gt;&nbsp;8</td><td>Un domicilio que comparten más de 8 sociedades no une grupos</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>Validación</h3>
+  <p>Pendiente. Cada conjunto enlaza a los anuncios del BOE y cada vínculo a la inscripción del BORME de la que sale, para que se compruebe en la fuente.</p>
+
+  <h3>Límites</h3>
+  <p>La extracción es automática y puede fallar con redacciones atípicas. El BORME no tiene búsqueda por denominación, así que un vínculo inscrito antes del periodo leído no aparece. Los proyectos autonómicos (hasta 50&nbsp;MW) solo aparecen si se publican en el BOE. Si detectas un error, abre una incidencia en el repositorio.</p>
+
+  <h3>Privacidad</h3>
+  <p>Las personas físicas nunca se publican con su nombre ni se guardan en el repositorio. Su seudónimo es un HMAC-SHA256 con una clave secreta que no se publica. No se recogen NIF de personas físicas ni domicilios particulares.</p>
+</section>
+
+<footer class="site-footer">
+  <p class="principle">Datos públicos, reglas a la vista y cada cifra enlazada a su fuente. Indicios, no veredictos.</p>
+  <p>Fuentes: Boletín Oficial del Estado y Boletín Oficial del Registro Mercantil (Agencia Estatal BOE, <a href="https://www.boe.es/datosabiertos/">datos abiertos</a>). Código con licencia MIT: <a href="https://github.com/Asensio94/grafo-promotores">código y datos</a>.</p>
   <p id="servicio"></p>
+  <nav aria-label="Proyectos hermanos"><ul class="siblings">
+    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
+    <li><a href="https://asensio94.github.io/vigia-incendios/">Vigía de incendios</a></li>
+    <li><a href="https://asensio94.github.io/centinela-natura/">Centinela Natura</a></li>
+    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
+    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
+    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
+    <li aria-current="page"><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
+    <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
+    <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
+  </ul></nav>
 </footer>
 <script id="datos" type="application/json">__DATOS__</script>
 <script>
@@ -231,12 +295,6 @@ footer p{margin:0;max-width:85ch}
   function mw(x){return x==null?"—":x.toLocaleString("es-ES",{maximumFractionDigits:3})+" MW"}
   function fecha(s){if(!s)return"";var p=s.split("-");return p[2]+"/"+p[1]+"/"+p[0]}
   function nivel(p){return p>=7?"alto":p>=4?"medio":"bajo"}
-
-  var R = D.resumen;
-  document.getElementById("cifras").innerHTML = [
-    [R.indicios,"conjuntos con indicios"],[R.grupos,"grupos empresariales"],[R.instalaciones,"instalaciones"],
-    [R.sociedades,"sociedades"],[R.actos_boe,"actos del BOE"],[R.inscripciones_borme,"inscripciones del BORME"]
-  ].map(function(c){return '<div class="cifra"><b>'+c[0].toLocaleString("es-ES")+'</b><span>'+c[1]+'</span></div>'}).join("");
 
   var provs = {}, senales = {};
   D.indicios.forEach(function(i){
