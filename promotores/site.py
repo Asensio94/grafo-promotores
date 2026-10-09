@@ -278,6 +278,7 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
     <li aria-current="page"><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
     <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
     <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
+    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
   </ul></nav>
 </footer>
 <script id="datos" type="application/json">__DATOS__</script>
