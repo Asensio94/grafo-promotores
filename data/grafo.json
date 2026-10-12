@@ -1,11 +1,11 @@
 {
- "generado": "2026-10-10",
+ "generado": "2026-10-12",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 5378,
+  "actos_boe": 5382,
   "inscripciones_borme": 148135,
   "sociedades": 6721,
-  "instalaciones": 2038,
+  "instalaciones": 2039,
   "grupos": 280,
   "indicios": 180
  },
@@ -9377,6 +9377,7 @@
     "LUCE CAPITAL GROUP",
     "PARQUE EOLICO CABEZUELAS",
     "PARQUE EOLICO CRISTOBAL",
+    "PARQUE EOLICO GASALLA",
     "PARQUE EOLICO LAS TADEAS",
     "PARQUE EOLICO PEDRECHA",
     "PARQUE EOLICO PUERTO CALERA I",
@@ -9660,6 +9661,7 @@
     "REPSOL MAIALS",
     "REPSOL PARAMILLOS",
     "REPSOL PUERTOLLANO SUNRISE",
+    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS",
     "REPSOL RENOVABLES",
     "REPSOL RENOVABLES OLMEDILLA",
     "REPSOL SERVICIOS RENOVABLES",
@@ -13628,7 +13630,6 @@
     "GREEN CAPITAL DEVELOPMENT VI",
     "GREEN CAPITAL DEVELOPMENT XV",
     "NERALDA ENERGY",
-    "PARQUE EOLICO GASALLA",
     "QUANTUM CAPITAL VENTURE",
     "QUANTUM ENERGY STORAGE",
     "QUANTUM ENERGY STORAGE 1",
@@ -17379,17 +17380,6 @@
    ]
   },
   {
-   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
-   "sociedades": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
-    "REPSOL INDUSTRIAL TRANSFORMATION",
-    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS"
-   ],
-   "en_boe": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
-   ]
-  },
-  {
    "id": "G-ENERGIA-SIERREZUELA",
    "sociedades": [
     "ENERGIA SIERREZUELA",
@@ -17754,6 +17744,16 @@
    ],
    "en_boe": [
     "BIOGASTUR GENERACION NAVIA"
+   ]
+  },
+  {
+   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
+   "sociedades": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
+    "REPSOL INDUSTRIAL TRANSFORMATION"
+   ],
+   "en_boe": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
    ]
   },
   {
@@ -37132,6 +37132,7 @@
    "nombres": [
     "Antila Solar, SLU",
     "ANTILA SOLAR, SLU",
+    "Antila Solar, SL",
     "ANTILA SOLAR, SOCIEDAD LIMITADA",
     "ANTILA SOLAR, SOCIEDAD LIMITADA(R.M. A CORUÑA)"
    ],
@@ -37147,7 +37148,8 @@
    "actos_boe": [
     "BOE-B-2025-21605",
     "BOE-B-2025-29280",
-    "BOE-B-2025-33228"
+    "BOE-B-2025-33228",
+    "BOE-A-2026-21224"
    ],
    "borme": [
     {
@@ -53175,7 +53177,8 @@
     "BOE-A-2024-17271",
     "BOE-A-2026-2711",
     "BOE-B-2026-23995",
-    "BOE-A-2026-17270"
+    "BOE-A-2026-17270",
+    "BOE-A-2026-21227"
    ],
    "borme": [
     {
@@ -99958,7 +99961,8 @@
     "C/ JOSE LUIS BUGALLAL MARCHESI 10 1 D (CORUÑA (A))"
    ],
    "actos_boe": [
-    "BOE-B-2025-25805"
+    "BOE-B-2025-25805",
+    "BOE-A-2026-21225"
    ],
    "borme": [
     {
@@ -227481,7 +227485,8 @@
     "C/ JOSE LUIS BUGALLAL MARCHESI 10 1 D (CORUÑA (A))"
    ],
    "actos_boe": [
-    "BOE-B-2025-25805"
+    "BOE-B-2025-25805",
+    "BOE-A-2026-21225"
    ],
    "borme": [
     {
@@ -332071,7 +332076,8 @@
     "BOE-B-2023-21600",
     "BOE-B-2026-2200",
     "BOE-A-2026-13197",
-    "BOE-B-2026-24460"
+    "BOE-B-2026-24460",
+    "BOE-A-2026-21226"
    ],
    "borme": [
     {
@@ -372373,7 +372379,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ARAIZ ENERGY"
+   "grupo": "CAPITAL ENERGY"
   },
   "PARQUE EOLICO HINOJAL": {
    "id": "PARQUE EOLICO HINOJAL",
@@ -421563,7 +421569,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
+   "grupo": "ALECTORIS ENERGIA SOSTENIBLE 1"
   },
   "REPSOL RENOVABLES": {
    "id": "REPSOL RENOVABLES",
@@ -533622,7 +533628,7 @@
    "nombres": [
     "Azor Solar"
    ],
-   "mw": 69.5,
+   "mw": 64.02,
    "tecnologias": [
     "fotovoltaica",
     "almacenamiento",
@@ -533699,10 +533705,16 @@
      "fecha": "2026-07-13",
      "acto": "informacion_publica",
      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-23995"
+    },
+    {
+     "id": "BOE-A-2026-21227",
+     "fecha": "2026-10-12",
+     "acto": "autorizacion",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21227"
     }
    ],
    "primera": "2021-11-19",
-   "ultima": "2026-07-13"
+   "ultima": "2026-10-12"
   },
   "PLANTAS SOLARES FOTOVOLTAICAS AZOR": {
    "id": "PLANTAS SOLARES FOTOVOLTAICAS AZOR",
@@ -555236,11 +555248,14 @@
   "MULHACEN": {
    "id": "MULHACEN",
    "nombres": [
-    "Mulhacén Solar"
+    "Mulhacén Solar",
+    "Mulhacén"
    ],
-   "mw": 80.04,
+   "mw": 70.0,
    "tecnologias": [
-    "fotovoltaica"
+    "fotovoltaica",
+    "almacenamiento",
+    "hibrida"
    ],
    "titulares": [
     "MULHACEN SOLAR",
@@ -555293,10 +555308,22 @@
      "fecha": "2023-07-14",
      "acto": "informacion_publica",
      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2023-21600"
+    },
+    {
+     "id": "BOE-A-2026-21226",
+     "fecha": "2026-10-12",
+     "acto": "autorizacion",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21226"
+    },
+    {
+     "id": "BOE-A-2026-21226",
+     "fecha": "2026-10-12",
+     "acto": "autorizacion",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21226"
     }
    ],
    "primera": "2023-02-03",
-   "ultima": "2023-07-14"
+   "ultima": "2026-10-12"
   },
   "CARUCEDO": {
    "id": "CARUCEDO",
@@ -610152,6 +610179,44 @@
    ],
    "primera": "2026-10-06",
    "ultima": "2026-10-06"
+  },
+  "MURACAIS": {
+   "id": "MURACAIS",
+   "nombres": [
+    "Muracais"
+   ],
+   "mw": 52.8,
+   "tecnologias": [
+    "eolica"
+   ],
+   "titulares": [
+    "ANTILA SOLAR"
+   ],
+   "expedientes": [],
+   "acumulacion": true,
+   "colectoras": [
+    "xescabarex|132/30",
+    "muracais|132/30",
+    "ludrio promotores|400/220/132"
+   ],
+   "municipios": [
+    "Castroverde",
+    "Baleira",
+    "A Fonsagrada"
+   ],
+   "provincias": [
+    "Lugo"
+   ],
+   "actos": [
+    {
+     "id": "BOE-A-2026-21224",
+     "fecha": "2026-10-12",
+     "acto": "evaluacion_ambiental",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21224"
+    }
+   ],
+   "primera": "2026-10-12",
+   "ultima": "2026-10-12"
   }
  },
  "evidencias": [
@@ -1217856,18 +1217921,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "Paseo Cristóbal Colón, n.º 20, 41001 – Sevilla",
-   "sociedades": 61
-  },
-  {
-   "tipo": "domicilio",
-   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
-   "sociedades": 13
-  },
-  {
-   "tipo": "domicilio",
    "id": "C/ RIOJA 25 1 - IZQUIERDA, CODIGO POSTAL 41001 (SEVILLA)",
    "sociedades": 95
+  },
+  {
+   "tipo": "domicilio",
+   "id": "Paseo Cristóbal Colón, n.º 20, 41001 – Sevilla",
+   "sociedades": 61
   },
   {
    "tipo": "domicilio",
@@ -1217876,13 +1217936,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA DE LA CONSTITUCION 34 1 - IZQUIERDA, CP 41001 (SEVILLA)",
-   "sociedades": 14
+   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
+   "sociedades": 13
   },
   {
    "tipo": "domicilio",
-   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
-   "sociedades": 23
+   "id": "AVDA DE LA CONSTITUCION 34 1 - IZQUIERDA, CP 41001 (SEVILLA)",
+   "sociedades": 14
   },
   {
    "tipo": "domicilio",
@@ -1217891,13 +1217951,18 @@
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
-   "sociedades": 26
+   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
+   "sociedades": 23
   },
   {
    "tipo": "domicilio",
    "id": "AVDA REPUBLICA ARGENTINA 24 4 A - CP 41011 (SEVILLA)",
    "sociedades": 18
+  },
+  {
+   "tipo": "domicilio",
+   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
+   "sociedades": 26
   },
   {
    "tipo": "domicilio",
@@ -1217926,13 +1217991,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
-   "sociedades": 21
+   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
+   "sociedades": 19
   },
   {
    "tipo": "domicilio",
-   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
-   "sociedades": 19
+   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
+   "sociedades": 21
   },
   {
    "tipo": "domicilio",
@@ -1217981,16 +1218046,6 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
-  },
-  {
-   "tipo": "domicilio",
-   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
-   "sociedades": 9
-  },
-  {
-   "tipo": "domicilio",
    "id": "C/ MARQUES DE MOLINS, 2 3º iz 02001 (ALBACETE)",
    "sociedades": 17
   },
@@ -1218001,8 +1218056,18 @@
   },
   {
    "tipo": "domicilio",
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
+  },
+  {
+   "tipo": "domicilio",
    "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
    "sociedades": 16
+  },
+  {
+   "tipo": "domicilio",
+   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
@@ -1218026,13 +1218091,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ COFIA 6 - ATICO, CP 41018 (SEVILLA)",
-   "sociedades": 9
+   "id": "CALLE BALBINO MARRON 3 4 - OFICINA 6, C.P 41018 (SEVILLA)",
+   "sociedades": 10
   },
   {
    "tipo": "domicilio",
-   "id": "CALLE BALBINO MARRON 3 4 - OFICINA 6, C.P 41018 (SEVILLA)",
-   "sociedades": 10
+   "id": "C/ COFIA 6 - ATICO, CP 41018 (SEVILLA)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
