@@ -279,6 +279,7 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
     <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
     <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
     <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
+    <li><a href="https://asensio94.github.io/estado-iba/">Estado de las IBA</a></li>
   </ul></nav>
 </footer>
 <script id="datos" type="application/json">__DATOS__</script>
