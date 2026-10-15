@@ -5,6 +5,8 @@ muestran **indicios de fraccionamiento** alrededor del umbral de 50 MW.
 
 Web: <https://asensio94.github.io/grafo-promotores/> · se rehace cada día con GitHub Actions.
 
+> **Estado: activo.** Se actualiza solo y sigue en desarrollo.
+
 ## Cómo funciona
 
 1. **BOE** (secciones III y V-B). Extrae de cada anuncio o resolución de un proyecto de generación, almacenamiento
