@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-14",
+ "generado": "2026-10-15",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 5386,
-  "inscripciones_borme": 148274,
-  "sociedades": 6721,
-  "instalaciones": 2041,
-  "grupos": 280,
+  "actos_boe": 5389,
+  "inscripciones_borme": 148322,
+  "sociedades": 6727,
+  "instalaciones": 2042,
+  "grupos": 281,
   "indicios": 180
  },
  "indicios": [
@@ -9662,7 +9662,6 @@
     "REPSOL MAIALS",
     "REPSOL PARAMILLOS",
     "REPSOL PUERTOLLANO SUNRISE",
-    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS",
     "REPSOL RENOVABLES",
     "REPSOL RENOVABLES OLMEDILLA",
     "REPSOL SERVICIOS RENOVABLES",
@@ -11297,87 +11296,6 @@
    ]
   },
   {
-   "id": "G-ALWIGA-NETZBETEILIGUNGEN",
-   "sociedades": [
-    "ALWIGA NETZBETEILIGUNGEN",
-    "ARGEO SOLAR",
-    "ARRABAL 14",
-    "CASTANO DESARROLLOS ESPANA",
-    "DESARROLLOS SOLARES TOMELLOSO",
-    "EGA SURIA",
-    "EL CUCO ENERGY",
-    "ESTRELLA SOLAR",
-    "FOTOVOLTAICA LA CABRITA",
-    "LILASOL DESARROLLOS ESPANA",
-    "METKA EGN",
-    "METKA EGN SOLAR 1",
-    "METKA EGN SOLAR 10",
-    "METKA EGN SOLAR 11",
-    "METKA EGN SOLAR 12",
-    "METKA EGN SOLAR 13",
-    "METKA EGN SOLAR 14",
-    "METKA EGN SOLAR 15",
-    "METKA EGN SOLAR 16",
-    "METKA EGN SOLAR 17",
-    "METKA EGN SOLAR 18",
-    "METKA EGN SOLAR 19",
-    "METKA EGN SOLAR 2",
-    "METKA EGN SOLAR 20",
-    "METKA EGN SOLAR 21",
-    "METKA EGN SOLAR 22",
-    "METKA EGN SOLAR 23",
-    "METKA EGN SOLAR 24",
-    "METKA EGN SOLAR 25",
-    "METKA EGN SOLAR 26",
-    "METKA EGN SOLAR 27",
-    "METKA EGN SOLAR 28",
-    "METKA EGN SOLAR 29",
-    "METKA EGN SOLAR 30",
-    "METKA EGN SOLAR 31",
-    "METKA EGN SOLAR 32",
-    "METKA EGN SOLAR 33",
-    "METKA EGN SOLAR 34",
-    "METKA EGN SOLAR 35",
-    "METKA EGN SOLAR 36",
-    "METKA EGN SOLAR 37",
-    "METKA EGN SOLAR 38",
-    "METKA EGN SOLAR 39",
-    "METKA EGN SOLAR 40",
-    "METKA EGN SOLAR 42",
-    "METKA EGN SOLAR 43",
-    "METKA EGN SOLAR 44",
-    "METKA EGN SOLAR 45",
-    "METKA EGN SOLAR 46",
-    "METKA EGN SOLAR 47",
-    "METKA EGN SOLAR 48",
-    "METKA EGN SOLAR 49",
-    "METKA EGN SOLAR 50",
-    "METKA EGN SOLAR 6",
-    "METKA EGN SPAIN HOLDING 1",
-    "METKA EGN SPAIN HOLDING 2",
-    "NEMBUS SOLAR",
-    "PANGION HOLDING S A R L",
-    "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-    "PLANTA FOTOVOLTAICA LA TORRE 40",
-    "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA",
-    "TESSERACT HOLDIGN LIMITED",
-    "TESSERACT HOLDINGS LIMITED",
-    "YILDUN SOLAR"
-   ],
-   "en_boe": [
-    "ARGEO SOLAR",
-    "ARRABAL 14",
-    "CASTANO DESARROLLOS ESPANA",
-    "EGA SURIA",
-    "FOTOVOLTAICA LA CABRITA",
-    "LILASOL DESARROLLOS ESPANA",
-    "METKA EGN SOLAR 1",
-    "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-    "PLANTA FOTOVOLTAICA LA TORRE 40",
-    "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA"
-   ]
-  },
-  {
    "id": "G-ADAN-SOLAR",
    "sociedades": [
     "ADAN SOLAR",
@@ -11793,88 +11711,6 @@
    ]
   },
   {
-   "id": "G-ALBACETE-ECO-ENERGIAS",
-   "sociedades": [
-    "ALBACETE ECO ENERGIAS",
-    "ALCALA ECO ENERGIAS",
-    "ALCOBENDAS ECO ENERGIAS",
-    "ASTURIAS ECO ENERGIAS",
-    "AULIVER SOLAR",
-    "AUSTRALIS ENERGIAS",
-    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "BRUNETE DISTRICT HEATING",
-    "BURGOS ECO ENERGIAS",
-    "CEMENTO SOLAR SPAIN",
-    "CLEAN RENOVABLES DE COSMO",
-    "COFELY ENERGIA MARTORELL",
-    "DISTRICT ECO ENERGIAS",
-    "DISTRICT HEATING ECO ENERGIAS",
-    "ECOENERGY-ING FMH",
-    "ENER ALFA",
-    "ENER BETA",
-    "ENER DELTA",
-    "ENER EPSILON",
-    "ENER GAMMA",
-    "ENERGIA DE FERMAPO",
-    "ENERGIAS RENOVABLES BONETE 4",
-    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
-    "ENGIE CASTELNOU",
-    "ENGIE ESPANA",
-    "ENGIE ESPANA MANAGEMENT COMPANY",
-    "ENGIE ESPANA RENOVABLES",
-    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
-    "ENGIE PROYECTO AS PENIZAS",
-    "ENGIE PROYECTO QUINTOS",
-    "ENGIE PROYECTO RODICIO II",
-    "ENGIE PROYECTO SUIME",
-    "ENGIE PROYECTO TOURINAN",
-    "ENGIE SERVICIOS ENERGETICOS",
-    "EOLICA LAS CALLEJAS",
-    "GREENALIA WIND POWER CABANELAS",
-    "GREENALIA WIND POWER XESTEIRON",
-    "HUESCA ECO ENERGIAS",
-    "ITAMAR SOLAR",
-    "LEGANES ECO ENERGIAS",
-    "LEON ECO ENERGIAS",
-    "LOGRONO ECO ENERGIAS",
-    "LOOP ELECTRICIDAD Y GAS",
-    "LUGO ECO ENERGIAS",
-    "MARCELA SOLAR",
-    "MARTINA SOSTENIBLE",
-    "MERIDION PSFV",
-    "MOSTOLES ECO ENERGIAS",
-    "ORENSE ECO ENERGIAS",
-    "PARQUE EOLICO CERRO CABELLO",
-    "PARQUE SOLAR ENERGY 02",
-    "PARQUE SOLAR ENERGY NODE 03",
-    "PARQUE SOLAR ENERGY NODE 05",
-    "PARQUE SOLAR ENERGY NODE 06",
-    "PONFERRADA ECO ENERGIAS",
-    "POSICION QUINTOS DOS HERMANAS II",
-    "PUERTOLLANO ECO ENERGIAS",
-    "RENOVABLES DE ADEMIA",
-    "SEGOVIA ECO ENERGIAS",
-    "SOBERBINA ENERGIA",
-    "SOFOS ENERGIA",
-    "SOLAR LAS IRUELAS",
-    "TERUEL ECO ENERGIAS",
-    "TORREJON DE ARDOZ ECO ENERGIAS",
-    "VALLADOLID ECO ENERGIAS",
-    "ZARAGOZA ECO ENERGIAS"
-   ],
-   "en_boe": [
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "ENER EPSILON",
-    "ENGIE CASTELNOU",
-    "ITAMAR SOLAR",
-    "MARTINA SOSTENIBLE",
-    "PARQUE SOLAR ENERGY 02"
-   ]
-  },
-  {
    "id": "G-CONSTSOLAR-DEVA",
    "sociedades": [
     "CONSTSOLAR DEVA",
@@ -11931,6 +11767,160 @@
     "LINE ENERGY POWER",
     "STAR CAPITAL 2000",
     "SUN CAPITAL 2000"
+   ]
+  },
+  {
+   "id": "G-ALBACETE-ECO-ENERGIAS",
+   "sociedades": [
+    "ALBACETE ECO ENERGIAS",
+    "ALCALA ECO ENERGIAS",
+    "ALCOBENDAS ECO ENERGIAS",
+    "ASTURIAS ECO ENERGIAS",
+    "AULIVER SOLAR",
+    "AUSTRALIS ENERGIAS",
+    "AVILA ECO ENERGIAS",
+    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "BRUNETE DISTRICT HEATING",
+    "BURGOS ECO ENERGIAS",
+    "CEMENTO SOLAR SPAIN",
+    "CLEAN RENOVABLES DE COSMO",
+    "COFELY ENERGIA MARTORELL",
+    "DISTRICT ECO ENERGIAS",
+    "DISTRICT HEATING ECO ENERGIAS",
+    "ECOENERGY-ING FMH",
+    "ENER ALFA",
+    "ENER BETA",
+    "ENER DELTA",
+    "ENER EPSILON",
+    "ENER GAMMA",
+    "ENERGIA DE FERMAPO",
+    "ENERGIAS RENOVABLES BONETE 4",
+    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
+    "ENGIE ESPANA",
+    "ENGIE ESPANA MANAGEMENT COMPANY",
+    "ENGIE ESPANA RENOVABLES",
+    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
+    "ENGIE PROYECTO AS PENIZAS",
+    "ENGIE PROYECTO QUINTOS",
+    "ENGIE PROYECTO RODICIO II",
+    "ENGIE PROYECTO SUIME",
+    "ENGIE PROYECTO TOURINAN",
+    "ENGIE SERVICIOS ENERGETICOS",
+    "EOLICA LAS CALLEJAS",
+    "GREENALIA WIND POWER CABANELAS",
+    "GREENALIA WIND POWER XESTEIRON",
+    "HUESCA ECO ENERGIAS",
+    "ITAMAR SOLAR",
+    "LEGANES ECO ENERGIAS",
+    "LEON ECO ENERGIAS",
+    "LOGRONO ECO ENERGIAS",
+    "LOOP ELECTRICIDAD Y GAS",
+    "LUGO ECO ENERGIAS",
+    "MARCELA SOLAR",
+    "MARTINA SOSTENIBLE",
+    "MERIDION PSFV",
+    "MOSTOLES ECO ENERGIAS",
+    "ORENSE ECO ENERGIAS",
+    "PARQUE EOLICO CERRO CABELLO",
+    "PARQUE SOLAR ENERGY 02",
+    "PARQUE SOLAR ENERGY NODE 03",
+    "PARQUE SOLAR ENERGY NODE 05",
+    "PARQUE SOLAR ENERGY NODE 06",
+    "PONFERRADA ECO ENERGIAS",
+    "POSICION QUINTOS DOS HERMANAS II",
+    "PUERTOLLANO ECO ENERGIAS",
+    "RENOVABLES DE ADEMIA",
+    "SEGOVIA ECO ENERGIAS",
+    "SOBERBINA ENERGIA",
+    "SOFOS ENERGIA",
+    "SOLAR LAS IRUELAS",
+    "TERUEL ECO ENERGIAS",
+    "TORREJON DE ARDOZ ECO ENERGIAS",
+    "VALLADOLID ECO ENERGIAS",
+    "ZARAGOZA ECO ENERGIAS"
+   ],
+   "en_boe": [
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "ENER EPSILON",
+    "ITAMAR SOLAR",
+    "MARTINA SOSTENIBLE",
+    "PARQUE SOLAR ENERGY 02"
+   ]
+  },
+  {
+   "id": "G-ALWIGA-NETZBETEILIGUNGEN",
+   "sociedades": [
+    "ALWIGA NETZBETEILIGUNGEN",
+    "ARGEO SOLAR",
+    "DESARROLLOS SOLARES TOMELLOSO",
+    "EGA SURIA",
+    "EL CUCO ENERGY",
+    "ESTRELLA SOLAR",
+    "FOTOVOLTAICA LA CABRITA",
+    "METKA EGN",
+    "METKA EGN SOLAR 1",
+    "METKA EGN SOLAR 10",
+    "METKA EGN SOLAR 11",
+    "METKA EGN SOLAR 12",
+    "METKA EGN SOLAR 13",
+    "METKA EGN SOLAR 14",
+    "METKA EGN SOLAR 15",
+    "METKA EGN SOLAR 16",
+    "METKA EGN SOLAR 17",
+    "METKA EGN SOLAR 18",
+    "METKA EGN SOLAR 19",
+    "METKA EGN SOLAR 2",
+    "METKA EGN SOLAR 20",
+    "METKA EGN SOLAR 21",
+    "METKA EGN SOLAR 22",
+    "METKA EGN SOLAR 23",
+    "METKA EGN SOLAR 24",
+    "METKA EGN SOLAR 25",
+    "METKA EGN SOLAR 26",
+    "METKA EGN SOLAR 27",
+    "METKA EGN SOLAR 28",
+    "METKA EGN SOLAR 29",
+    "METKA EGN SOLAR 30",
+    "METKA EGN SOLAR 31",
+    "METKA EGN SOLAR 32",
+    "METKA EGN SOLAR 33",
+    "METKA EGN SOLAR 34",
+    "METKA EGN SOLAR 35",
+    "METKA EGN SOLAR 36",
+    "METKA EGN SOLAR 37",
+    "METKA EGN SOLAR 38",
+    "METKA EGN SOLAR 39",
+    "METKA EGN SOLAR 40",
+    "METKA EGN SOLAR 42",
+    "METKA EGN SOLAR 43",
+    "METKA EGN SOLAR 44",
+    "METKA EGN SOLAR 45",
+    "METKA EGN SOLAR 46",
+    "METKA EGN SOLAR 47",
+    "METKA EGN SOLAR 48",
+    "METKA EGN SOLAR 49",
+    "METKA EGN SOLAR 50",
+    "METKA EGN SOLAR 6",
+    "METKA EGN SPAIN HOLDING 1",
+    "METKA EGN SPAIN HOLDING 2",
+    "NEMBUS SOLAR",
+    "PANGION HOLDING S A R L",
+    "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
+    "PLANTA FOTOVOLTAICA LA TORRE 40",
+    "TESSERACT HOLDIGN LIMITED",
+    "TESSERACT HOLDINGS LIMITED",
+    "YILDUN SOLAR"
+   ],
+   "en_boe": [
+    "ARGEO SOLAR",
+    "EGA SURIA",
+    "FOTOVOLTAICA LA CABRITA",
+    "METKA EGN SOLAR 1",
+    "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
+    "PLANTA FOTOVOLTAICA LA TORRE 40"
    ]
   },
   {
@@ -12522,38 +12512,6 @@
    ]
   },
   {
-   "id": "G-AVILA-ECO-ENERGIAS",
-   "sociedades": [
-    "AVILA ECO ENERGIAS",
-    "CROWIND",
-    "ENERGIA DE RIANSARES",
-    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
-    "EOLIA WINDCO",
-    "EOLICA DE CARABUENA",
-    "EOLICA DE MEDINACELI",
-    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
-    "FERGO GALICIA VENTO -P E MONDONEDO",
-    "INICIATIVAS EOLICAS DE ALPERA",
-    "LURIA DE ENERGIAS",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "PARQUE EOLICO CERRO OLIVA",
-    "PARQUE EOLICO MADRIDEJOS",
-    "SISTEMAS ENERGETICOS FUERTEVENTURA",
-    "TARRACO EOLICA LES GARRIGUES",
-    "TARRACO EOLICA LES GARRIGUES DOS",
-    "TARRACO EOLICA-ASCO",
-    "WIGEP ANDALUCIA"
-   ],
-   "en_boe": [
-    "EOLICA DE MEDINACELI",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "TARRACO EOLICA LES GARRIGUES",
-    "WIGEP ANDALUCIA"
-   ]
-  },
-  {
    "id": "G-ALDEBARAN-SERVICIOS-DE-MANTENIMIENTO-EOL",
    "sociedades": [
     "ALDEBARAN SERVICIOS DE MANTENIMIENTO EOLICO",
@@ -12582,6 +12540,37 @@
     "ICTIO SOLAR ORION",
     "NAVABUENA SOLAR",
     "SISTEMAS FOTOVOLTAICO DE LEVANTE"
+   ]
+  },
+  {
+   "id": "G-CROWIND",
+   "sociedades": [
+    "CROWIND",
+    "ENERGIA DE RIANSARES",
+    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
+    "EOLIA WINDCO",
+    "EOLICA DE CARABUENA",
+    "EOLICA DE MEDINACELI",
+    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
+    "FERGO GALICIA VENTO -P E MONDONEDO",
+    "INICIATIVAS EOLICAS DE ALPERA",
+    "LURIA DE ENERGIAS",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "PARQUE EOLICO CERRO OLIVA",
+    "PARQUE EOLICO MADRIDEJOS",
+    "SISTEMAS ENERGETICOS FUERTEVENTURA",
+    "TARRACO EOLICA LES GARRIGUES",
+    "TARRACO EOLICA LES GARRIGUES DOS",
+    "TARRACO EOLICA-ASCO",
+    "WIGEP ANDALUCIA"
+   ],
+   "en_boe": [
+    "EOLICA DE MEDINACELI",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "TARRACO EOLICA LES GARRIGUES",
+    "WIGEP ANDALUCIA"
    ]
   },
   {
@@ -14001,6 +13990,7 @@
     "CARMELA ENERGIA",
     "CASA DE CAMPO SOLAR",
     "CHAMARTIN SOLAR",
+    "CIRCLE ENERGY ANDROMEDA",
     "CLARKSON INVESTMENTS",
     "CLAUDIA ENERGIA",
     "CONCHA ESPINA SOLAR",
@@ -14342,6 +14332,50 @@
    "en_boe": [
     "ALTAIR ECOSOLAR",
     "VEGA LYRA PROMOCIONES FOTOVOLTAICAS"
+   ]
+  },
+  {
+   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
+   "sociedades": [
+    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
+    "ALIZA ENERGY",
+    "ARMONIA GREEN AVILES",
+    "ARMONIA GREEN SEVILLA",
+    "ASESORIA ENERGETICA J Y G",
+    "BIOGASVERD",
+    "CANDELA COMERCIALIZADORA",
+    "CENTRAL ENERGY CONSULTORES",
+    "CONSULTORES DE ENERGIA 2021",
+    "CUPULA 6 1",
+    "ENGIE CASTELNOU",
+    "FOTOVOLT2024",
+    "IGNIS BIOFUELS",
+    "IGNIS DATA GAMMA",
+    "IGNIS DATA KAPPA",
+    "IGNIS ENERGIA",
+    "IGNIS ENERGY HOLDINGS",
+    "IGNIS ENERGY INDUSTRIES",
+    "IGNIS GENERACION",
+    "IGNIS HIDROGENO ALFA",
+    "IGNIS HIDROGENO IOTA",
+    "IGNIS HIDROGENO KAPPA",
+    "IGNIS HIDROGENO ZETA",
+    "IGNIS P2X HOLDINGS",
+    "IGNIS PARTNERS",
+    "IGNIS PROPERTIES",
+    "IGNIS SMART SOLUTIONS",
+    "IGNIS VENTURES",
+    "IZACAN 2024",
+    "MARESME ENERGY PLUS",
+    "NAO ENERGIA COMERCIALIZADORA",
+    "ROBLASUN 2",
+    "SEVERAL ENERGY",
+    "TEC 94",
+    "TILO SOLAR"
+   ],
+   "en_boe": [
+    "ENGIE CASTELNOU",
+    "IGNIS GENERACION"
    ]
   },
   {
@@ -14797,22 +14831,6 @@
    ]
   },
   {
-   "id": "G-AYAGAURES-MEDIO-AMBIENTE",
-   "sociedades": [
-    "AYAGAURES MEDIO AMBIENTE",
-    "BELIDIA ENERGY",
-    "BIOENERGIA GRAN CANARIA",
-    "GPM GENERACION",
-    "GRAN CANARIA BIOGAS",
-    "GRUPO PEREZ MORENO",
-    "SMART FARM BIOGAS MADRID"
-   ],
-   "en_boe": [
-    "AYAGAURES MEDIO AMBIENTE",
-    "BELIDIA ENERGY"
-   ]
-  },
-  {
    "id": "G-BRISA-RENEWABLE-ENERGY",
    "sociedades": [
     "BRISA RENEWABLE ENERGY",
@@ -14860,6 +14878,20 @@
    ]
   },
   {
+   "id": "G-AYAGAURES-MEDIO-AMBIENTE",
+   "sociedades": [
+    "AYAGAURES MEDIO AMBIENTE",
+    "BELIDIA ENERGY",
+    "BIOENERGIA GRAN CANARIA",
+    "GPM GENERACION",
+    "GRUPO PEREZ MORENO"
+   ],
+   "en_boe": [
+    "AYAGAURES MEDIO AMBIENTE",
+    "BELIDIA ENERGY"
+   ]
+  },
+  {
    "id": "G-ENERGIAS-ALTERNATIVAS-DE-LAS-ISLAS",
    "sociedades": [
     "ENERGIAS ALTERNATIVAS DE LAS ISLAS",
@@ -14871,20 +14903,6 @@
    "en_boe": [
     "ENERGIAS ALTERNATIVAS DE LAS ISLAS",
     "MASPALOMAS RESORT"
-   ]
-  },
-  {
-   "id": "G-CIRCLE-ENERGY-ANDROMEDA",
-   "sociedades": [
-    "CIRCLE ENERGY ANDROMEDA",
-    "CIRCLE ENERGY AUSTRAL",
-    "FOTOVOLTAICA BRAZATORTAS I",
-    "IQONY SOLAR ENERGY SOLUTIONS IBERICA",
-    "SENS INVEST"
-   ],
-   "en_boe": [
-    "CIRCLE ENERGY AUSTRAL",
-    "FOTOVOLTAICA BRAZATORTAS I"
    ]
   },
   {
@@ -14939,6 +14957,19 @@
    "en_boe": [
     "EOLICA DEL SURESTE",
     "JPD EOLICO Y FOTOVOLTAICO DEL SURESTE"
+   ]
+  },
+  {
+   "id": "G-CIRCLE-ENERGY-AUSTRAL",
+   "sociedades": [
+    "CIRCLE ENERGY AUSTRAL",
+    "FOTOVOLTAICA BRAZATORTAS I",
+    "IQONY SOLAR ENERGY SOLUTIONS IBERICA",
+    "SENS INVEST"
+   ],
+   "en_boe": [
+    "CIRCLE ENERGY AUSTRAL",
+    "FOTOVOLTAICA BRAZATORTAS I"
    ]
   },
   {
@@ -15753,48 +15784,6 @@
    ]
   },
   {
-   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
-   "sociedades": [
-    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
-    "ALIZA ENERGY",
-    "ARMONIA GREEN AVILES",
-    "ARMONIA GREEN SEVILLA",
-    "ASESORIA ENERGETICA J Y G",
-    "BIOGASVERD",
-    "CANDELA COMERCIALIZADORA",
-    "CENTRAL ENERGY CONSULTORES",
-    "CONSULTORES DE ENERGIA 2021",
-    "CUPULA 6 1",
-    "FOTOVOLT2024",
-    "IGNIS BIOFUELS",
-    "IGNIS DATA GAMMA",
-    "IGNIS DATA KAPPA",
-    "IGNIS ENERGIA",
-    "IGNIS ENERGY HOLDINGS",
-    "IGNIS ENERGY INDUSTRIES",
-    "IGNIS GENERACION",
-    "IGNIS HIDROGENO ALFA",
-    "IGNIS HIDROGENO IOTA",
-    "IGNIS HIDROGENO KAPPA",
-    "IGNIS HIDROGENO ZETA",
-    "IGNIS P2X HOLDINGS",
-    "IGNIS PARTNERS",
-    "IGNIS PROPERTIES",
-    "IGNIS SMART SOLUTIONS",
-    "IGNIS VENTURES",
-    "IZACAN 2024",
-    "MARESME ENERGY PLUS",
-    "NAO ENERGIA COMERCIALIZADORA",
-    "ROBLASUN 2",
-    "SEVERAL ENERGY",
-    "TEC 94",
-    "TILO SOLAR"
-   ],
-   "en_boe": [
-    "IGNIS GENERACION"
-   ]
-  },
-  {
    "id": "G-CG-DEVELOPMENT-I",
    "sociedades": [
     "CG DEVELOPMENT I",
@@ -16444,6 +16433,29 @@
    ]
   },
   {
+   "id": "G-BE-CATALA-FV",
+   "sociedades": [
+    "BE CATALA FV",
+    "BE ORRENTE",
+    "BE VARELA FV",
+    "BE ZURBARAN FV",
+    "BELECTRIC",
+    "BELECTRIC ESPANA",
+    "COMSA GREEN ENERGY",
+    "COMSA RENOVABLES",
+    "COMUNIDADES ENERGETICAS LOCALES",
+    "DEIMOS INVERSION",
+    "ENERGIAS RENOVABLES VILLALONQUEJAR",
+    "ENERGIAS VERDES MORQUILLAS",
+    "ENERGIAS VERDES SARGENTES DE LA LORA",
+    "PROYECTOS SOLARES IBERIA IV",
+    "SPT RENOVABLE"
+   ],
+   "en_boe": [
+    "PROYECTOS SOLARES IBERIA IV"
+   ]
+  },
+  {
    "id": "G-BIOGREEN-ENGINEERING",
    "sociedades": [
     "BIOGREEN ENGINEERING",
@@ -16525,27 +16537,6 @@
    ],
    "en_boe": [
     "DECOAE ENERGIAS RENOVABLES 2"
-   ]
-  },
-  {
-   "id": "G-BE-CATALA-FV",
-   "sociedades": [
-    "BE CATALA FV",
-    "BE ORRENTE",
-    "BE VARELA FV",
-    "BE ZURBARAN FV",
-    "BELECTRIC",
-    "BELECTRIC ESPANA",
-    "COMSA GREEN ENERGY",
-    "COMUNIDADES ENERGETICAS LOCALES",
-    "ENERGIAS RENOVABLES VILLALONQUEJAR",
-    "ENERGIAS VERDES MORQUILLAS",
-    "ENERGIAS VERDES SARGENTES DE LA LORA",
-    "PROYECTOS SOLARES IBERIA IV",
-    "SPT RENOVABLE"
-   ],
-   "en_boe": [
-    "PROYECTOS SOLARES IBERIA IV"
    ]
   },
   {
@@ -17071,6 +17062,19 @@
    ]
   },
   {
+   "id": "G-EFM-SOLAR-38",
+   "sociedades": [
+    "EFM SOLAR 38",
+    "HOLUX STORAGE SYSTEM",
+    "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+    "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+    "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA"
+   ],
+   "en_boe": [
+    "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA"
+   ]
+  },
+  {
    "id": "G-BISCAY-MARINE-ENERGY-PLATFORM",
    "sociedades": [
     "BISCAY MARINE ENERGY PLATFORM",
@@ -17381,6 +17385,17 @@
    ],
    "en_boe": [
     "IGNIS EQUITY HOLDINGS"
+   ]
+  },
+  {
+   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
+   "sociedades": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
+    "REPSOL INDUSTRIAL TRANSFORMATION",
+    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS"
+   ],
+   "en_boe": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
    ]
   },
   {
@@ -17748,16 +17763,6 @@
    ],
    "en_boe": [
     "BIOGASTUR GENERACION NAVIA"
-   ]
-  },
-  {
-   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
-   "sociedades": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
-    "REPSOL INDUSTRIAL TRANSFORMATION"
-   ],
-   "en_boe": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
    ]
   },
   {
@@ -46995,7 +47000,7 @@
    ],
    "borme": [],
    "en_boe": true,
-   "grupo": "ALWIGA NETZBETEILIGUNGEN"
+   "grupo": "ARRABAL 14"
   },
   "ARREBATO SOLAR": {
    "id": "ARREBATO SOLAR",
@@ -52030,7 +52035,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "ALBACETE ECO ENERGIAS"
   },
   "AVINTIA ENERGIA": {
    "id": "AVINTIA ENERGIA",
@@ -76266,7 +76271,7 @@
    ],
    "borme": [],
    "en_boe": true,
-   "grupo": "ALWIGA NETZBETEILIGUNGEN"
+   "grupo": "CASTANO DESARROLLOS ESPANA"
   },
   "CASTANO SOLAR": {
    "id": "CASTANO SOLAR",
@@ -88081,11 +88086,13 @@
   "CIRCLE ENERGY ANDROMEDA": {
    "id": "CIRCLE ENERGY ANDROMEDA",
    "nombres": [
-    "CIRCLE ENERGY ANDROMEDA SL"
+    "CIRCLE ENERGY ANDROMEDA SL",
+    "LA TERCIA 1 PV SL"
    ],
    "nifs": [],
    "domicilios": [
-    "AVDA ALBERTO ALCOCER, 24, 7º (MADRID)"
+    "AVDA ALBERTO ALCOCER, 24, 7º (MADRID)",
+    "C/ POETA JOAN MARAGALL 1, 5ª PLANTA (MADRID)"
    ],
    "actos_boe": [],
    "borme": [
@@ -88107,10 +88114,34 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28",
+     "num": 458533,
+     "actos": [
+      "Sociedad unipersonal",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Cambio de denominación social",
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28",
+     "num": 458534,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
-   "grupo": "CIRCLE ENERGY ANDROMEDA"
+   "grupo": "AGUAMARINA ENERGIA"
   },
   "CIRCLE ENERGY ANTILA": {
    "id": "CIRCLE ENERGY ANTILA",
@@ -88337,7 +88368,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CIRCLE ENERGY ANDROMEDA"
+   "grupo": "CIRCLE ENERGY AUSTRAL"
   },
   "CIRCLE ENERGY BONANZA": {
    "id": "CIRCLE ENERGY BONANZA",
@@ -93264,6 +93295,186 @@
    "en_boe": false,
    "grupo": "BE CATALA FV"
   },
+  "COMSA RENOVABLES": {
+   "id": "COMSA RENOVABLES",
+   "nombres": [
+    "COMSA RENOVABLES SL",
+    "COMSA RENOVABLES SA"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
+     "num": 168351,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
+     "num": 168352,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
+     "num": 168353,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
+     "num": 168354,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
+     "num": 168355,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-08-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-152-08",
+     "num": 376229,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-08-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08",
+     "num": 387607,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-08-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08",
+     "num": 387608,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-206-08",
+     "num": 467639,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-206-08",
+     "num": 467640,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-11-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08",
+     "num": 509483,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-12-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08",
+     "num": 539038,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-12-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08",
+     "num": 539042,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-12-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08",
+     "num": 566185,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-07-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-136-08",
+     "num": 333173,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-11-16",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-218-08",
+     "num": 497887,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-02-20",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-35-08",
+     "num": 87463,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-11-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-226-08",
+     "num": 506330,
+     "actos": [
+      "Extinción",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "BE CATALA FV"
+  },
   "COMUNIDADES ENERGETICAS LOCALES": {
    "id": "COMUNIDADES ENERGETICAS LOCALES",
    "nombres": [
@@ -97598,7 +97809,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "CRUCERO SOLAR": {
    "id": "CRUCERO SOLAR",
@@ -101919,6 +102130,18 @@
    ],
    "en_boe": false,
    "grupo": "ACONCAGUA POWER"
+  },
+  "DEIMOS INVERSION": {
+   "id": "DEIMOS INVERSION",
+   "nombres": [
+    "DEIMOS INVERSION SL"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [],
+   "en_boe": false,
+   "grupo": "BE CATALA FV"
   },
   "DELGADO RENOVABLES": {
    "id": "DELGADO RENOVABLES",
@@ -126240,6 +126463,90 @@
    "en_boe": false,
    "grupo": "EFM BALEARS SOSTENIBLE"
   },
+  "EFM SOLAR 38": {
+   "id": "EFM SOLAR 38",
+   "nombres": [
+    "EFM SOLAR 38 SL",
+    "GLOBAL INFINITUM DATA SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "CMNO DE LA ZARZUELA 21 1º C (MADRID)",
+    "C/ SOMERA, NUMERO 5, 2º, LA FLORIDA (MADRID)",
+    "C/ SOMERA 5 - 2ª PLANTA (MADRID)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2023-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-71-28",
+     "num": 177875,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-05-06",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-86-28",
+     "num": 211022,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-05-06",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-86-28",
+     "num": 211023,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-06-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-119-28",
+     "num": 281372,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-08-01",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-147-28",
+     "num": 340686,
+     "actos": [
+      "Pérdida del carácter de unipersonalidad",
+      "Ampliación de capital",
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-11-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-222-28",
+     "num": 493186,
+     "actos": [
+      "Cambio de denominación social",
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "EFM SOLAR 38"
+  },
   "EFM SOSTENIBLE 02": {
    "id": "EFM SOSTENIBLE 02",
    "nombres": [
@@ -142219,7 +142526,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "ENERGIA DE SURIA": {
    "id": "ENERGIA DE SURIA",
@@ -165204,6 +165511,15 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-45",
+     "num": 459331,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": true,
@@ -166509,7 +166825,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "ENERGIAS RENOVABLES AGUIMES": {
    "id": "ENERGIAS RENOVABLES AGUIMES",
@@ -180868,7 +181184,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ALBACETE ECO ENERGIAS"
+   "grupo": "AHMON NH3 PROCESS STORAGE DISTRIBUTION"
   },
   "ENGIE ESPANA": {
    "id": "ENGIE ESPANA",
@@ -184086,7 +184402,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA AIRCAN": {
    "id": "EOLICA AIRCAN",
@@ -184434,7 +184750,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA DE CASTIL DE TIERRA": {
    "id": "EOLICA DE CASTIL DE TIERRA",
@@ -184651,7 +184967,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA DE RADONA": {
    "id": "EOLICA DE RADONA",
@@ -198665,7 +198981,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EXPLOTACIONES EOLICAS SIERRA DE UTRERA": {
    "id": "EXPLOTACIONES EOLICAS SIERRA DE UTRERA",
@@ -202001,7 +202317,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "FERNANDO SOL": {
    "id": "FERNANDO SOL",
@@ -205543,7 +205859,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CIRCLE ENERGY ANDROMEDA"
+   "grupo": "CIRCLE ENERGY AUSTRAL"
   },
   "FOTOVOLTAICA DE VILLANUEVA UNO": {
    "id": "FOTOVOLTAICA DE VILLANUEVA UNO",
@@ -241182,79 +241498,6 @@
    "en_boe": true,
    "grupo": "GR TURBON RENOVABLES"
   },
-  "GRAN CANARIA BIOGAS": {
-   "id": "GRAN CANARIA BIOGAS",
-   "nombres": [
-    "GRAN CANARIA BIOGAS, SOCIEDAD LIMITADA(R.M. LAS PALMAS)"
-   ],
-   "nifs": [],
-   "domicilios": [
-    "C/ JOSE MANUEL MOTA S/N - ECOPARQUE GRAN CANARIA N (PALMAS DE GRAN CANARIA (LAS"
-   ],
-   "actos_boe": [],
-   "borme": [
-    {
-     "fecha": "2021-08-26",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-164-35",
-     "num": 397399,
-     "actos": [
-      "Constitución",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-08-26",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-164-35",
-     "num": 397400,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-10-19",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-201-35",
-     "num": 458677,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2022-05-09",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35",
-     "num": 205390,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2025-03-11",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35",
-     "num": 116638,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2025-03-11",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35",
-     "num": 116639,
-     "actos": [
-      "Ceses/Dimisiones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    }
-   ],
-   "en_boe": false,
-   "grupo": "AYAGAURES MEDIO AMBIENTE"
-  },
   "GRAN VIA SOLAR": {
    "id": "GRAN VIA SOLAR",
    "nombres": [
@@ -266778,6 +267021,73 @@
    "en_boe": false,
    "grupo": "ALAMINOS ENERGIAS RENOVABLES"
   },
+  "HOLUX STORAGE SYSTEM": {
+   "id": "HOLUX STORAGE SYSTEM",
+   "nombres": [
+    "HOLUX STORAGE SYSTEM SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "C/ PUERTO 14 4 6 (MALAGA)",
+    "C/ SOMERA 5 - 2ª PLANTA (MADRID)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2023-01-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-16-29",
+     "num": 38822,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29",
+     "num": 530812,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29",
+     "num": 530813,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29",
+     "num": 530814,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-03-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-46-28",
+     "num": 112561,
+     "actos": [
+      "Cambio de denominación social",
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "EFM SOLAR 38"
+  },
   "HOMEPOWER ENERGY": {
    "id": "HOMEPOWER ENERGY",
    "nombres": [
@@ -268149,6 +268459,36 @@
    ],
    "en_boe": false,
    "grupo": "AZAGRA ENERGY QUEL"
+  },
+  "HYMET BARCELONA": {
+   "id": "HYMET BARCELONA",
+   "nombres": [
+    "Hymet Barcelona, SL",
+    "HYMET BARCELONA SOCIEDAD LIMITADA"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PLAZA EUSKADI 5 - PLANTA 15ª TORRE IBERDROLA OFIC (BILBAO)"
+   ],
+   "actos_boe": [
+    "BOE-B-2026-33518"
+   ],
+   "borme": [
+    {
+     "fecha": "2025-05-22",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-95-48",
+     "num": 229515,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": true,
+   "grupo": "HYMET BARCELONA"
   },
   "HYREN ALMONTE": {
    "id": "HYREN ALMONTE",
@@ -282269,7 +282609,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "INMEDICAL THERAPEUTICS": {
    "id": "INMEDICAL THERAPEUTICS",
@@ -285362,7 +285702,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CIRCLE ENERGY ANDROMEDA"
+   "grupo": "CIRCLE ENERGY AUSTRAL"
   },
   "IRENE SOLAR": {
    "id": "IRENE SOLAR",
@@ -294938,6 +295278,65 @@
    "en_boe": false,
    "grupo": "ALAUDA SOLAR"
   },
+  "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA": {
+   "id": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "nombres": [
+    "LANTANA DESARROLLOS FOTOVOLTAICOS ESPAÑA SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "C/ MALAGA 5 (PINTO)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2023-05-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28",
+     "num": 245089,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-05-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28",
+     "num": 245090,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28",
+     "num": 533092,
+     "actos": [
+      "Pérdida del carácter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28",
+     "num": 568481,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "EFM SOLAR 38"
+  },
   "LANTANO FOTOVOLTAICA": {
    "id": "LANTANO FOTOVOLTAICA",
    "nombres": [
@@ -298691,7 +299090,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ALWIGA NETZBETEILIGUNGEN"
+   "grupo": "LILASOL DESARROLLOS ESPANA"
   },
   "LIMA ENERGY": {
    "id": "LIMA ENERGY",
@@ -303087,7 +303486,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "LUSIBERIA": {
    "id": "LUSIBERIA",
@@ -321447,6 +321846,65 @@
    ],
    "en_boe": false,
    "grupo": "ACACIA POWER"
+  },
+  "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA": {
+   "id": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "nombres": [
+    "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPAÑA SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "C/ MALAGA 5 (PINTO)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2023-05-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-96-28",
+     "num": 236260,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-05-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28",
+     "num": 240762,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28",
+     "num": 533033,
+     "actos": [
+      "Pérdida del carácter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28",
+     "num": 533034,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "EFM SOLAR 38"
   },
   "MINAYA WIND": {
    "id": "MINAYA WIND",
@@ -359007,6 +359465,69 @@
    "en_boe": true,
    "grupo": "OLMEDILLA HIVE"
   },
+  "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA": {
+   "id": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "nombres": [
+    "OLMO DESARROLLOS FOTOVOLTAICOS ESPAÑA, SL",
+    "OLMO DESARROLLOS FOTOVOLTAICOS ESPAÑA SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "la calle Málaga, 5 de Pinto 28320 Madrid",
+    "C/ MALAGA 5 (PINTO)"
+   ],
+   "actos_boe": [
+    "BOE-B-2026-33542"
+   ],
+   "borme": [
+    {
+     "fecha": "2021-09-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28",
+     "num": 406670,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-09-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28",
+     "num": 406671,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28",
+     "num": 533014,
+     "actos": [
+      "Pérdida del carácter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28",
+     "num": 533015,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": true,
+   "grupo": "EFM SOLAR 38"
+  },
   "OMAEI ENERGY": {
    "id": "OMAEI ENERGY",
    "nombres": [
@@ -364852,7 +365373,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARC EOLIC SERRA VOLTORERA": {
    "id": "PARC EOLIC SERRA VOLTORERA",
@@ -365777,7 +366298,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO ALSA": {
    "id": "PARQUE EOLICO ALSA",
@@ -368131,7 +368652,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO CINSEIRO": {
    "id": "PARQUE EOLICO CINSEIRO",
@@ -372589,7 +373110,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO MAGAZ": {
    "id": "PARQUE EOLICO MAGAZ",
@@ -408808,7 +409329,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ALWIGA NETZBETEILIGUNGEN"
+   "grupo": "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA"
   },
   "RALOS DEVELOPMENT FOTOVOLTAICO SUR": {
    "id": "RALOS DEVELOPMENT FOTOVOLTAICO SUR",
@@ -420184,7 +420705,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ALECTORIS ENERGIA SOSTENIBLE 1"
+   "grupo": "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
   },
   "REPSOL RENOVABLES": {
    "id": "REPSOL RENOVABLES",
@@ -434841,7 +435362,7 @@
    "actos_boe": [],
    "borme": [],
    "en_boe": false,
-   "grupo": "CIRCLE ENERGY ANDROMEDA"
+   "grupo": "CIRCLE ENERGY AUSTRAL"
   },
   "SENTINA SOLAR": {
    "id": "SENTINA SOLAR",
@@ -445293,7 +445814,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "SISTEMAS ENERGETICOS GOMERA": {
    "id": "SISTEMAS ENERGETICOS GOMERA",
@@ -446637,6 +447158,15 @@
      "num": 282174,
      "actos": [
       "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-50",
+     "num": 459584,
+     "actos": [
+      "Reelecciones",
       "Datos registrales"
      ]
     }
@@ -449391,56 +449921,6 @@
    ],
    "en_boe": false,
    "grupo": "3E RENEWABLE ENERGY SOFTWARE AND SERVICES IBERICA"
-  },
-  "SMART FARM BIOGAS MADRID": {
-   "id": "SMART FARM BIOGAS MADRID",
-   "nombres": [
-    "SMART FARM BIOGAS MADRID SL"
-   ],
-   "nifs": [],
-   "domicilios": [],
-   "actos_boe": [],
-   "borme": [
-    {
-     "fecha": "2025-11-04",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-211-28",
-     "num": 483826,
-     "actos": [
-      "Pérdida del carácter de unipersonalidad",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2025-11-12",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28",
-     "num": 496117,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2026-06-03",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-104-28",
-     "num": 264566,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2026-09-21",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28",
-     "num": 422499,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    }
-   ],
-   "en_boe": false,
-   "grupo": "AYAGAURES MEDIO AMBIENTE"
   },
   "SMARTENERGY GROUP AG": {
    "id": "SMARTENERGY GROUP AG",
@@ -467575,7 +468055,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRACO EOLICA LES GARRIGUES DOS": {
    "id": "TARRACO EOLICA LES GARRIGUES DOS",
@@ -467697,7 +468177,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRACO EOLICA-ASCO": {
    "id": "TARRACO EOLICA-ASCO",
@@ -467847,7 +468327,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRAGONA POWER": {
    "id": "TARRAGONA POWER",
@@ -490623,7 +491103,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "WILD SUN": {
    "id": "WILD SUN",
@@ -609015,6 +609495,44 @@
    ],
    "primera": "2026-10-14",
    "ultima": "2026-10-14"
+  },
+  "SOLANA": {
+   "id": "SOLANA",
+   "nombres": [
+    "Solana"
+   ],
+   "mw": 5.0,
+   "tecnologias": [
+    "fotovoltaica"
+   ],
+   "titulares": [
+    "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA"
+   ],
+   "expedientes": [
+    "FUE-2024-03832707"
+   ],
+   "acumulacion": false,
+   "colectoras": [
+    "constanti|25"
+   ],
+   "municipios": [
+    "Tarragona",
+    "Constantí",
+    "Po Pn"
+   ],
+   "provincias": [
+    "Tarragona"
+   ],
+   "actos": [
+    {
+     "id": "BOE-B-2026-33542",
+     "fecha": "2026-10-15",
+     "acto": "informacion_publica",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33542"
+    }
+   ],
+   "primera": "2026-10-15",
+   "ultima": "2026-10-15"
   }
  },
  "evidencias": [
@@ -616937,22 +617455,6 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2020-01-07",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-3-46"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-5b0b8a8c3d",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-5b0b8a8c3d",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
   },
   {
    "tipo": "historico",
@@ -663757,6 +664259,22 @@
   {
    "tipo": "historico",
    "a": "PF-ebf5f8fb48",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-ebf5f8fb48",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-ebf5f8fb48",
    "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
    "detalle": "Revocaciones: APOD.MANCOMU",
    "fecha": "2021-12-10",
@@ -663865,6 +664383,14 @@
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2026-03-30",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-61-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-ebf5f8fb48",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN, APODERAD.SOL",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "persona",
@@ -685805,6 +686331,14 @@
   {
    "tipo": "control",
    "a": "X-ELIO ENERGY",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Adm. único, Socio único",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
+  },
+  {
+   "tipo": "control",
+   "a": "X-ELIO ENERGY",
    "b": "CLARKSON INVESTMENTS",
    "detalle": "Socio único",
    "fecha": "2020-02-19",
@@ -705397,6 +705931,14 @@
   {
    "tipo": "historico",
    "a": "PF-9f01b59920",
+   "b": "EFM SOLAR 38",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2024-05-06",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-86-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-9f01b59920",
    "b": "UNIVERGY RENOVABLES DE ADARA",
    "detalle": "Ceses/Dimisiones: Adm. mancomunado",
    "fecha": "2025-02-13",
@@ -709461,6 +710003,14 @@
   {
    "tipo": "historico",
    "a": "VIRIDI RE DEVELOPMENT",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2021-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "VIRIDI RE DEVELOPMENT",
    "b": "HIGUERA DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Socio único: Socio único",
    "fecha": "2023-05-23",
@@ -709469,10 +710019,26 @@
   {
    "tipo": "historico",
    "a": "VIRIDI RE DEVELOPMENT",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2023-05-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-96-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "VIRIDI RE DEVELOPMENT",
    "b": "BAMBU DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Socio único: Socio único",
    "fecha": "2023-05-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-96-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "VIRIDI RE DEVELOPMENT",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
   },
   {
    "tipo": "control",
@@ -710005,6 +710571,14 @@
   {
    "tipo": "historico",
    "a": "PF-26d78234f8",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-26d78234f8",
    "b": "BAMBU DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Ceses/Dimisiones: Adm. único",
    "fecha": "2024-12-10",
@@ -710014,6 +710588,14 @@
    "tipo": "historico",
    "a": "PF-26d78234f8",
    "b": "HIGUERA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-26d78234f8",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Ceses/Dimisiones: Adm. único",
    "fecha": "2024-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
@@ -710275,6 +710857,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-23-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-1bd568eb34",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-1bd568eb34",
    "b": "ACACIA DESARROLLOS FOTOVOLTAICOS ESPANA",
@@ -710381,6 +710971,14 @@
   {
    "tipo": "persona",
    "a": "PF-1bd568eb34",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-1bd568eb34",
    "b": "LAVANDA DESARROLLOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2020-02-12",
@@ -710413,10 +711011,26 @@
   {
    "tipo": "persona",
    "a": "PF-1bd568eb34",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-1bd568eb34",
    "b": "OLIVO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado, Apoderado mancomunado",
    "fecha": "2022-02-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-33-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-1bd568eb34",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
   },
   {
    "tipo": "persona",
@@ -710541,6 +711155,22 @@
   {
    "tipo": "historico",
    "a": "PF-479f835070",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-479f835070",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-479f835070",
    "b": "BAMBU DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2024-12-10",
@@ -710553,6 +711183,14 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2024-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-479f835070",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28"
   },
   {
    "tipo": "persona",
@@ -710861,6 +711499,14 @@
   {
    "tipo": "persona",
    "a": "PF-70c2ced800",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-70c2ced800",
    "b": "LAVANDA DESARROLLOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2020-02-12",
@@ -710893,10 +711539,26 @@
   {
    "tipo": "persona",
    "a": "PF-70c2ced800",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-70c2ced800",
    "b": "OLIVO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado, Consejero",
    "fecha": "2022-02-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-33-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-70c2ced800",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2021-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28"
   },
   {
    "tipo": "persona",
@@ -711109,6 +711771,14 @@
   {
    "tipo": "persona",
    "a": "PF-2b91971b39",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-2b91971b39",
    "b": "LAVANDA DESARROLLOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2020-02-12",
@@ -711141,10 +711811,26 @@
   {
    "tipo": "persona",
    "a": "PF-2b91971b39",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-2b91971b39",
    "b": "OLIVO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2022-02-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-33-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-2b91971b39",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2021-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28"
   },
   {
    "tipo": "persona",
@@ -711333,6 +712019,14 @@
   {
    "tipo": "persona",
    "a": "PF-c3411e5859",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c3411e5859",
    "b": "LAVANDA DESARROLLOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2020-02-12",
@@ -711365,10 +712059,26 @@
   {
    "tipo": "persona",
    "a": "PF-c3411e5859",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c3411e5859",
    "b": "OLIVO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado, Consejero, Presidente",
    "fecha": "2022-02-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-33-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c3411e5859",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2021-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28"
   },
   {
    "tipo": "persona",
@@ -711509,6 +712219,14 @@
   {
    "tipo": "persona",
    "a": "PF-52adbcc544",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-100-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-52adbcc544",
    "b": "LAVANDA DESARROLLOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2020-02-12",
@@ -711541,10 +712259,26 @@
   {
    "tipo": "persona",
    "a": "PF-52adbcc544",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-52adbcc544",
    "b": "OLIVO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2022-02-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-33-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-52adbcc544",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2021-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-169-28"
   },
   {
    "tipo": "persona",
@@ -723212,6 +723946,70 @@
   },
   {
    "tipo": "historico",
+   "a": "COMSA RENOVABLES",
+   "b": "BE CATALA FV",
+   "detalle": "Revocaciones: ADM.CONJUNTO",
+   "fecha": "2022-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-117-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "COMSA RENOVABLES",
+   "b": "ENERGIAS VERDES MORQUILLAS",
+   "detalle": "Revocaciones: ADM.CONJUNTO",
+   "fecha": "2022-07-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-140-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "COMSA RENOVABLES",
+   "b": "ENERGIAS VERDES MORQUILLAS",
+   "detalle": "Revocaciones: ADM.CONJUNTO",
+   "fecha": "2023-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "COMSA RENOVABLES",
+   "b": "ENERGIAS VERDES SARGENTES DE LA LORA",
+   "detalle": "Revocaciones: ADM.CONJUNTO",
+   "fecha": "2023-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "COMSA RENOVABLES",
+   "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
+   "detalle": "Revocaciones: ADM.CONJUNTO",
+   "fecha": "2023-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4a9c873f15",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2021-08-18",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4a9c873f15",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Consejero",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-a78b782f3a",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-a78b782f3a",
    "b": "ENERGIAS VERDES MORQUILLAS",
    "detalle": "Revocaciones: ADM.CONJUNTO",
@@ -723291,6 +724089,38 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-9-08"
   },
   {
+   "tipo": "persona",
+   "a": "PF-a78b782f3a",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN, APODERAD.SOL",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-362920b6b5",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e5c018d089",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e5c018d089",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
    "tipo": "historico",
    "a": "PF-e5c018d089",
    "b": "BE CATALA FV",
@@ -723357,10 +724187,34 @@
   {
    "tipo": "persona",
    "a": "PF-e5c018d089",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e5c018d089",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-91a072dc36",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-91a072dc36",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -723381,6 +724235,14 @@
   {
    "tipo": "historico",
    "a": "PF-7dab342ee2",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-7dab342ee2",
    "b": "BE CATALA FV",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-23",
@@ -723441,6 +724303,14 @@
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-01-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-16-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-7dab342ee2",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "persona",
@@ -723453,6 +724323,14 @@
   {
    "tipo": "historico",
    "a": "PF-9a1c0afd48",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-9a1c0afd48",
    "b": "BE CATALA FV",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-23",
@@ -723513,6 +724391,14 @@
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-01-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-16-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-9a1c0afd48",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "persona",
@@ -723525,10 +724411,50 @@
   {
    "tipo": "historico",
    "a": "PF-c86a9ad93a",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-c86a9ad93a",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-c86a9ad93a",
    "b": "SPT RENOVABLE",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c86a9ad93a",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-60d34a5be9",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-60d34a5be9",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -723537,6 +724463,22 @@
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-60d34a5be9",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f0cca37eab",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -723621,10 +724563,26 @@
   {
    "tipo": "persona",
    "a": "PF-f0cca37eab",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f0cca37eab",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-09-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-184-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-7f4388c0b2",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "persona",
@@ -723633,6 +724591,14 @@
    "detalle": "APODERAD.SOL",
    "fecha": "2023-02-21",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-36-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-15fbb93e35",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APODERAD.SOL",
+   "fecha": "2021-12-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08"
   },
   {
    "tipo": "historico",
@@ -779019,6 +779985,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-39-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-68a43561dc",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-68a43561dc",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-68a43561dc",
    "b": "BEKAR DIRECTORSHIP",
@@ -779497,6 +780479,22 @@
    "detalle": "Ceses/Dimisiones: Representante",
    "fecha": "2025-03-27",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-60-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-a5c535ea2a",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-a5c535ea2a",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
   },
   {
    "tipo": "persona",
@@ -800883,20 +801881,20 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-45-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-9a40853370",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-9a40853370",
    "b": "CAPITAL ENERGY CENTRO NORTE",
    "detalle": "Apoderado solidario",
    "fecha": "2021-03-12",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-49-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-9a40853370",
-   "b": "CIRCLE ENERGY ANDROMEDA",
-   "detalle": "Adm. mancomunado",
-   "fecha": "2026-04-07",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-65-28"
   },
   {
    "tipo": "persona",
@@ -812195,46 +813193,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-156-41"
   },
   {
-   "tipo": "historico",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
    "tipo": "persona",
    "a": "PF-33b911a116",
    "b": "AYAGAURES MEDIO AMBIENTE",
@@ -812257,30 +813215,6 @@
    "detalle": "Apoderado solidario, Consejero, Consejero delegado mancomunado, Presidente",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-33b911a116",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli, Consejero",
-   "fecha": "2021-08-26",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-164-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-82ad34d466",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-82ad34d466",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
   },
   {
    "tipo": "persona",
@@ -812316,14 +813250,6 @@
   },
   {
    "tipo": "persona",
-   "a": "PF-82ad34d466",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli, Consejero",
-   "fecha": "2021-08-26",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-164-35"
-  },
-  {
-   "tipo": "persona",
    "a": "PF-db55677457",
    "b": "AYAGAURES MEDIO AMBIENTE",
    "detalle": "Consejero",
@@ -812353,22 +813279,6 @@
    "detalle": "Consejero",
    "fecha": "2025-10-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-207-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-85735db7ac",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-85735db7ac",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
   },
   {
    "tipo": "persona",
@@ -812401,14 +813311,6 @@
    "detalle": "Apoderado solidario, Consejero delegado mancomunado",
    "fecha": "2025-10-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-207-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-85735db7ac",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
   },
   {
    "tipo": "persona",
@@ -840852,54 +841754,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-9a72e7a1d3",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-8deb97aa6a",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a93a4e1c32",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-154fc7d678",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-544eb96a89",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-76bc948639",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-6ae1aaaad8",
    "b": "KWFVI ENERGIA",
    "detalle": "Revocaciones: Apoderado",
@@ -845201,6 +846055,30 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2022-10-21",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-202-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-9606ba8467",
+   "b": "EFM SOLAR 38",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-119-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-9606ba8467",
+   "b": "EFM SOLAR 38",
+   "detalle": "Consejero, Presidente",
+   "fecha": "2024-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-119-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-9606ba8467",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2024-12-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29"
   },
   {
    "tipo": "persona",
@@ -879923,366 +880801,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-90-33"
   },
   {
-   "tipo": "historico",
-   "a": "PF-97025ffc18",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-97025ffc18",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-97025ffc18",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-97025ffc18",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-97025ffc18",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-032f92fc21",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-9f84c6a1d5",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-aeeb2c33cc",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-aeeb2c33cc",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-aeeb2c33cc",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d3fdf09acf",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d3fdf09acf",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d3fdf09acf",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d3fdf09acf",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-d3fdf09acf",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-d3fdf09acf",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-3ed7d27d51",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-3ed7d27d51",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-192ba7f72d",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-5453795263",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-92bad3c2f4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-92bad3c2f4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-92bad3c2f4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-92bad3c2f4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-12299d34ea",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-12299d34ea",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-12299d34ea",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-12299d34ea",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-12299d34ea",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-5126de7047",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-5126de7047",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-96c56680bd",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1bfa852bb1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1bfa852bb1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-98587aea66",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-98587aea66",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c2a9e35a2d",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c2a9e35a2d",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-578f6a7631",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-578f6a7631",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a603aec06b",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a603aec06b",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f7eeb00b27",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f7eeb00b27",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f7eeb00b27",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
    "tipo": "persona",
    "a": "PF-a597ffc43c",
    "b": "UNIVERGY RENOVABLES ERIKA",
@@ -898252,22 +898770,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-64d762ed13",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-daa83f9866",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-418e7f1bf7",
    "b": "EXTRESOL 2",
    "detalle": "Revocaciones: Apoderado",
@@ -908172,38 +908674,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-6b4c9f0444",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-6b4c9f0444",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apoderado, Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f2ef3cbd07",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-f2ef3cbd07",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apoderado, Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-ca82263605",
    "b": "REDEXIS",
    "detalle": "Ceses/Dimisiones: Consejero",
@@ -908249,158 +908719,6 @@
    "detalle": "Con.Delegado, Consejero, Vicepresidente",
    "fecha": "2024-01-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-19-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-33dd4c7ed2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-33dd4c7ed2",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c7e5c8e4ca",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Ceses/Dimisiones: Consejero",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c7e5c8e4ca",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Ceses/Dimisiones: Presidente",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c7e5c8e4ca",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c7e5c8e4ca",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-c7e5c8e4ca",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apoderado mancomunado",
-   "fecha": "2021-10-19",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-201-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c1dc846de5",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c1dc846de5",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c1dc846de5",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c1dc846de5",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
   },
   {
    "tipo": "historico",
@@ -908621,6 +908939,14 @@
   {
    "tipo": "historico",
    "a": "PF-f325dfd600",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-12-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f325dfd600",
    "b": "SONEMOS RENOVABLES CONSULTORES",
    "detalle": "Ceses/Dimisiones: Adm. único",
    "fecha": "2025-10-02",
@@ -908641,6 +908967,14 @@
    "detalle": "Adm. único, Socio único",
    "fecha": "2021-01-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-16-18"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f325dfd600",
+   "b": "EFM SOLAR 38",
+   "detalle": "Consejero",
+   "fecha": "2024-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-119-28"
   },
   {
    "tipo": "persona",
@@ -908673,6 +909007,38 @@
    "detalle": "Adm. mancomunado",
    "fecha": "2023-11-16",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-218-29"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f325dfd600",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2024-12-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f325dfd600",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado, Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f325dfd600",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado, Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f325dfd600",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado, Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
   },
   {
    "tipo": "persona",
@@ -936875,6 +937241,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-117-28"
   },
   {
+   "tipo": "administra",
+   "a": "DEIMOS INVERSION",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Consejero",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
    "tipo": "historico",
    "a": "PF-f8d33f0769",
    "b": "COMSA GREEN ENERGY",
@@ -936883,12 +937257,52 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-109-08"
   },
   {
+   "tipo": "persona",
+   "a": "PF-f8d33f0769",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APODERAD.SOL",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-87f2060989",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-04cf4b362e",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-04cf4b362e",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
    "tipo": "historico",
    "a": "PF-04cf4b362e",
    "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2021-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-235-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-04cf4b362e",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2022-07-18",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-136-08"
   },
   {
    "tipo": "historico",
@@ -936905,6 +937319,30 @@
    "detalle": "Revocaciones: APOD.MANCOMU",
    "fecha": "2024-08-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-162-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-06bdc94fe3",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-06bdc94fe3",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APOD.SOL/MAN",
+   "fecha": "2021-11-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-06bdc94fe3",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APOD.SOL/MAN",
+   "fecha": "2021-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "historico",
@@ -943683,14 +944121,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-183-28"
   },
   {
-   "tipo": "persona",
-   "a": "PF-1dae3f1c37",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apoderado, Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
    "tipo": "historico",
    "a": "PF-1e7b98ef44",
    "b": "SOLAER ENERGIAS LA TRUCHA",
@@ -944057,6 +944487,14 @@
    "detalle": "Apoderado",
    "fecha": "2025-03-06",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4151c0e5a8",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Apoderado",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
   },
   {
    "tipo": "persona",
@@ -971244,14 +971682,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-8f2bec8d19",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Ceses/Dimisiones: Consejero",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-e0760fc3f7",
    "b": "HLS BONETE PV",
    "detalle": "Revocaciones: Apoderado solidario",
@@ -978444,54 +978874,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-daaa6d68da",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-2d07207da2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-2d07207da2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-2d07207da2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-2d07207da2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-2d07207da2",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-d072edf3ae",
    "b": "GAZULES II SOLAR",
    "detalle": "Revocaciones: APOD.SOL/MAN",
@@ -979545,6 +979927,14 @@
    "detalle": "Revocaciones: Apoderado solidario",
    "fecha": "2021-10-25",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-205-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-dc7dc6f3c8",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APODERAD.SOL",
+   "fecha": "2022-11-16",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-218-08"
   },
   {
    "tipo": "historico",
@@ -981977,198 +982367,6 @@
    "detalle": "Revocaciones: Apo.Man.Soli",
    "fecha": "2026-07-06",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-127-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a015824c20",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a015824c20",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a015824c20",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-a015824c20",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-a015824c20",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-db3b6492ff",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-db3b6492ff",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-db3b6492ff",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-db3b6492ff",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-db3b6492ff",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-ce202416f1",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-ce202416f1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-ce202416f1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-ce202416f1",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-ce202416f1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-84b81dbf50",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-84b81dbf50",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-84b81dbf50",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-84b81dbf50",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-84b81dbf50",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1f74a0e984",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1f74a0e984",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-815caa347c",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-815caa347c",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
   },
   {
    "tipo": "historico",
@@ -987196,6 +987394,14 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-eb5a1d28d0",
+   "b": "COMSA RENOVABLES",
+   "detalle": "APODERAD.SOL",
+   "fecha": "2021-12-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-f2fa935c06",
    "b": "CENTRAL ENERGY CONSULTORES",
    "detalle": "ADM.SOLIDAR",
@@ -989545,6 +989751,38 @@
    "detalle": "Revocaciones: Apoderado solidario",
    "fecha": "2023-01-05",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-4-47"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-de7c487cb5",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2021-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-de7c487cb5",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APODERAD.SOL",
+   "fecha": "2021-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-d12f735b34",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2021-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-d3e6a01728",
+   "b": "COMSA RENOVABLES",
+   "detalle": "Revocaciones: APODERAD.SOL",
+   "fecha": "2021-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
   },
   {
    "tipo": "historico",
@@ -994829,6 +995067,14 @@
   {
    "tipo": "historico",
    "a": "PF-3c0d2b463e",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-3c0d2b463e",
    "b": "LIRIO DESARROLLOS ESPANA",
    "detalle": "Ceses/Dimisiones: Consejero",
    "fecha": "2025-02-13",
@@ -994905,6 +995151,14 @@
    "detalle": "Apoderado",
    "fecha": "2023-05-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-95-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e45f8d3283",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
   },
   {
    "tipo": "persona",
@@ -1002481,6 +1002735,14 @@
    "detalle": "Apoderado",
    "fecha": "2023-05-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-95-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-6b58ac0886",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2023-05-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-98-28"
   },
   {
    "tipo": "persona",
@@ -1010676,94 +1010938,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-1fea5338c1",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1fea5338c1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-1fea5338c1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-1fea5338c1",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-1fea5338c1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-267cb42bfd",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-267cb42bfd",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-267cb42bfd",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-267cb42bfd",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-05-09",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-87-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-267cb42bfd",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d0ced9d86c",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-3be67c165d",
    "b": "ABDA ENERGIA",
    "detalle": "Revocaciones: Adm. único",
@@ -1013753,6 +1013927,14 @@
    "detalle": "Ceses/Dimisiones: Adm. mancomunado",
    "fecha": "2023-02-14",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-31-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-04f8c04ce8",
+   "b": "EFM SOLAR 38",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2024-05-06",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-86-28"
   },
   {
    "tipo": "historico",
@@ -1033835,14 +1034017,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-86-38"
   },
   {
-   "tipo": "persona",
-   "a": "PF-13322de638",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli, Apoderado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
    "tipo": "control",
    "a": "BRO Y PIKY ENERGY",
    "b": "ATENEA ENERGY",
@@ -1039475,14 +1039649,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-30-28"
   },
   {
-   "tipo": "persona",
-   "a": "PF-813320cdf5",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
    "tipo": "historico",
    "a": "PF-5a53a868bd",
    "b": "ROBLASUN 2",
@@ -1039553,14 +1039719,6 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2025-02-13",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-30-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-09927fb028",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
   },
   {
    "tipo": "historico",
@@ -1047453,6 +1047611,14 @@
   {
    "tipo": "persona",
    "a": "PF-e6cdd4e201",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e6cdd4e201",
    "b": "LIMON DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Adm. único",
    "fecha": "2023-09-27",
@@ -1047485,6 +1047651,14 @@
   {
    "tipo": "persona",
    "a": "PF-e6cdd4e201",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e6cdd4e201",
    "b": "NARANJO DESARROLLOS ESPANA",
    "detalle": "Adm. único",
    "fecha": "2023-09-27",
@@ -1047505,6 +1047679,14 @@
    "detalle": "Adm. único",
    "fecha": "2024-12-05",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-235-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e6cdd4e201",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
   },
   {
    "tipo": "persona",
@@ -1053379,70 +1053561,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-245-48"
   },
   {
-   "tipo": "historico",
-   "a": "PF-4ef49ef101",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-4ef49ef101",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-4ef49ef101",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli, Consejero",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-4ef49ef101",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c15d681a53",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c15d681a53",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-c15d681a53",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-c15d681a53",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
    "tipo": "persona",
    "a": "PF-af97f6513a",
    "b": "AL-ANDALUS WIND POWER",
@@ -1053457,14 +1053575,6 @@
    "detalle": "Apoderado",
    "fecha": "2024-07-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-137-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-af97f6513a",
-   "b": "GRAN CANARIA BIOGAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2025-03-11",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-48-35"
   },
   {
    "tipo": "persona",
@@ -1055609,6 +1055719,14 @@
    "detalle": "Ceses/Dimisiones: Adm. mancomunado",
    "fecha": "2025-04-16",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-74-42"
+  },
+  {
+   "tipo": "historico",
+   "a": "STOOL RENOVABLES",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2023-01-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-16-29"
   },
   {
    "tipo": "control",
@@ -1061689,142 +1061807,6 @@
    "detalle": "Apoderado",
    "fecha": "2023-03-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-57-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-5adf46a04f",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f94ce741a6",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f94ce741a6",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f94ce741a6",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f94ce741a6",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-df7025aef1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-df7025aef1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-df7025aef1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-df7025aef1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-77a710f6e4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-77a710f6e4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-77a710f6e4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-77a710f6e4",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f0c1cbd3b3",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f0c1cbd3b3",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f0c1cbd3b3",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f0c1cbd3b3",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado mancomunado",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
   },
   {
    "tipo": "historico",
@@ -1072614,6 +1072596,30 @@
    "tipo": "persona",
    "a": "PF-c11bee3ce2",
    "b": "HIGUERA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c11bee3ce2",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c11bee3ce2",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c11bee3ce2",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2024-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
@@ -1130189,7 +1130195,39 @@
   {
    "tipo": "persona",
    "a": "PF-5d272affe0",
+   "b": "EFM SOLAR 38",
+   "detalle": "Consejero, Consejero delegado mancomunado",
+   "fecha": "2024-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-119-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5d272affe0",
    "b": "HIGUERA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5d272affe0",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5d272affe0",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5d272affe0",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2024-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
@@ -1142475,38 +1142513,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-233-28"
   },
   {
-   "tipo": "historico",
-   "a": "PF-24a4d1cc46",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-60aaa900b1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-60aaa900b1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-60aaa900b1",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
    "tipo": "persona",
    "a": "PF-771437c215",
    "b": "CAMP SOLAR EINSTEIN 2022",
@@ -1142811,6 +1142817,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-38-47"
   },
   {
+   "tipo": "historico",
+   "a": "ELBRUS SOLAR",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Sociedad unipersonal: Socio único",
+   "fecha": "2024-12-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29"
+  },
+  {
+   "tipo": "control",
+   "a": "EFM SOLAR 38",
+   "b": "HOLUX STORAGE SYSTEM",
+   "detalle": "Socio único",
+   "fecha": "2024-12-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-236-29"
+  },
+  {
    "tipo": "persona",
    "a": "PF-c6098d024c",
    "b": "BAMBU DESARROLLOS FOTOVOLTAICOS ESPANA",
@@ -1142822,6 +1142844,30 @@
    "tipo": "persona",
    "a": "PF-c6098d024c",
    "b": "HIGUERA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c6098d024c",
+   "b": "LANTANA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-250-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c6098d024c",
+   "b": "MIMOSA DESARROLLOS FOTOVOLTAICOS ESPANA",
+   "detalle": "Apoderado",
+   "fecha": "2024-12-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-c6098d024c",
+   "b": "OLMO DESARROLLOS FOTOVOLTAICOS ESPANA",
    "detalle": "Apoderado",
    "fecha": "2024-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-237-28"
@@ -1150068,30 +1150114,6 @@
   },
   {
    "tipo": "historico",
-   "a": "PF-95cfe066cb",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-95cfe066cb",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Revocaciones: Apo.Man.Soli",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-95cfe066cb",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-547e81c421",
    "b": "ROBLASUN 2",
    "detalle": "Revocaciones: Apoderado",
@@ -1151145,6 +1151167,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2025-03-12",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-49-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-31415eab0a",
+   "b": "CIRCLE ENERGY ANDROMEDA",
+   "detalle": "Apoderado",
+   "fecha": "2026-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-199-28"
   },
   {
    "tipo": "persona",
@@ -1168651,14 +1168681,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-114-28"
   },
   {
-   "tipo": "persona",
-   "a": "PF-e6fc6c6b9f",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apoderado, Apoderado solidario",
-   "fecha": "2025-11-12",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-28"
-  },
-  {
    "tipo": "historico",
    "a": "PF-b6d60ebf75",
    "b": "FOTOVOLTAICA PUERTO CRUZ I",
@@ -1174748,14 +1174770,6 @@
   },
   {
    "tipo": "persona",
-   "a": "PF-905462f769",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-06-03",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-104-28"
-  },
-  {
-   "tipo": "persona",
    "a": "PF-a41969abd3",
    "b": "ATLANTICA ENERGIA SOSTENIBLE ESPANA",
    "detalle": "Apoderado mancomunado",
@@ -1177707,14 +1177721,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-99-18"
   },
   {
-   "tipo": "persona",
-   "a": "PF-26ac194b82",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
-  },
-  {
    "tipo": "control",
    "a": "ALTERNATIVAS RIOJANAS EOLICAS Y SOLARES SL UNIPERS",
    "b": "DESARROLLO PROYECTO FOTOVOLTAICO VIII",
@@ -1178097,14 +1178103,6 @@
    "detalle": "Apoderado mancomunado",
    "fecha": "2026-06-11",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-110-28"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-b990690196",
-   "b": "SMART FARM BIOGAS MADRID",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2026-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-28"
   },
   {
    "tipo": "persona",
@@ -1186215,158 +1186213,6 @@
    "a": "ENERGIAS RENOVABLES DE CIRCE",
    "b": "ENERGIAS EOLICAS DE HERMES",
    "detalle": "calle Berna, n.º1, 45003, de Toledo",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "ARRABAL 14",
-   "b": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "detalle": "Calle Coronados 10-1º A 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "ARRABAL 14",
-   "b": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "detalle": "Calle Coronados 10-1º A 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "ARRABAL 14",
-   "b": "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-   "detalle": "Calle Coronados 10-1º A 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "ARRABAL 14",
-   "b": "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "Calle Coronados 10-1º A 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "LIRIO DESARROLLOS ESPANA",
-   "detalle": "C/ Málaga 5, 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "LILASOL DESARROLLOS ESPANA",
-   "detalle": "C/ Málaga 5, 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "ENCINA DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "C/ Málaga 5, 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "CASTANO DESARROLLOS ESPANA",
-   "detalle": "C/ Málaga 5, 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-   "detalle": "C/ Coronados 10, 1º, 28320 de Pinto",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "C/ Coronados 10, 1º, 28320 de Pinto",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-   "detalle": "fiscal en calle Coronados, 10-1º, 28320 de Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA LA TORRE 40",
-   "b": "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "fiscal en calle Coronados, 10-1º, 28320 de Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "PLANTA FOTOVOLTAICA EL ARRABAL NUMERO 14",
-   "b": "RALOS DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "Calle Coronados, 10-1.º A, CP 28320 Pinto (Madrid)",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "LIRIO DESARROLLOS ESPANA",
-   "b": "LILASOL DESARROLLOS ESPANA",
-   "detalle": "Calle Málaga, Nº 5, 28320, Pinto, Madrid",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "LIRIO DESARROLLOS ESPANA",
-   "b": "ENCINA DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "Calle Málaga, Nº 5, 28320, Pinto, Madrid",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "LIRIO DESARROLLOS ESPANA",
-   "b": "CASTANO DESARROLLOS ESPANA",
-   "detalle": "Calle Málaga, Nº 5, 28320, Pinto, Madrid",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "LILASOL DESARROLLOS ESPANA",
-   "b": "ENCINA DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "detalle": "Calle Málaga 5, Pinto, 28320, Madrid",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "LILASOL DESARROLLOS ESPANA",
-   "b": "CASTANO DESARROLLOS ESPANA",
-   "detalle": "Calle Málaga 5, Pinto, 28320, Madrid",
-   "fecha": "",
-   "url": ""
-  },
-  {
-   "tipo": "domicilio",
-   "a": "ENCINA DESARROLLOS FOTOVOLTAICOS ESPANA",
-   "b": "CASTANO DESARROLLOS ESPANA",
-   "detalle": "Calle Málaga, 5, 28320 Pinto, Madrid",
    "fecha": "",
    "url": ""
   },
@@ -1210242,7 +1210088,7 @@
   {
    "tipo": "persona",
    "id": "PF-535c5e1b50",
-   "sociedades": 137
+   "sociedades": 138
   },
   {
    "tipo": "persona",
@@ -1210642,17 +1210488,17 @@
   {
    "tipo": "persona",
    "id": "PF-b18e2de6bd",
-   "sociedades": 138
+   "sociedades": 139
   },
   {
    "tipo": "persona",
    "id": "PF-fa6a7ac8ea",
-   "sociedades": 138
+   "sociedades": 139
   },
   {
    "tipo": "persona",
    "id": "PF-b634d1f3b8",
-   "sociedades": 139
+   "sociedades": 140
   },
   {
    "tipo": "sociedad",
@@ -1211017,17 +1210863,17 @@
   {
    "tipo": "persona",
    "id": "PF-52d115a736",
-   "sociedades": 144
+   "sociedades": 145
   },
   {
    "tipo": "persona",
    "id": "PF-460214222b",
-   "sociedades": 116
+   "sociedades": 117
   },
   {
    "tipo": "persona",
    "id": "PF-50dc17c830",
-   "sociedades": 65
+   "sociedades": 66
   },
   {
    "tipo": "persona",
@@ -1211687,7 +1211533,7 @@
   {
    "tipo": "persona",
    "id": "PF-4fd7a4ec76",
-   "sociedades": 138
+   "sociedades": 139
   },
   {
    "tipo": "sociedad",
@@ -1211747,7 +1211593,7 @@
   {
    "tipo": "persona",
    "id": "PF-5b2b8ee321",
-   "sociedades": 137
+   "sociedades": 138
   },
   {
    "tipo": "sociedad",
@@ -1211802,7 +1211648,7 @@
   {
    "tipo": "persona",
    "id": "PF-c56919b4cc",
-   "sociedades": 139
+   "sociedades": 140
   },
   {
    "tipo": "persona",
@@ -1212122,7 +1211968,7 @@
   {
    "tipo": "persona",
    "id": "PF-c3c0286a16",
-   "sociedades": 132
+   "sociedades": 133
   },
   {
    "tipo": "persona",
@@ -1213371,12 +1213217,12 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
+   "id": "calle Ribera del Loira, 28, 28042, Madrid",
    "sociedades": 9
   },
   {
    "tipo": "domicilio",
-   "id": "calle Ribera del Loira, 28, 28042, Madrid",
+   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
    "sociedades": 9
   },
   {
@@ -1213426,6 +1213272,11 @@
   },
   {
    "tipo": "domicilio",
+   "id": "Calle Coronados 10-1º A 28320 Pinto (Madrid)",
+   "sociedades": 9
+  },
+  {
+   "tipo": "domicilio",
    "id": "calle Ortega y Gasset 20, 2º, 28006 Madrid",
    "sociedades": 41
   },
@@ -1213461,13 +1213312,18 @@
   },
   {
    "tipo": "domicilio",
+   "id": "calle Cardenal Marcelo Spinola 42, planta 5, CP 28016 Madrid",
+   "sociedades": 12
+  },
+  {
+   "tipo": "domicilio",
    "id": "C/ Cardenal Marcelo Spínola 4, 1ºD 28016 Madrid",
    "sociedades": 45
   },
   {
    "tipo": "domicilio",
-   "id": "calle Cardenal Marcelo Spinola 42, planta 5, CP 28016 Madrid",
-   "sociedades": 12
+   "id": "AVDA DE LA CONSTITUCION 34 1 - IZQUIERDA, CP 41001 (SEVILLA)",
+   "sociedades": 14
   },
   {
    "tipo": "domicilio",
@@ -1213481,18 +1213337,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
-   "sociedades": 13
-  },
-  {
-   "tipo": "domicilio",
-   "id": "AVDA DE LA CONSTITUCION 34 1 - IZQUIERDA, CP 41001 (SEVILLA)",
-   "sociedades": 14
-  },
-  {
-   "tipo": "domicilio",
    "id": "PASEO DE LAS DELICIAS 3 4º I - CP 41001 (SEVILLA)",
    "sociedades": 15
+  },
+  {
+   "tipo": "domicilio",
+   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
+   "sociedades": 13
   },
   {
    "tipo": "domicilio",
@@ -1213541,13 +1213392,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
-   "sociedades": 21
+   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
+   "sociedades": 19
   },
   {
    "tipo": "domicilio",
-   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
-   "sociedades": 19
+   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
+   "sociedades": 21
   },
   {
    "tipo": "domicilio",
@@ -1213596,18 +1213447,8 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
-   "sociedades": 24
-  },
-  {
-   "tipo": "domicilio",
-   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
-   "sociedades": 9
-  },
-  {
-   "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
+   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
+   "sociedades": 16
   },
   {
    "tipo": "domicilio",
@@ -1213616,8 +1213457,18 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
-   "sociedades": 16
+   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
+   "sociedades": 24
+  },
+  {
+   "tipo": "domicilio",
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
+  },
+  {
+   "tipo": "domicilio",
+   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
