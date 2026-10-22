@@ -181,6 +181,8 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
 .vacio{color:var(--tenue);font-style:italic}
 .method ol{padding-left:1.4em}
 .method li+li{margin-top:6px}
+.glosario dt{font-weight:600;margin-top:8px}
+.glosario dd{margin:2px 0 0 0;max-width:80ch}
 .desborde{overflow-x:auto;margin-top:8px}
 .site-footer{margin-top:24px}
 .site-footer p{margin:0;max-width:85ch}
@@ -192,11 +194,14 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
 <header class="site-header">
   <span class="badge">BOE · BORME · actualizado <span class="data">__FECHA__</span></span>
   <h1>__LOGO__Grafo de <span>promotores</span></h1>
-  <p class="lede">Quién está detrás de cada proyecto energético publicado en el BOE, qué sociedades comparten administradores, apoderados, socio único o domicilio según el BORME, y qué conjuntos de instalaciones muestran indicios de fraccionamiento alrededor del umbral de 50&nbsp;MW.</p>
+  <p class="lede">Quién está detrás de cada proyecto energético publicado en el <abbr title="Boletín Oficial del Estado">BOE</abbr>, qué sociedades comparten administradores, apoderados, socio único o domicilio según el <abbr title="Boletín Oficial del Registro Mercantil: publica constituciones, cargos y socios de las sociedades">BORME</abbr>, y qué conjuntos de instalaciones muestran indicios de fraccionamiento alrededor del umbral de 50&nbsp;MW.</p>
   <div class="figures">__CIFRAS__</div>
-  <nav class="saltos" aria-label="En esta página"><a href="#indicios">Indicios</a><a href="#grupos">Grupos empresariales</a><a href="#metodo">Cómo se calcula</a><a href="https://github.com/Asensio94/grafo-promotores">Código y datos</a></nav>
+  <nav class="saltos" aria-label="En esta página"><a href="#umbral">Por qué 50 MW</a><a href="#indicios">Indicios</a><a href="#grupos">Grupos empresariales</a><a href="#metodo">Cómo se calcula</a><a href="#glosario">Glosario</a><a href="https://github.com/Asensio94/grafo-promotores">Código y datos</a></nav>
 </header>
 <main class="marco">
+  <h2 id="umbral">Por qué importan los 50&nbsp;MW</h2>
+  <p class="nota">Una central eléctrica de más de 50&nbsp;MW la autoriza el Estado; una de 50&nbsp;MW o menos, el gobierno de la comunidad autónoma (art. 3.13.a de la Ley 24/2013, del Sector Eléctrico). Cambian quién tramita el expediente y quién lo evalúa. Por eso un proyecto grande puede llegar troceado en varias instalaciones de 50&nbsp;MW o menos, a menudo a nombre de sociedades distintas: es lo que se llama <b>fraccionamiento</b>. Esta página busca conjuntos de instalaciones que, sumadas, superan el umbral y cuyos titulares pertenecen al mismo grupo.</p>
+  <p class="nota">Para saber qué proyectos están ahora en información pública y hasta cuándo se puede alegar, véase el <a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a>.</p>
   <div class="aviso"><b>Indicios, no conclusiones.</b> Que varias instalaciones de un mismo grupo queden por debajo de 50&nbsp;MW y sumen más no prueba un fraccionamiento: puede responder a razones técnicas, de acceso a la red o de calendario. Cada caso enlaza a los anuncios del BOE y a las inscripciones del BORME de las que sale, para que se compruebe en la fuente.</div>
 
   <h2 id="indicios">Conjuntos con indicios de fraccionamiento</h2>
@@ -226,6 +231,19 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
     <li><b>Señales y peso.</b> En cada conjunto de dos o más instalaciones se miden las siete señales de la tabla y se suman sus pesos. Solo se publica si hay al menos una señal de potencia: suma por encima del umbral, justo por debajo o potencias idénticas.</li>
     <li><b>Orden.</b> Los conjuntos se ordenan por peso y, a igual peso, por potencia total. Peso 7 o más se marca como alto; de 4 a 6, medio; el resto, bajo.</li>
   </ol>
+
+  <h3 id="glosario">Glosario</h3>
+  <dl class="glosario">
+    <dt>BOE y BORME</dt><dd>Boletín Oficial del Estado, donde se publican las autorizaciones y los periodos de información pública, y Boletín Oficial del Registro Mercantil, donde se inscriben la creación de sociedades, sus cargos y sus socios.</dd>
+    <dt>Titular o promotor</dt><dd>La sociedad que pide la autorización de la instalación.</dd>
+    <dt>Socio único</dt><dd>Cuando una sociedad tiene un solo dueño, el BORME publica quién es. Si ese dueño es otra sociedad, las dos forman parte del mismo grupo.</dd>
+    <dt>Administrador</dt><dd>Quien dirige y representa la sociedad (administrador único, solidario, mancomunado o consejero).</dd>
+    <dt>Apoderado</dt><dd>Persona o sociedad a la que se da poder para actuar en nombre de la sociedad (firmar, tramitar), sin ser su administradora.</dd>
+    <dt>Subestación colectora</dt><dd>Instalación eléctrica a la que llegan varios parques para elevar la tensión y verter juntos su energía a la red. Compartirla es un indicio de proyecto común; los nudos de la red de transporte, en cambio, los usan promotores sin relación entre sí.</dd>
+    <dt>Expediente</dt><dd>El número con el que la Administración tramita cada instalación (por ejemplo, <span class="data">PEOL-FV-311</span>).</dd>
+    <dt>AIE y UTE</dt><dd>Agrupación de interés económico y unión temporal de empresas: fórmulas con las que varias sociedades comparten una infraestructura sin fusionarse.</dd>
+    <dt>MW</dt><dd>Megavatio, la potencia instalada de la central.</dd>
+  </dl>
 
   <h3>Señales de fraccionamiento</h3>
   <div class="desborde"><table class="params">
