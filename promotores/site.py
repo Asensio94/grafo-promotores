@@ -268,18 +268,21 @@ h2{font:600 22px/1.2 var(--cond);margin:36px 0 6px}
   <p class="principle">Datos públicos, reglas a la vista y cada cifra enlazada a su fuente. Indicios, no veredictos.</p>
   <p>Fuentes: Boletín Oficial del Estado y Boletín Oficial del Registro Mercantil (Agencia Estatal BOE, <a href="https://www.boe.es/datosabiertos/">datos abiertos</a>). Código con licencia MIT: <a href="https://github.com/Asensio94/grafo-promotores">código y datos</a>.</p>
   <p id="servicio"></p>
+  <p class="hub"><a href="https://asensio94.github.io/terra-aperta/">← Terra Aperta: todos los proyectos</a></p>
+  <p>Proyectos hermanos:</p>
   <nav aria-label="Proyectos hermanos"><ul class="siblings">
-    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
+    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
     <li><a href="https://asensio94.github.io/vigia-incendios/">Vigía de incendios</a></li>
     <li><a href="https://asensio94.github.io/centinela-natura/">Centinela Natura</a></li>
-    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
-    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
-    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
-    <li aria-current="page"><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
-    <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
-    <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
-    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
     <li><a href="https://asensio94.github.io/estado-iba/">Estado de las IBA</a></li>
+    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
+    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
+    <li aria-current="page">Grafo de promotores</li>
+    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
+    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
+    <li><a href="https://asensio94.github.io/acuiferos-francia/">Acuíferos de Francia</a></li>
+    <li><a href="https://asensio94.github.io/depuracion-y-bano/">Depuración y baño</a></li>
+    <li><a href="https://asensio94.github.io/zona-inundable/">Construir en zona inundable</a></li>
   </ul></nav>
 </footer>
 <script id="datos" type="application/json">__DATOS__</script>
