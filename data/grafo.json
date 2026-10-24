@@ -1,10 +1,10 @@
 {
- "generado": "2026-10-23",
+ "generado": "2026-10-24",
  "umbral_mw": 50.0,
  "resumen": {
   "actos_boe": 5426,
   "inscripciones_borme": 148730,
-  "sociedades": 6639,
+  "sociedades": 6640,
   "instalaciones": 2050,
   "grupos": 282,
   "indicios": 184
@@ -9522,7 +9522,6 @@
     "LUCE CAPITAL GROUP",
     "PARQUE EOLICO CABEZUELAS",
     "PARQUE EOLICO CRISTOBAL",
-    "PARQUE EOLICO GASALLA",
     "PARQUE EOLICO LAS TADEAS",
     "PARQUE EOLICO PEDRECHA",
     "PARQUE EOLICO PUERTO CALERA I",
@@ -11846,88 +11845,6 @@
    ]
   },
   {
-   "id": "G-ALBACETE-ECO-ENERGIAS",
-   "sociedades": [
-    "ALBACETE ECO ENERGIAS",
-    "ALCALA ECO ENERGIAS",
-    "ALCOBENDAS ECO ENERGIAS",
-    "ASTURIAS ECO ENERGIAS",
-    "AULIVER SOLAR",
-    "AUSTRALIS ENERGIAS",
-    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "BRUNETE DISTRICT HEATING",
-    "BURGOS ECO ENERGIAS",
-    "CEMENTO SOLAR SPAIN",
-    "CLEAN RENOVABLES DE COSMO",
-    "COFELY ENERGIA MARTORELL",
-    "DISTRICT ECO ENERGIAS",
-    "DISTRICT HEATING ECO ENERGIAS",
-    "ECOENERGY-ING FMH",
-    "ENER ALFA",
-    "ENER BETA",
-    "ENER DELTA",
-    "ENER EPSILON",
-    "ENER GAMMA",
-    "ENERGIA DE FERMAPO",
-    "ENERGIAS RENOVABLES BONETE 4",
-    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
-    "ENGIE CASTELNOU",
-    "ENGIE ESPANA",
-    "ENGIE ESPANA MANAGEMENT COMPANY",
-    "ENGIE ESPANA RENOVABLES",
-    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
-    "ENGIE PROYECTO AS PENIZAS",
-    "ENGIE PROYECTO QUINTOS",
-    "ENGIE PROYECTO RODICIO II",
-    "ENGIE PROYECTO SUIME",
-    "ENGIE PROYECTO TOURINAN",
-    "ENGIE SERVICIOS ENERGETICOS",
-    "EOLICA LAS CALLEJAS",
-    "GREENALIA WIND POWER CABANELAS",
-    "GREENALIA WIND POWER XESTEIRON",
-    "HUESCA ECO ENERGIAS",
-    "ITAMAR SOLAR",
-    "LEGANES ECO ENERGIAS",
-    "LEON ECO ENERGIAS",
-    "LOGRONO ECO ENERGIAS",
-    "LOOP ELECTRICIDAD Y GAS",
-    "LUGO ECO ENERGIAS",
-    "MARCELA SOLAR",
-    "MARTINA SOSTENIBLE",
-    "MERIDION PSFV",
-    "MOSTOLES ECO ENERGIAS",
-    "ORENSE ECO ENERGIAS",
-    "PARQUE EOLICO CERRO CABELLO",
-    "PARQUE SOLAR ENERGY 02",
-    "PARQUE SOLAR ENERGY NODE 03",
-    "PARQUE SOLAR ENERGY NODE 05",
-    "PARQUE SOLAR ENERGY NODE 06",
-    "PONFERRADA ECO ENERGIAS",
-    "POSICION QUINTOS DOS HERMANAS II",
-    "PUERTOLLANO ECO ENERGIAS",
-    "RENOVABLES DE ADEMIA",
-    "SEGOVIA ECO ENERGIAS",
-    "SOBERBINA ENERGIA",
-    "SOFOS ENERGIA",
-    "SOLAR LAS IRUELAS",
-    "TERUEL ECO ENERGIAS",
-    "TORREJON DE ARDOZ ECO ENERGIAS",
-    "VALLADOLID ECO ENERGIAS",
-    "ZARAGOZA ECO ENERGIAS"
-   ],
-   "en_boe": [
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "ENER EPSILON",
-    "ENGIE CASTELNOU",
-    "ITAMAR SOLAR",
-    "MARTINA SOSTENIBLE",
-    "PARQUE SOLAR ENERGY 02"
-   ]
-  },
-  {
    "id": "G-CONSTSOLAR-DEVA",
    "sociedades": [
     "CONSTSOLAR DEVA",
@@ -11984,6 +11901,87 @@
     "LINE ENERGY POWER",
     "STAR CAPITAL 2000",
     "SUN CAPITAL 2000"
+   ]
+  },
+  {
+   "id": "G-ALBACETE-ECO-ENERGIAS",
+   "sociedades": [
+    "ALBACETE ECO ENERGIAS",
+    "ALCALA ECO ENERGIAS",
+    "ALCOBENDAS ECO ENERGIAS",
+    "ASTURIAS ECO ENERGIAS",
+    "AULIVER SOLAR",
+    "AUSTRALIS ENERGIAS",
+    "AVILA ECO ENERGIAS",
+    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "BRUNETE DISTRICT HEATING",
+    "BURGOS ECO ENERGIAS",
+    "CEMENTO SOLAR SPAIN",
+    "CLEAN RENOVABLES DE COSMO",
+    "COFELY ENERGIA MARTORELL",
+    "DISTRICT ECO ENERGIAS",
+    "DISTRICT HEATING ECO ENERGIAS",
+    "ECOENERGY-ING FMH",
+    "ENER ALFA",
+    "ENER BETA",
+    "ENER DELTA",
+    "ENER EPSILON",
+    "ENER GAMMA",
+    "ENERGIA DE FERMAPO",
+    "ENERGIAS RENOVABLES BONETE 4",
+    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
+    "ENGIE ESPANA",
+    "ENGIE ESPANA MANAGEMENT COMPANY",
+    "ENGIE ESPANA RENOVABLES",
+    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
+    "ENGIE PROYECTO AS PENIZAS",
+    "ENGIE PROYECTO QUINTOS",
+    "ENGIE PROYECTO RODICIO II",
+    "ENGIE PROYECTO SUIME",
+    "ENGIE PROYECTO TOURINAN",
+    "ENGIE SERVICIOS ENERGETICOS",
+    "EOLICA LAS CALLEJAS",
+    "GREENALIA WIND POWER CABANELAS",
+    "GREENALIA WIND POWER XESTEIRON",
+    "HUESCA ECO ENERGIAS",
+    "ITAMAR SOLAR",
+    "LEGANES ECO ENERGIAS",
+    "LEON ECO ENERGIAS",
+    "LOGRONO ECO ENERGIAS",
+    "LOOP ELECTRICIDAD Y GAS",
+    "LUGO ECO ENERGIAS",
+    "MARCELA SOLAR",
+    "MARTINA SOSTENIBLE",
+    "MERIDION PSFV",
+    "MOSTOLES ECO ENERGIAS",
+    "ORENSE ECO ENERGIAS",
+    "PARQUE EOLICO CERRO CABELLO",
+    "PARQUE SOLAR ENERGY 02",
+    "PARQUE SOLAR ENERGY NODE 03",
+    "PARQUE SOLAR ENERGY NODE 05",
+    "PARQUE SOLAR ENERGY NODE 06",
+    "PONFERRADA ECO ENERGIAS",
+    "POSICION QUINTOS DOS HERMANAS II",
+    "PUERTOLLANO ECO ENERGIAS",
+    "RENOVABLES DE ADEMIA",
+    "SEGOVIA ECO ENERGIAS",
+    "SOBERBINA ENERGIA",
+    "SOFOS ENERGIA",
+    "SOLAR LAS IRUELAS",
+    "TERUEL ECO ENERGIAS",
+    "TORREJON DE ARDOZ ECO ENERGIAS",
+    "VALLADOLID ECO ENERGIAS",
+    "ZARAGOZA ECO ENERGIAS"
+   ],
+   "en_boe": [
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "ENER EPSILON",
+    "ITAMAR SOLAR",
+    "MARTINA SOSTENIBLE",
+    "PARQUE SOLAR ENERGY 02"
    ]
   },
   {
@@ -12652,38 +12650,6 @@
    ]
   },
   {
-   "id": "G-AVILA-ECO-ENERGIAS",
-   "sociedades": [
-    "AVILA ECO ENERGIAS",
-    "CROWIND",
-    "ENERGIA DE RIANSARES",
-    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
-    "EOLIA WINDCO",
-    "EOLICA DE CARABUENA",
-    "EOLICA DE MEDINACELI",
-    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
-    "FERGO GALICIA VENTO -P E MONDONEDO",
-    "INICIATIVAS EOLICAS DE ALPERA",
-    "LURIA DE ENERGIAS",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "PARQUE EOLICO CERRO OLIVA",
-    "PARQUE EOLICO MADRIDEJOS",
-    "SISTEMAS ENERGETICOS FUERTEVENTURA",
-    "TARRACO EOLICA LES GARRIGUES",
-    "TARRACO EOLICA LES GARRIGUES DOS",
-    "TARRACO EOLICA-ASCO",
-    "WIGEP ANDALUCIA"
-   ],
-   "en_boe": [
-    "EOLICA DE MEDINACELI",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "TARRACO EOLICA LES GARRIGUES",
-    "WIGEP ANDALUCIA"
-   ]
-  },
-  {
    "id": "G-ALDEBARAN-SERVICIOS-DE-MANTENIMIENTO-EOL",
    "sociedades": [
     "ALDEBARAN SERVICIOS DE MANTENIMIENTO EOLICO",
@@ -12712,6 +12678,37 @@
     "ICTIO SOLAR ORION",
     "NAVABUENA SOLAR",
     "SISTEMAS FOTOVOLTAICO DE LEVANTE"
+   ]
+  },
+  {
+   "id": "G-CROWIND",
+   "sociedades": [
+    "CROWIND",
+    "ENERGIA DE RIANSARES",
+    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
+    "EOLIA WINDCO",
+    "EOLICA DE CARABUENA",
+    "EOLICA DE MEDINACELI",
+    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
+    "FERGO GALICIA VENTO -P E MONDONEDO",
+    "INICIATIVAS EOLICAS DE ALPERA",
+    "LURIA DE ENERGIAS",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "PARQUE EOLICO CERRO OLIVA",
+    "PARQUE EOLICO MADRIDEJOS",
+    "SISTEMAS ENERGETICOS FUERTEVENTURA",
+    "TARRACO EOLICA LES GARRIGUES",
+    "TARRACO EOLICA LES GARRIGUES DOS",
+    "TARRACO EOLICA-ASCO",
+    "WIGEP ANDALUCIA"
+   ],
+   "en_boe": [
+    "EOLICA DE MEDINACELI",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "TARRACO EOLICA LES GARRIGUES",
+    "WIGEP ANDALUCIA"
    ]
   },
   {
@@ -13767,6 +13764,36 @@
    ]
   },
   {
+   "id": "G-ARAIZ-ENERGY",
+   "sociedades": [
+    "ARAIZ ENERGY",
+    "ATENEA ENERGY",
+    "BRO Y PIKY ENERGY",
+    "BRO Y PIKY HOLDINGS",
+    "CANALES NORTE ENERGY",
+    "CAPITAL ENERGY CENTRO NORTE",
+    "CAPITAL ENERGY COMERCIALIZADORA",
+    "GREEN CAPITAL DEVELOPMENT VI",
+    "GREEN CAPITAL DEVELOPMENT XV",
+    "NERALDA ENERGY",
+    "PARQUE EOLICO GASALLA",
+    "QUANTUM CAPITAL VENTURE",
+    "QUANTUM ENERGY STORAGE",
+    "QUANTUM ENERGY STORAGE 1",
+    "QUANTUM ENERGY STORAGE 2",
+    "QUANTUM HYDROGEN",
+    "QUANTUM POWERLINK",
+    "QUANTUM SERVICES 1",
+    "QUANTUM SERVICES 2",
+    "QUANTUM XGREEN"
+   ],
+   "en_boe": [
+    "GREEN CAPITAL DEVELOPMENT VI",
+    "GREEN CAPITAL DEVELOPMENT XV",
+    "NERALDA ENERGY"
+   ]
+  },
+  {
    "id": "G-ACE-ITALY-PARQUES-EOLICOS",
    "sociedades": [
     "ACE ITALY PARQUES EOLICOS",
@@ -13793,35 +13820,6 @@
     "EDP RENOVABLES ESPANA",
     "SONER GOYA",
     "TEBAR EOLICA"
-   ]
-  },
-  {
-   "id": "G-ARAIZ-ENERGY",
-   "sociedades": [
-    "ARAIZ ENERGY",
-    "ATENEA ENERGY",
-    "BRO Y PIKY ENERGY",
-    "BRO Y PIKY HOLDINGS",
-    "CANALES NORTE ENERGY",
-    "CAPITAL ENERGY CENTRO NORTE",
-    "CAPITAL ENERGY COMERCIALIZADORA",
-    "GREEN CAPITAL DEVELOPMENT VI",
-    "GREEN CAPITAL DEVELOPMENT XV",
-    "NERALDA ENERGY",
-    "QUANTUM CAPITAL VENTURE",
-    "QUANTUM ENERGY STORAGE",
-    "QUANTUM ENERGY STORAGE 1",
-    "QUANTUM ENERGY STORAGE 2",
-    "QUANTUM HYDROGEN",
-    "QUANTUM POWERLINK",
-    "QUANTUM SERVICES 1",
-    "QUANTUM SERVICES 2",
-    "QUANTUM XGREEN"
-   ],
-   "en_boe": [
-    "GREEN CAPITAL DEVELOPMENT VI",
-    "GREEN CAPITAL DEVELOPMENT XV",
-    "NERALDA ENERGY"
    ]
   },
   {
@@ -14499,6 +14497,50 @@
    "en_boe": [
     "ALTAIR ECOSOLAR",
     "VEGA LYRA PROMOCIONES FOTOVOLTAICAS"
+   ]
+  },
+  {
+   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
+   "sociedades": [
+    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
+    "ALIZA ENERGY",
+    "ARMONIA GREEN AVILES",
+    "ARMONIA GREEN SEVILLA",
+    "ASESORIA ENERGETICA J Y G",
+    "BIOGASVERD",
+    "CANDELA COMERCIALIZADORA",
+    "CENTRAL ENERGY CONSULTORES",
+    "CONSULTORES DE ENERGIA 2021",
+    "CUPULA 6 1",
+    "ENGIE CASTELNOU",
+    "FOTOVOLT2024",
+    "IGNIS BIOFUELS",
+    "IGNIS DATA GAMMA",
+    "IGNIS DATA KAPPA",
+    "IGNIS ENERGIA",
+    "IGNIS ENERGY HOLDINGS",
+    "IGNIS ENERGY INDUSTRIES",
+    "IGNIS GENERACION",
+    "IGNIS HIDROGENO ALFA",
+    "IGNIS HIDROGENO IOTA",
+    "IGNIS HIDROGENO KAPPA",
+    "IGNIS HIDROGENO ZETA",
+    "IGNIS P2X HOLDINGS",
+    "IGNIS PARTNERS",
+    "IGNIS PROPERTIES",
+    "IGNIS SMART SOLUTIONS",
+    "IGNIS VENTURES",
+    "IZACAN 2024",
+    "MARESME ENERGY PLUS",
+    "NAO ENERGIA COMERCIALIZADORA",
+    "ROBLASUN 2",
+    "SEVERAL ENERGY",
+    "TEC 94",
+    "TILO SOLAR"
+   ],
+   "en_boe": [
+    "ENGIE CASTELNOU",
+    "IGNIS GENERACION"
    ]
   },
   {
@@ -15803,48 +15845,6 @@
    ]
   },
   {
-   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
-   "sociedades": [
-    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
-    "ALIZA ENERGY",
-    "ARMONIA GREEN AVILES",
-    "ARMONIA GREEN SEVILLA",
-    "ASESORIA ENERGETICA J Y G",
-    "BIOGASVERD",
-    "CANDELA COMERCIALIZADORA",
-    "CENTRAL ENERGY CONSULTORES",
-    "CONSULTORES DE ENERGIA 2021",
-    "CUPULA 6 1",
-    "FOTOVOLT2024",
-    "IGNIS BIOFUELS",
-    "IGNIS DATA GAMMA",
-    "IGNIS DATA KAPPA",
-    "IGNIS ENERGIA",
-    "IGNIS ENERGY HOLDINGS",
-    "IGNIS ENERGY INDUSTRIES",
-    "IGNIS GENERACION",
-    "IGNIS HIDROGENO ALFA",
-    "IGNIS HIDROGENO IOTA",
-    "IGNIS HIDROGENO KAPPA",
-    "IGNIS HIDROGENO ZETA",
-    "IGNIS P2X HOLDINGS",
-    "IGNIS PARTNERS",
-    "IGNIS PROPERTIES",
-    "IGNIS SMART SOLUTIONS",
-    "IGNIS VENTURES",
-    "IZACAN 2024",
-    "MARESME ENERGY PLUS",
-    "NAO ENERGIA COMERCIALIZADORA",
-    "ROBLASUN 2",
-    "SEVERAL ENERGY",
-    "TEC 94",
-    "TILO SOLAR"
-   ],
-   "en_boe": [
-    "IGNIS GENERACION"
-   ]
-  },
-  {
    "id": "G-CG-DEVELOPMENT-I",
    "sociedades": [
     "CG DEVELOPMENT I",
@@ -16885,6 +16885,21 @@
    ]
   },
   {
+   "id": "G-COSMO-HIVE",
+   "sociedades": [
+    "COSMO HIVE",
+    "FUSGAR ENERGY",
+    "GLOBAL WINDU",
+    "KAWANHEE VI",
+    "LAMARQUES-AZ",
+    "LAMARQUESAIV",
+    "SPAWER 98"
+   ],
+   "en_boe": [
+    "COSMO HIVE"
+   ]
+  },
+  {
    "id": "G-ENERPARC-SOLAR-INVEST-223",
    "sociedades": [
     "ENERPARC SOLAR INVEST 223",
@@ -16969,20 +16984,6 @@
    ],
    "en_boe": [
     "NICEWIND PARTNERS"
-   ]
-  },
-  {
-   "id": "G-COSMO-HIVE",
-   "sociedades": [
-    "COSMO HIVE",
-    "GLOBAL WINDU",
-    "KAWANHEE VI",
-    "LAMARQUES-AZ",
-    "LAMARQUESAIV",
-    "SPAWER 98"
-   ],
-   "en_boe": [
-    "COSMO HIVE"
    ]
   },
   {
@@ -50073,7 +50074,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "ALBACETE ECO ENERGIAS"
   },
   "AVINTIA ENERGIA": {
    "id": "AVINTIA ENERGIA",
@@ -95729,7 +95730,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "CRUCERO SOLAR": {
    "id": "CRUCERO SOLAR",
@@ -140786,7 +140787,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "ENERGIA DE SURIA": {
    "id": "ENERGIA DE SURIA",
@@ -165096,7 +165097,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "ENERGIAS RENOVABLES AGUIMES": {
    "id": "ENERGIAS RENOVABLES AGUIMES",
@@ -179054,7 +179055,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ALBACETE ECO ENERGIAS"
+   "grupo": "AHMON NH3 PROCESS STORAGE DISTRIBUTION"
   },
   "ENGIE ESPANA": {
    "id": "ENGIE ESPANA",
@@ -182281,7 +182282,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA AIRCAN": {
    "id": "EOLICA AIRCAN",
@@ -182629,7 +182630,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA DE CASTIL DE TIERRA": {
    "id": "EOLICA DE CASTIL DE TIERRA",
@@ -182846,7 +182847,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EOLICA DE RADONA": {
    "id": "EOLICA DE RADONA",
@@ -196888,7 +196889,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "EXPLOTACIONES EOLICAS SIERRA DE UTRERA": {
    "id": "EXPLOTACIONES EOLICAS SIERRA DE UTRERA",
@@ -200242,7 +200243,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "FERNANDO SOL": {
    "id": "FERNANDO SOL",
@@ -220985,6 +220986,162 @@
    ],
    "en_boe": false,
    "grupo": "ACACIA POWER"
+  },
+  "FUSGAR ENERGY": {
+   "id": "FUSGAR ENERGY",
+   "nombres": [
+    "FUSGAR ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "C/ JUAN DE MENA 10 (MADRID)",
+    "C/ NANCLARES DE OCA 1, B (MADRID)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2024-04-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-84-28",
+     "num": 205022,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-09-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-186-28",
+     "num": 412773,
+     "actos": [
+      "Reducción de capital",
+      "Ampliación de capital",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28",
+     "num": 439167,
+     "actos": [
+      "Ampliación de capital",
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28",
+     "num": 439168,
+     "actos": [
+      "Pérdida del carácter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28",
+     "num": 439169,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-10-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28",
+     "num": 439170,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-12-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-232-28",
+     "num": 518906,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-04-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28",
+     "num": 158086,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-04-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28",
+     "num": 158087,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-05-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-87-28",
+     "num": 208908,
+     "actos": [
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-08-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-149-28",
+     "num": 359714,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-08-08",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-150-28",
+     "num": 362635,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-07-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-130-28",
+     "num": 324190,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-09-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28",
+     "num": 400922,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "COSMO HIVE"
   },
   "FUSION BLANKET TECHNOLOGIES": {
    "id": "FUSION BLANKET TECHNOLOGIES",
@@ -281800,7 +281957,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "INMEDICAL THERAPEUTICS": {
    "id": "INMEDICAL THERAPEUTICS",
@@ -302192,7 +302349,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "LUSIBERIA": {
    "id": "LUSIBERIA",
@@ -364002,7 +364159,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARC EOLIC SERRA VOLTORERA": {
    "id": "PARC EOLIC SERRA VOLTORERA",
@@ -364927,7 +365084,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO ALSA": {
    "id": "PARQUE EOLICO ALSA",
@@ -367281,7 +367438,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO CINSEIRO": {
    "id": "PARQUE EOLICO CINSEIRO",
@@ -370063,7 +370220,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CAPITAL ENERGY"
+   "grupo": "ARAIZ ENERGY"
   },
   "PARQUE EOLICO HINOJAL": {
    "id": "PARQUE EOLICO HINOJAL",
@@ -371693,7 +371850,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "PARQUE EOLICO MAGAZ": {
    "id": "PARQUE EOLICO MAGAZ",
@@ -444354,7 +444511,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "SISTEMAS ENERGETICOS GOMERA": {
    "id": "SISTEMAS ENERGETICOS GOMERA",
@@ -466671,7 +466828,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRACO EOLICA LES GARRIGUES DOS": {
    "id": "TARRACO EOLICA LES GARRIGUES DOS",
@@ -466793,7 +466950,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRACO EOLICA-ASCO": {
    "id": "TARRACO EOLICA-ASCO",
@@ -466943,7 +467100,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "TARRAGONA POWER": {
    "id": "TARRAGONA POWER",
@@ -488855,7 +489012,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AVILA ECO ENERGIAS"
+   "grupo": "CROWIND"
   },
   "WILD SUN": {
    "id": "WILD SUN",
@@ -772584,6 +772741,14 @@
   {
    "tipo": "persona",
    "a": "PF-2206959472",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-04-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-2206959472",
    "b": "GLOBAL WINDU",
    "detalle": "Apoderado",
    "fecha": "2020-04-02",
@@ -772596,6 +772761,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2024-12-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-246-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-9c296f48c1",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2024-12-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-232-28"
   },
   {
    "tipo": "persona",
@@ -988608,6 +988781,14 @@
   {
    "tipo": "persona",
    "a": "PF-87ed919bec",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2024-12-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-232-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-87ed919bec",
    "b": "GLOBAL WINDU",
    "detalle": "Representante",
    "fecha": "2021-12-30",
@@ -1054790,12 +1054971,28 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-124-14"
   },
   {
+   "tipo": "historico",
+   "a": "PF-10168ffb18",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-10168ffb18",
    "b": "COSMO HIVE",
    "detalle": "Consejero",
    "fecha": "2024-11-28",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-230-50"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-10168ffb18",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Consejero",
+   "fecha": "2024-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28"
   },
   {
    "tipo": "persona",
@@ -1135239,11 +1135436,59 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-75259a36e1",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Consejero",
+   "fecha": "2024-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-7b66df6fab",
    "b": "COSMO HIVE",
    "detalle": "Consejero, Presidente",
    "fecha": "2024-11-28",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-230-50"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-7b66df6fab",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario, Consejero, Presidente",
+   "fecha": "2024-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-87a55268a7",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-07-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-130-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-87a55268a7",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2024-10-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-199-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4f705979cc",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2025-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-149-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4f705979cc",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2025-08-08",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-150-28"
   },
   {
    "tipo": "historico",
@@ -1151903,6 +1152148,14 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-e467fcaae2",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-04-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-fd460c8f28",
    "b": "COSMO HIVE",
    "detalle": "Apoderado solidario",
@@ -1151911,11 +1152164,27 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-fd460c8f28",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-04-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-994222f25d",
    "b": "COSMO HIVE",
    "detalle": "Apoderado solidario",
    "fecha": "2025-04-11",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-71-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-994222f25d",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-04-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-28"
   },
   {
    "tipo": "historico",
@@ -1165314,6 +1165583,14 @@
    "a": "PF-5143eddd2b",
    "b": "VALS ENERGY POWER",
    "detalle": "Apoderado solidario",
+   "fecha": "2025-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-149-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8ee037e4fb",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Apoderado solidario, Consejero",
    "fecha": "2025-08-07",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-149-28"
   },
@@ -1180586,6 +1180863,22 @@
    "a": "PF-94bcba6023",
    "b": "TREE POWER ENERGY",
    "detalle": "Apoderado",
+   "fecha": "2026-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-aaa2275b51",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Representante",
+   "fecha": "2026-09-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-3f50c28f47",
+   "b": "FUSGAR ENERGY",
+   "detalle": "Representante",
    "fecha": "2026-09-02",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28"
   },
@@ -1213027,11 +1213320,6 @@
   },
   {
    "tipo": "domicilio",
-   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
-   "sociedades": 13
-  },
-  {
-   "tipo": "domicilio",
    "id": "C/ RIOJA 25 1 - IZQUIERDA, CODIGO POSTAL 41001 (SEVILLA)",
    "sociedades": 95
   },
@@ -1213047,8 +1213335,8 @@
   },
   {
    "tipo": "domicilio",
-   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
-   "sociedades": 23
+   "id": "PASEO DELICIAS 1 - CP 41001 (SEVILLA)",
+   "sociedades": 13
   },
   {
    "tipo": "domicilio",
@@ -1213057,8 +1213345,8 @@
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
-   "sociedades": 26
+   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
+   "sociedades": 23
   },
   {
    "tipo": "domicilio",
@@ -1213067,18 +1213355,23 @@
   },
   {
    "tipo": "domicilio",
+   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
+   "sociedades": 26
+  },
+  {
+   "tipo": "domicilio",
    "id": "Avenida Ramón Menéndez Pidal, nº 60, bajo – 02005 Albacete",
    "sociedades": 13
   },
   {
    "tipo": "domicilio",
-   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
-   "sociedades": 22
+   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
+   "sociedades": 39
   },
   {
    "tipo": "domicilio",
-   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
-   "sociedades": 39
+   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
+   "sociedades": 22
   },
   {
    "tipo": "domicilio",
@@ -1213092,13 +1213385,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
-   "sociedades": 21
+   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
+   "sociedades": 19
   },
   {
    "tipo": "domicilio",
-   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
-   "sociedades": 19
+   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
+   "sociedades": 21
   },
   {
    "tipo": "domicilio",
@@ -1213147,8 +1213440,8 @@
   },
   {
    "tipo": "domicilio",
-   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
-   "sociedades": 9
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
   },
   {
    "tipo": "domicilio",
@@ -1213157,18 +1213450,18 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
-   "sociedades": 24
-  },
-  {
-   "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
+   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
    "id": "C/ MARQUES DE MOLINS, 2 3º iz 02001 (ALBACETE)",
    "sociedades": 17
+  },
+  {
+   "tipo": "domicilio",
+   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
+   "sociedades": 24
   },
   {
    "tipo": "domicilio",
