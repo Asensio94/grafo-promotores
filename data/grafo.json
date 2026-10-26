@@ -1,11 +1,11 @@
 {
- "generado": "2026-10-24",
+ "generado": "2026-10-26",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 5426,
-  "inscripciones_borme": 148730,
-  "sociedades": 6640,
-  "instalaciones": 2050,
+  "actos_boe": 5427,
+  "inscripciones_borme": 148805,
+  "sociedades": 6657,
+  "instalaciones": 2051,
   "grupos": 282,
   "indicios": 184
  },
@@ -9522,6 +9522,7 @@
     "LUCE CAPITAL GROUP",
     "PARQUE EOLICO CABEZUELAS",
     "PARQUE EOLICO CRISTOBAL",
+    "PARQUE EOLICO GASALLA",
     "PARQUE EOLICO LAS TADEAS",
     "PARQUE EOLICO PEDRECHA",
     "PARQUE EOLICO PUERTO CALERA I",
@@ -9634,6 +9635,7 @@
     "ENERGIAS RENOVABLES JUNGLA VERDE",
     "ENERGIAS RENOVABLES POLEO",
     "ENERGIAS RENOVABLES ROMEO",
+    "ENERGYWORKS CARTAGENA",
     "EOLICA SAN CRISTOBAL",
     "EOLICAS DE EUSKADI",
     "FINCALIA AGROPECUARIA SIGLO XXI",
@@ -11809,6 +11811,7 @@
     "NUEVA ERA SOLAR M Y D II",
     "NUEVA ERA SOLAR M Y D IV",
     "OBERON ENERGY GROUP",
+    "OBERON ENERGY TRADING",
     "OPTIMIZE ENERGY MANAGEMENT",
     "OPTIVALUE",
     "PALINTERE",
@@ -11842,6 +11845,88 @@
     "NUEVA ERA SOLAR M Y D IV",
     "PALINTERE",
     "PROYECTO FOTOVOLTAICO DOS HERMANAS"
+   ]
+  },
+  {
+   "id": "G-ALBACETE-ECO-ENERGIAS",
+   "sociedades": [
+    "ALBACETE ECO ENERGIAS",
+    "ALCALA ECO ENERGIAS",
+    "ALCOBENDAS ECO ENERGIAS",
+    "ASTURIAS ECO ENERGIAS",
+    "AULIVER SOLAR",
+    "AUSTRALIS ENERGIAS",
+    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "BRUNETE DISTRICT HEATING",
+    "BURGOS ECO ENERGIAS",
+    "CEMENTO SOLAR SPAIN",
+    "CLEAN RENOVABLES DE COSMO",
+    "COFELY ENERGIA MARTORELL",
+    "DISTRICT ECO ENERGIAS",
+    "DISTRICT HEATING ECO ENERGIAS",
+    "ECOENERGY-ING FMH",
+    "ENER ALFA",
+    "ENER BETA",
+    "ENER DELTA",
+    "ENER EPSILON",
+    "ENER GAMMA",
+    "ENERGIA DE FERMAPO",
+    "ENERGIAS RENOVABLES BONETE 4",
+    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
+    "ENGIE CASTELNOU",
+    "ENGIE ESPANA",
+    "ENGIE ESPANA MANAGEMENT COMPANY",
+    "ENGIE ESPANA RENOVABLES",
+    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
+    "ENGIE PROYECTO AS PENIZAS",
+    "ENGIE PROYECTO QUINTOS",
+    "ENGIE PROYECTO RODICIO II",
+    "ENGIE PROYECTO SUIME",
+    "ENGIE PROYECTO TOURINAN",
+    "ENGIE SERVICIOS ENERGETICOS",
+    "EOLICA LAS CALLEJAS",
+    "GREENALIA WIND POWER CABANELAS",
+    "GREENALIA WIND POWER XESTEIRON",
+    "HUESCA ECO ENERGIAS",
+    "ITAMAR SOLAR",
+    "LEGANES ECO ENERGIAS",
+    "LEON ECO ENERGIAS",
+    "LOGRONO ECO ENERGIAS",
+    "LOOP ELECTRICIDAD Y GAS",
+    "LUGO ECO ENERGIAS",
+    "MARCELA SOLAR",
+    "MARTINA SOSTENIBLE",
+    "MERIDION PSFV",
+    "MOSTOLES ECO ENERGIAS",
+    "ORENSE ECO ENERGIAS",
+    "PARQUE EOLICO CERRO CABELLO",
+    "PARQUE SOLAR ENERGY 02",
+    "PARQUE SOLAR ENERGY NODE 03",
+    "PARQUE SOLAR ENERGY NODE 05",
+    "PARQUE SOLAR ENERGY NODE 06",
+    "PONFERRADA ECO ENERGIAS",
+    "POSICION QUINTOS DOS HERMANAS II",
+    "PUERTOLLANO ECO ENERGIAS",
+    "RENOVABLES DE ADEMIA",
+    "SEGOVIA ECO ENERGIAS",
+    "SOBERBINA ENERGIA",
+    "SOFOS ENERGIA",
+    "SOLAR LAS IRUELAS",
+    "TERUEL ECO ENERGIAS",
+    "TORREJON DE ARDOZ ECO ENERGIAS",
+    "VALLADOLID ECO ENERGIAS",
+    "ZARAGOZA ECO ENERGIAS"
+   ],
+   "en_boe": [
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "ENER EPSILON",
+    "ENGIE CASTELNOU",
+    "ITAMAR SOLAR",
+    "MARTINA SOSTENIBLE",
+    "PARQUE SOLAR ENERGY 02"
    ]
   },
   {
@@ -11904,84 +11989,82 @@
    ]
   },
   {
-   "id": "G-ALBACETE-ECO-ENERGIAS",
+   "id": "G-ADHARA-SOLAR",
    "sociedades": [
-    "ALBACETE ECO ENERGIAS",
-    "ALCALA ECO ENERGIAS",
-    "ALCOBENDAS ECO ENERGIAS",
-    "ASTURIAS ECO ENERGIAS",
-    "AULIVER SOLAR",
-    "AUSTRALIS ENERGIAS",
-    "AVILA ECO ENERGIAS",
-    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "BRUNETE DISTRICT HEATING",
-    "BURGOS ECO ENERGIAS",
-    "CEMENTO SOLAR SPAIN",
-    "CLEAN RENOVABLES DE COSMO",
-    "COFELY ENERGIA MARTORELL",
-    "DISTRICT ECO ENERGIAS",
-    "DISTRICT HEATING ECO ENERGIAS",
-    "ECOENERGY-ING FMH",
-    "ENER ALFA",
-    "ENER BETA",
-    "ENER DELTA",
-    "ENER EPSILON",
-    "ENER GAMMA",
-    "ENERGIA DE FERMAPO",
-    "ENERGIAS RENOVABLES BONETE 4",
-    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
-    "ENGIE ESPANA",
-    "ENGIE ESPANA MANAGEMENT COMPANY",
-    "ENGIE ESPANA RENOVABLES",
-    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
-    "ENGIE PROYECTO AS PENIZAS",
-    "ENGIE PROYECTO QUINTOS",
-    "ENGIE PROYECTO RODICIO II",
-    "ENGIE PROYECTO SUIME",
-    "ENGIE PROYECTO TOURINAN",
-    "ENGIE SERVICIOS ENERGETICOS",
-    "EOLICA LAS CALLEJAS",
-    "GREENALIA WIND POWER CABANELAS",
-    "GREENALIA WIND POWER XESTEIRON",
-    "HUESCA ECO ENERGIAS",
-    "ITAMAR SOLAR",
-    "LEGANES ECO ENERGIAS",
-    "LEON ECO ENERGIAS",
-    "LOGRONO ECO ENERGIAS",
-    "LOOP ELECTRICIDAD Y GAS",
-    "LUGO ECO ENERGIAS",
-    "MARCELA SOLAR",
-    "MARTINA SOSTENIBLE",
-    "MERIDION PSFV",
-    "MOSTOLES ECO ENERGIAS",
-    "ORENSE ECO ENERGIAS",
-    "PARQUE EOLICO CERRO CABELLO",
-    "PARQUE SOLAR ENERGY 02",
-    "PARQUE SOLAR ENERGY NODE 03",
-    "PARQUE SOLAR ENERGY NODE 05",
-    "PARQUE SOLAR ENERGY NODE 06",
-    "PONFERRADA ECO ENERGIAS",
-    "POSICION QUINTOS DOS HERMANAS II",
-    "PUERTOLLANO ECO ENERGIAS",
-    "RENOVABLES DE ADEMIA",
-    "SEGOVIA ECO ENERGIAS",
-    "SOBERBINA ENERGIA",
-    "SOFOS ENERGIA",
-    "SOLAR LAS IRUELAS",
-    "TERUEL ECO ENERGIAS",
-    "TORREJON DE ARDOZ ECO ENERGIAS",
-    "VALLADOLID ECO ENERGIAS",
-    "ZARAGOZA ECO ENERGIAS"
+    "ADHARA SOLAR",
+    "CORONA BOREALIS FOTOVOLTAICA",
+    "HYDRA SOLAR FOTOVOLTAICA",
+    "INDUS SOLAR FOTOVOLTAICA",
+    "KRAKEN SOLAR",
+    "MAGACELA SOLAR 1",
+    "PF MARTE",
+    "PLANTA FV 136",
+    "PLANTA FV 137",
+    "PLANTA FV 139",
+    "PLANTA FV 140",
+    "PLANTA FV 143",
+    "PLANTA FV 144",
+    "PLANTA FV 145",
+    "PLANTA FV 146",
+    "PLANTA FV 147",
+    "PLANTA FV 148",
+    "PLANTA FV 149",
+    "PLANTA FV 150",
+    "PLANTA FV CALISTO",
+    "PLANTA FV EUROPA",
+    "PLANTA FV MAIRA ALPHA",
+    "PLANTA FV MAIRA BETA",
+    "PLANTA FV MAIRA DELTA",
+    "PLANTA FV MAIRA GAMMA",
+    "PLANTA FV OLIVA 1",
+    "PLANTA FV OLIVA 2",
+    "PLANTA FV OLIVA 3",
+    "PLANTA FV OLIVA 4",
+    "PLANTA FV OLIVA 5",
+    "PLANTA FV103",
+    "PLANTA FV105",
+    "PLANTA FV106",
+    "PLANTA FV108",
+    "PLANTA FV109",
+    "PLANTA FV110",
+    "PLANTA FV111",
+    "PLANTA FV112",
+    "PLANTA FV118",
+    "PLANTA FV119",
+    "PLANTA FV120",
+    "PLANTA FV121",
+    "PLANTA FV122",
+    "PLANTA FV124",
+    "PLANTA FV125",
+    "PLANTA FV127",
+    "PLANTA FV128",
+    "PLANTA FV129",
+    "PLANTA FV132",
+    "PLANTA FV133",
+    "PLANTA FV134",
+    "PLANTA FV151",
+    "PLANTA FV152",
+    "PLANTA FV153",
+    "PLANTA FV154",
+    "PLANTA FV155",
+    "PLANTA FV156",
+    "PLANTA SOLAR PUERTOLLANO 6",
+    "PROMOTORES SUBESTACION LUENGOS",
+    "SAGITTA SOLAR",
+    "SERPENS SOLAR",
+    "SOLARIA CASIOPEA",
+    "SOLARIA EGUZKI SORKUNTZA",
+    "SOLARIA ENERGIA GENERACION RENOVABLE",
+    "SOLARIA ERAIKUNTZA FOTOVOLTAIKOA",
+    "VIA LACTEA FOTOVOLTAICA"
    ],
    "en_boe": [
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "ENER EPSILON",
-    "ITAMAR SOLAR",
-    "MARTINA SOSTENIBLE",
-    "PARQUE SOLAR ENERGY 02"
+    "PLANTA FV 137",
+    "PLANTA FV108",
+    "PLANTA FV109",
+    "PLANTA FV112",
+    "PLANTA FV120",
+    "SOLARIA EGUZKI SORKUNTZA"
    ]
   },
   {
@@ -12296,84 +12379,6 @@
    ]
   },
   {
-   "id": "G-ADHARA-SOLAR",
-   "sociedades": [
-    "ADHARA SOLAR",
-    "CORONA BOREALIS FOTOVOLTAICA",
-    "HYDRA SOLAR FOTOVOLTAICA",
-    "INDUS SOLAR FOTOVOLTAICA",
-    "KRAKEN SOLAR",
-    "MAGACELA SOLAR 1",
-    "PF MARTE",
-    "PLANTA FV 136",
-    "PLANTA FV 137",
-    "PLANTA FV 139",
-    "PLANTA FV 140",
-    "PLANTA FV 143",
-    "PLANTA FV 144",
-    "PLANTA FV 145",
-    "PLANTA FV 146",
-    "PLANTA FV 147",
-    "PLANTA FV 148",
-    "PLANTA FV 149",
-    "PLANTA FV 150",
-    "PLANTA FV CALISTO",
-    "PLANTA FV EUROPA",
-    "PLANTA FV MAIRA ALPHA",
-    "PLANTA FV MAIRA BETA",
-    "PLANTA FV MAIRA DELTA",
-    "PLANTA FV MAIRA GAMMA",
-    "PLANTA FV OLIVA 1",
-    "PLANTA FV OLIVA 2",
-    "PLANTA FV OLIVA 3",
-    "PLANTA FV OLIVA 4",
-    "PLANTA FV OLIVA 5",
-    "PLANTA FV103",
-    "PLANTA FV105",
-    "PLANTA FV106",
-    "PLANTA FV108",
-    "PLANTA FV109",
-    "PLANTA FV110",
-    "PLANTA FV111",
-    "PLANTA FV112",
-    "PLANTA FV118",
-    "PLANTA FV119",
-    "PLANTA FV120",
-    "PLANTA FV121",
-    "PLANTA FV122",
-    "PLANTA FV124",
-    "PLANTA FV125",
-    "PLANTA FV127",
-    "PLANTA FV128",
-    "PLANTA FV129",
-    "PLANTA FV132",
-    "PLANTA FV133",
-    "PLANTA FV134",
-    "PLANTA FV151",
-    "PLANTA FV152",
-    "PLANTA FV153",
-    "PLANTA FV154",
-    "PLANTA FV155",
-    "PLANTA FV156",
-    "PLANTA SOLAR PUERTOLLANO 6",
-    "PROMOTORES SUBESTACION LUENGOS",
-    "SAGITTA SOLAR",
-    "SERPENS SOLAR",
-    "SOLARIA CASIOPEA",
-    "SOLARIA EGUZKI SORKUNTZA",
-    "SOLARIA ENERGIA GENERACION RENOVABLE",
-    "SOLARIA ERAIKUNTZA FOTOVOLTAIKOA",
-    "VIA LACTEA FOTOVOLTAICA"
-   ],
-   "en_boe": [
-    "PLANTA FV 137",
-    "PLANTA FV108",
-    "PLANTA FV109",
-    "PLANTA FV112",
-    "SOLARIA EGUZKI SORKUNTZA"
-   ]
-  },
-  {
    "id": "G-ACAMAR-RENOVABLE",
    "sociedades": [
     "ACAMAR RENOVABLE",
@@ -12650,6 +12655,38 @@
    ]
   },
   {
+   "id": "G-AVILA-ECO-ENERGIAS",
+   "sociedades": [
+    "AVILA ECO ENERGIAS",
+    "CROWIND",
+    "ENERGIA DE RIANSARES",
+    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
+    "EOLIA WINDCO",
+    "EOLICA DE CARABUENA",
+    "EOLICA DE MEDINACELI",
+    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
+    "FERGO GALICIA VENTO -P E MONDONEDO",
+    "INICIATIVAS EOLICAS DE ALPERA",
+    "LURIA DE ENERGIAS",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "PARQUE EOLICO CERRO OLIVA",
+    "PARQUE EOLICO MADRIDEJOS",
+    "SISTEMAS ENERGETICOS FUERTEVENTURA",
+    "TARRACO EOLICA LES GARRIGUES",
+    "TARRACO EOLICA LES GARRIGUES DOS",
+    "TARRACO EOLICA-ASCO",
+    "WIGEP ANDALUCIA"
+   ],
+   "en_boe": [
+    "EOLICA DE MEDINACELI",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "TARRACO EOLICA LES GARRIGUES",
+    "WIGEP ANDALUCIA"
+   ]
+  },
+  {
    "id": "G-ALDEBARAN-SERVICIOS-DE-MANTENIMIENTO-EOL",
    "sociedades": [
     "ALDEBARAN SERVICIOS DE MANTENIMIENTO EOLICO",
@@ -12678,37 +12715,6 @@
     "ICTIO SOLAR ORION",
     "NAVABUENA SOLAR",
     "SISTEMAS FOTOVOLTAICO DE LEVANTE"
-   ]
-  },
-  {
-   "id": "G-CROWIND",
-   "sociedades": [
-    "CROWIND",
-    "ENERGIA DE RIANSARES",
-    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
-    "EOLIA WINDCO",
-    "EOLICA DE CARABUENA",
-    "EOLICA DE MEDINACELI",
-    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
-    "FERGO GALICIA VENTO -P E MONDONEDO",
-    "INICIATIVAS EOLICAS DE ALPERA",
-    "LURIA DE ENERGIAS",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "PARQUE EOLICO CERRO OLIVA",
-    "PARQUE EOLICO MADRIDEJOS",
-    "SISTEMAS ENERGETICOS FUERTEVENTURA",
-    "TARRACO EOLICA LES GARRIGUES",
-    "TARRACO EOLICA LES GARRIGUES DOS",
-    "TARRACO EOLICA-ASCO",
-    "WIGEP ANDALUCIA"
-   ],
-   "en_boe": [
-    "EOLICA DE MEDINACELI",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "TARRACO EOLICA LES GARRIGUES",
-    "WIGEP ANDALUCIA"
    ]
   },
   {
@@ -13181,6 +13187,7 @@
     "FENIX FOTOVOLTAICA",
     "FLEROVIO FOTOVOLTAICA",
     "FORNAX FOTOVOLTAICA",
+    "FOTOVOLTAICA GIRASOL",
     "FOTOVOLTAICA POLO NORTE",
     "FV JEREZ ENERGY",
     "FV JEREZ GOLD",
@@ -13764,36 +13771,6 @@
    ]
   },
   {
-   "id": "G-ARAIZ-ENERGY",
-   "sociedades": [
-    "ARAIZ ENERGY",
-    "ATENEA ENERGY",
-    "BRO Y PIKY ENERGY",
-    "BRO Y PIKY HOLDINGS",
-    "CANALES NORTE ENERGY",
-    "CAPITAL ENERGY CENTRO NORTE",
-    "CAPITAL ENERGY COMERCIALIZADORA",
-    "GREEN CAPITAL DEVELOPMENT VI",
-    "GREEN CAPITAL DEVELOPMENT XV",
-    "NERALDA ENERGY",
-    "PARQUE EOLICO GASALLA",
-    "QUANTUM CAPITAL VENTURE",
-    "QUANTUM ENERGY STORAGE",
-    "QUANTUM ENERGY STORAGE 1",
-    "QUANTUM ENERGY STORAGE 2",
-    "QUANTUM HYDROGEN",
-    "QUANTUM POWERLINK",
-    "QUANTUM SERVICES 1",
-    "QUANTUM SERVICES 2",
-    "QUANTUM XGREEN"
-   ],
-   "en_boe": [
-    "GREEN CAPITAL DEVELOPMENT VI",
-    "GREEN CAPITAL DEVELOPMENT XV",
-    "NERALDA ENERGY"
-   ]
-  },
-  {
    "id": "G-ACE-ITALY-PARQUES-EOLICOS",
    "sociedades": [
     "ACE ITALY PARQUES EOLICOS",
@@ -13820,6 +13797,35 @@
     "EDP RENOVABLES ESPANA",
     "SONER GOYA",
     "TEBAR EOLICA"
+   ]
+  },
+  {
+   "id": "G-ARAIZ-ENERGY",
+   "sociedades": [
+    "ARAIZ ENERGY",
+    "ATENEA ENERGY",
+    "BRO Y PIKY ENERGY",
+    "BRO Y PIKY HOLDINGS",
+    "CANALES NORTE ENERGY",
+    "CAPITAL ENERGY CENTRO NORTE",
+    "CAPITAL ENERGY COMERCIALIZADORA",
+    "GREEN CAPITAL DEVELOPMENT VI",
+    "GREEN CAPITAL DEVELOPMENT XV",
+    "NERALDA ENERGY",
+    "QUANTUM CAPITAL VENTURE",
+    "QUANTUM ENERGY STORAGE",
+    "QUANTUM ENERGY STORAGE 1",
+    "QUANTUM ENERGY STORAGE 2",
+    "QUANTUM HYDROGEN",
+    "QUANTUM POWERLINK",
+    "QUANTUM SERVICES 1",
+    "QUANTUM SERVICES 2",
+    "QUANTUM XGREEN"
+   ],
+   "en_boe": [
+    "GREEN CAPITAL DEVELOPMENT VI",
+    "GREEN CAPITAL DEVELOPMENT XV",
+    "NERALDA ENERGY"
    ]
   },
   {
@@ -14497,50 +14503,6 @@
    "en_boe": [
     "ALTAIR ECOSOLAR",
     "VEGA LYRA PROMOCIONES FOTOVOLTAICAS"
-   ]
-  },
-  {
-   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
-   "sociedades": [
-    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
-    "ALIZA ENERGY",
-    "ARMONIA GREEN AVILES",
-    "ARMONIA GREEN SEVILLA",
-    "ASESORIA ENERGETICA J Y G",
-    "BIOGASVERD",
-    "CANDELA COMERCIALIZADORA",
-    "CENTRAL ENERGY CONSULTORES",
-    "CONSULTORES DE ENERGIA 2021",
-    "CUPULA 6 1",
-    "ENGIE CASTELNOU",
-    "FOTOVOLT2024",
-    "IGNIS BIOFUELS",
-    "IGNIS DATA GAMMA",
-    "IGNIS DATA KAPPA",
-    "IGNIS ENERGIA",
-    "IGNIS ENERGY HOLDINGS",
-    "IGNIS ENERGY INDUSTRIES",
-    "IGNIS GENERACION",
-    "IGNIS HIDROGENO ALFA",
-    "IGNIS HIDROGENO IOTA",
-    "IGNIS HIDROGENO KAPPA",
-    "IGNIS HIDROGENO ZETA",
-    "IGNIS P2X HOLDINGS",
-    "IGNIS PARTNERS",
-    "IGNIS PROPERTIES",
-    "IGNIS SMART SOLUTIONS",
-    "IGNIS VENTURES",
-    "IZACAN 2024",
-    "MARESME ENERGY PLUS",
-    "NAO ENERGIA COMERCIALIZADORA",
-    "ROBLASUN 2",
-    "SEVERAL ENERGY",
-    "TEC 94",
-    "TILO SOLAR"
-   ],
-   "en_boe": [
-    "ENGIE CASTELNOU",
-    "IGNIS GENERACION"
    ]
   },
   {
@@ -15845,6 +15807,48 @@
    ]
   },
   {
+   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
+   "sociedades": [
+    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
+    "ALIZA ENERGY",
+    "ARMONIA GREEN AVILES",
+    "ARMONIA GREEN SEVILLA",
+    "ASESORIA ENERGETICA J Y G",
+    "BIOGASVERD",
+    "CANDELA COMERCIALIZADORA",
+    "CENTRAL ENERGY CONSULTORES",
+    "CONSULTORES DE ENERGIA 2021",
+    "CUPULA 6 1",
+    "FOTOVOLT2024",
+    "IGNIS BIOFUELS",
+    "IGNIS DATA GAMMA",
+    "IGNIS DATA KAPPA",
+    "IGNIS ENERGIA",
+    "IGNIS ENERGY HOLDINGS",
+    "IGNIS ENERGY INDUSTRIES",
+    "IGNIS GENERACION",
+    "IGNIS HIDROGENO ALFA",
+    "IGNIS HIDROGENO IOTA",
+    "IGNIS HIDROGENO KAPPA",
+    "IGNIS HIDROGENO ZETA",
+    "IGNIS P2X HOLDINGS",
+    "IGNIS PARTNERS",
+    "IGNIS PROPERTIES",
+    "IGNIS SMART SOLUTIONS",
+    "IGNIS VENTURES",
+    "IZACAN 2024",
+    "MARESME ENERGY PLUS",
+    "NAO ENERGIA COMERCIALIZADORA",
+    "ROBLASUN 2",
+    "SEVERAL ENERGY",
+    "TEC 94",
+    "TILO SOLAR"
+   ],
+   "en_boe": [
+    "IGNIS GENERACION"
+   ]
+  },
+  {
    "id": "G-CG-DEVELOPMENT-I",
    "sociedades": [
     "CG DEVELOPMENT I",
@@ -16034,6 +16038,40 @@
    ],
    "en_boe": [
     "SPG GESTORA YECHAR"
+   ]
+  },
+  {
+   "id": "G-ABETO-NEW-ENERGY",
+   "sociedades": [
+    "ABETO NEW ENERGY",
+    "AERIS NEW ENERGY",
+    "ARANDANO NEW ENERGY",
+    "ARDEA NEW ENERGY",
+    "BEST WONDER BUSINESS",
+    "ENCINA NEW ENERGY",
+    "FICUS SOLAR PV",
+    "KIWI NEW ENERGY",
+    "LIMA NEW ENERGY",
+    "LOTO SOLAR PV",
+    "MAGNOLIA SOLAR PV",
+    "MANZANO SOLAR PV",
+    "OLIVO NEW ENERGY",
+    "PALATIUM NEW ENERGY",
+    "PALMERA NEW ENERGY",
+    "PANDIA NEW ENERGY",
+    "PAPAYA NEW ENERGY",
+    "PETRA NEW ENERGY",
+    "POLENTA NEW ENERGY",
+    "PROGRESSUM ENERGY DEVELOPMENTS",
+    "SABINA SOLAR PV",
+    "SANDALA NEW ENERGY",
+    "SAUCE NEW ENERGY",
+    "SOLAR-PV EXT 001",
+    "TALARIA NEW ENERGY",
+    "TORONJA NEW ENERGY"
+   ],
+   "en_boe": [
+    "ABETO NEW ENERGY"
    ]
   },
   {
@@ -16458,29 +16496,6 @@
    ]
   },
   {
-   "id": "G-BE-CATALA-FV",
-   "sociedades": [
-    "BE CATALA FV",
-    "BE ORRENTE",
-    "BE VARELA FV",
-    "BE ZURBARAN FV",
-    "BELECTRIC",
-    "BELECTRIC ESPANA",
-    "COMSA GREEN ENERGY",
-    "COMSA RENOVABLES",
-    "COMUNIDADES ENERGETICAS LOCALES",
-    "DEIMOS INVERSION",
-    "ENERGIAS RENOVABLES VILLALONQUEJAR",
-    "ENERGIAS VERDES MORQUILLAS",
-    "ENERGIAS VERDES SARGENTES DE LA LORA",
-    "PROYECTOS SOLARES IBERIA IV",
-    "SPT RENOVABLE"
-   ],
-   "en_boe": [
-    "PROYECTOS SOLARES IBERIA IV"
-   ]
-  },
-  {
    "id": "G-BIOGREEN-ENGINEERING",
    "sociedades": [
     "BIOGREEN ENGINEERING",
@@ -16565,6 +16580,27 @@
    ]
   },
   {
+   "id": "G-BE-CATALA-FV",
+   "sociedades": [
+    "BE CATALA FV",
+    "BE ORRENTE",
+    "BE VARELA FV",
+    "BE ZURBARAN FV",
+    "BELECTRIC",
+    "BELECTRIC ESPANA",
+    "COMSA GREEN ENERGY",
+    "COMUNIDADES ENERGETICAS LOCALES",
+    "ENERGIAS RENOVABLES VILLALONQUEJAR",
+    "ENERGIAS VERDES MORQUILLAS",
+    "ENERGIAS VERDES SARGENTES DE LA LORA",
+    "PROYECTOS SOLARES IBERIA IV",
+    "SPT RENOVABLE"
+   ],
+   "en_boe": [
+    "PROYECTOS SOLARES IBERIA IV"
+   ]
+  },
+  {
    "id": "G-ERESMA-SOLAR",
    "sociedades": [
     "ERESMA SOLAR",
@@ -16640,24 +16676,6 @@
    ],
    "en_boe": [
     "JERTE RENOVABLES"
-   ]
-  },
-  {
-   "id": "G-ABETO-NEW-ENERGY",
-   "sociedades": [
-    "ABETO NEW ENERGY",
-    "ENCINA NEW ENERGY",
-    "FICUS SOLAR PV",
-    "LOTO SOLAR PV",
-    "MAGNOLIA SOLAR PV",
-    "MANZANO SOLAR PV",
-    "OLIVO NEW ENERGY",
-    "SABINA SOLAR PV",
-    "SAUCE NEW ENERGY",
-    "SOLAR-PV EXT 001"
-   ],
-   "en_boe": [
-    "ABETO NEW ENERGY"
    ]
   },
   {
@@ -20151,6 +20169,16 @@
       "Ampliación de capital",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477251,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": true,
@@ -23231,6 +23259,42 @@
    ],
    "en_boe": false,
    "grupo": "ADMINISTRADORA SOLAR HISPANO ALEMANA"
+  },
+  "AERIS NEW ENERGY": {
+   "id": "AERIS NEW ENERGY",
+   "nombres": [
+    "AERIS NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED.06 A, PARQUE EMPRES (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28",
+     "num": 328270,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-152-28",
+     "num": 370965,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
   },
   "AEROGENERACION GALICIA": {
    "id": "AEROGENERACION GALICIA",
@@ -38840,6 +38904,33 @@
    "en_boe": false,
    "grupo": "ACACIA DESARROLLOS FOTOVOLTAICOS ESPANA"
   },
+  "ARANDANO NEW ENERGY": {
+   "id": "ARANDANO NEW ENERGY",
+   "nombres": [
+    "ARANDANO NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28",
+     "num": 328335,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "ARASTE SPV 2021": {
    "id": "ARASTE SPV 2021",
    "nombres": [
@@ -41845,6 +41936,33 @@
    ],
    "en_boe": false,
    "grupo": "AGUAMARINA ENERGIA"
+  },
+  "ARDEA NEW ENERGY": {
+   "id": "ARDEA NEW ENERGY",
+   "nombres": [
+    "ARDEA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED.06 A, SOMOSAGUAS, P (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-08",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-129-28",
+     "num": 330383,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
   },
   "ARDILA FOTOVOLTAICA": {
    "id": "ARDILA FOTOVOLTAICA",
@@ -50074,7 +50192,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ALBACETE ECO ENERGIAS"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "AVINTIA ENERGIA": {
    "id": "AVINTIA ENERGIA",
@@ -57797,6 +57915,18 @@
    ],
    "en_boe": false,
    "grupo": "BESS REAL ESTATE INVERSIONES"
+  },
+  "BEST WONDER BUSINESS": {
+   "id": "BEST WONDER BUSINESS",
+   "nombres": [
+    "BEST WONDER BUSINESS SOCIEDAD LIMITADA"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
   },
   "BETA PARTICIPACIONES IBERICA": {
    "id": "BETA PARTICIPACIONES IBERICA",
@@ -91215,186 +91345,6 @@
    "en_boe": false,
    "grupo": "BE CATALA FV"
   },
-  "COMSA RENOVABLES": {
-   "id": "COMSA RENOVABLES",
-   "nombres": [
-    "COMSA RENOVABLES SL",
-    "COMSA RENOVABLES SA"
-   ],
-   "nifs": [],
-   "domicilios": [],
-   "actos_boe": [],
-   "borme": [
-    {
-     "fecha": "2021-04-14",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
-     "num": 168351,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-04-14",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
-     "num": 168352,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-04-14",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
-     "num": 168353,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-04-14",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
-     "num": 168354,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-04-14",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08",
-     "num": 168355,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-08-10",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-152-08",
-     "num": 376229,
-     "actos": [
-      "Modificaciones estatutarias",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-08-18",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08",
-     "num": 387607,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-08-18",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08",
-     "num": 387608,
-     "actos": [
-      "Revocaciones",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-10-26",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-206-08",
-     "num": 467639,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-10-26",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-206-08",
-     "num": 467640,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-11-24",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08",
-     "num": 509483,
-     "actos": [
-      "Revocaciones",
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-12-15",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08",
-     "num": 539038,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-12-15",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08",
-     "num": 539042,
-     "actos": [
-      "Nombramientos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2021-12-30",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08",
-     "num": 566185,
-     "actos": [
-      "Revocaciones",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2022-07-18",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-136-08",
-     "num": 333173,
-     "actos": [
-      "Revocaciones",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2022-11-16",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-218-08",
-     "num": 497887,
-     "actos": [
-      "Revocaciones",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2023-02-20",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-35-08",
-     "num": 87463,
-     "actos": [
-      "Otros conceptos",
-      "Datos registrales"
-     ]
-    },
-    {
-     "fecha": "2023-11-28",
-     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-226-08",
-     "num": 506330,
-     "actos": [
-      "Extinción",
-      "Datos registrales"
-     ]
-    }
-   ],
-   "en_boe": false,
-   "grupo": "BE CATALA FV"
-  },
   "COMUNIDADES ENERGETICAS LOCALES": {
    "id": "COMUNIDADES ENERGETICAS LOCALES",
    "nombres": [
@@ -94663,6 +94613,23 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477106,
+     "actos": [
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477107,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -95730,7 +95697,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "CRUCERO SOLAR": {
    "id": "CRUCERO SOLAR",
@@ -100028,18 +99995,6 @@
    ],
    "en_boe": false,
    "grupo": "ACONCAGUA POWER"
-  },
-  "DEIMOS INVERSION": {
-   "id": "DEIMOS INVERSION",
-   "nombres": [
-    "DEIMOS INVERSION SL"
-   ],
-   "nifs": [],
-   "domicilios": [],
-   "actos_boe": [],
-   "borme": [],
-   "en_boe": false,
-   "grupo": "BE CATALA FV"
   },
   "DELGADO RENOVABLES": {
    "id": "DELGADO RENOVABLES",
@@ -140787,7 +140742,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "ENERGIA DE SURIA": {
    "id": "ENERGIA DE SURIA",
@@ -165097,7 +165052,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "ENERGIAS RENOVABLES AGUIMES": {
    "id": "ENERGIAS RENOVABLES AGUIMES",
@@ -178165,6 +178120,419 @@
    "en_boe": false,
    "grupo": "AGUA Y ENERGIA DE GRANADA"
   },
+  "ENERGYWORKS CARTAGENA": {
+   "id": "ENERGYWORKS CARTAGENA",
+   "nombres": [
+    "ENERGYWORKS CARTAGENA SL"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2020-03-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-53-30",
+     "num": 121966,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-06-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-117-30",
+     "num": 188116,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-06-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-117-30",
+     "num": 188117,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-06-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-117-30",
+     "num": 188118,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-06-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-117-30",
+     "num": 188119,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-06-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-119-30",
+     "num": 191337,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-08-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-148-30",
+     "num": 251602,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-10-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-206-30",
+     "num": 360789,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-11-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-229-30",
+     "num": 417313,
+     "actos": [
+      "Nombramientos",
+      "Fe de erratas",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-12-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-233-30",
+     "num": 427086,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-03-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-46-30",
+     "num": 112144,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-06-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-116-30",
+     "num": 300799,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-08-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-165-30",
+     "num": 400241,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2021-08-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-165-30",
+     "num": 400242,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-04-29",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-82-30",
+     "num": 192787,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-05-20",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-95-30",
+     "num": 227358,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-05-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30",
+     "num": 245945,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-08-25",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-162-30",
+     "num": 392746,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-10-25",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-204-30",
+     "num": 468036,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-12-22",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-242-30",
+     "num": 561106,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-02-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-31-30",
+     "num": 79007,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-02-16",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-33-30",
+     "num": 83909,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-03-13",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-50-30",
+     "num": 125568,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-03-13",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-50-30",
+     "num": 125569,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-29",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-164-30",
+     "num": 383604,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-11-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-210-30",
+     "num": 468047,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-22",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-59-30",
+     "num": 146811,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-62-30",
+     "num": 153836,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-62-30",
+     "num": 153837,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-08-06",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-150-30",
+     "num": 347661,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-08-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-158-30",
+     "num": 363023,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-09-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-186-30",
+     "num": 413446,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-10-29",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-209-30",
+     "num": 462758,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-04-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-64-30",
+     "num": 156120,
+     "actos": [
+      "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-04-03",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-30",
+     "num": 158914,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-08-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-161-30",
+     "num": 384318,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-10-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-199-30",
+     "num": 455340,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-11-11",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-215-30",
+     "num": 493988,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-04-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30",
+     "num": 174136,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-04-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30",
+     "num": 174137,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-04-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30",
+     "num": 174138,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-118-30",
+     "num": 298183,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-191-30",
+     "num": 440788,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "BALANTIA ENERGY SOLUTIONS Y TECHNOLOGIES"
+  },
   "ENERLAND GENERACION SOLAR 3": {
    "id": "ENERLAND GENERACION SOLAR 3",
    "nombres": [
@@ -179055,7 +179423,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "AHMON NH3 PROCESS STORAGE DISTRIBUTION"
+   "grupo": "ALBACETE ECO ENERGIAS"
   },
   "ENGIE ESPANA": {
    "id": "ENGIE ESPANA",
@@ -182149,6 +182517,16 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477325,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -182282,7 +182660,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA AIRCAN": {
    "id": "EOLICA AIRCAN",
@@ -182630,7 +183008,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA DE CASTIL DE TIERRA": {
    "id": "EOLICA DE CASTIL DE TIERRA",
@@ -182847,7 +183225,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA DE RADONA": {
    "id": "EOLICA DE RADONA",
@@ -196889,7 +197267,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EXPLOTACIONES EOLICAS SIERRA DE UTRERA": {
    "id": "EXPLOTACIONES EOLICAS SIERRA DE UTRERA",
@@ -200243,7 +200621,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "FERNANDO SOL": {
    "id": "FERNANDO SOL",
@@ -204788,6 +205166,107 @@
    ],
    "en_boe": false,
    "grupo": "ABEI ENERGY CSPV EIGHT"
+  },
+  "FOTOVOLTAICA GIRASOL": {
+   "id": "FOTOVOLTAICA GIRASOL",
+   "nombres": [
+    "FOTOVOLTAICA GIRASOL SOCIEDAD LIMITADA"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "C/ RONDA SUR 24 (MOTILLA DEL PALANCAR)",
+    "PASEO DE RECOLETOS 37-41, 1º A (MADRID)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2020-01-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-15-16",
+     "num": 29158,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-10-01",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-191-16",
+     "num": 330766,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2020-10-01",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-191-16",
+     "num": 330767,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-02-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-28-16",
+     "num": 70063,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-10-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-199-16",
+     "num": 443445,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2025-02-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-41-16",
+     "num": 99652,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-04-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-70-16",
+     "num": 179197,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477171,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABEU FOTOVOLTAICA"
   },
   "FOTOVOLTAICA GUZMAN II": {
    "id": "FOTOVOLTAICA GUZMAN II",
@@ -270960,6 +271439,15 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-45",
+     "num": 478031,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": true,
@@ -281957,7 +282445,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "INMEDICAL THERAPEUTICS": {
    "id": "INMEDICAL THERAPEUTICS",
@@ -292215,6 +292703,107 @@
    "en_boe": false,
    "grupo": "ABEU FOTOVOLTAICA"
   },
+  "KIWI NEW ENERGY": {
+   "id": "KIWI NEW ENERGY",
+   "nombres": [
+    "KIWI NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED.06 A, PARQUE EMPRES (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28",
+     "num": 328319,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-04-21",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-76-28",
+     "num": 187746,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-143-28",
+     "num": 342144,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-25",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-162-28",
+     "num": 379668,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-186-28",
+     "num": 417277,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-01-25",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28",
+     "num": 41851,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-10",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-109-28",
+     "num": 277040,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28",
+     "num": 375380,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "KOBUS PARTNERS MANAGEMENTS S G": {
    "id": "KOBUS PARTNERS MANAGEMENTS S G",
    "nombres": [
@@ -298069,6 +298658,33 @@
    "en_boe": false,
    "grupo": "ACERVATIN CONSTRUCCIONES"
   },
+  "LIMA NEW ENERGY": {
+   "id": "LIMA NEW ENERGY",
+   "nombres": [
+    "LIMA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED. 06, PARQUE EMPRESA (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28",
+     "num": 328358,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "LIMAGO ENERGIA SOLAR": {
    "id": "LIMAGO ENERGIA SOLAR",
    "nombres": [
@@ -302349,7 +302965,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "LUSIBERIA": {
    "id": "LUSIBERIA",
@@ -356362,6 +356978,33 @@
    "en_boe": false,
    "grupo": "ADMINISTRADORA SOLAR HISPANO ALEMANA"
   },
+  "OBERON ENERGY TRADING": {
+   "id": "OBERON ENERGY TRADING",
+   "nombres": [
+    "OBERON ENERGY TRADING SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "AVDA DE ALBERTO ALCOCER 24 - 3ª PLANTA (MADRID)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477123,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ADMINISTRADORA SOLAR HISPANO ALEMANA"
+  },
   "OBISPALIA SOLAR": {
    "id": "OBISPALIA SOLAR",
    "nombres": [
@@ -362145,6 +362788,114 @@
    "en_boe": false,
    "grupo": "BENBROS SOLAR"
   },
+  "PALATIUM NEW ENERGY": {
+   "id": "PALATIUM NEW ENERGY",
+   "nombres": [
+    "PALATIUM NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339258,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-12-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-247-28",
+     "num": 573939,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-16",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-10-28",
+     "num": 22355,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-143-28",
+     "num": 342164,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-18",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-157-28",
+     "num": 372210,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-184-28",
+     "num": 414228,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-01-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28",
+     "num": 35520,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28",
+     "num": 281036,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28",
+     "num": 375353,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "PALE DIRECTORSHIP": {
    "id": "PALE DIRECTORSHIP",
    "nombres": [
@@ -362629,6 +363380,51 @@
    "en_boe": false,
    "grupo": "ACACIA DESARROLLOS FOTOVOLTAICOS ESPANA"
   },
+  "PALMERA NEW ENERGY": {
+   "id": "PALMERA NEW ENERGY",
+   "nombres": [
+    "PALMERA NEW ENERGY SL",
+    "PALMERA NEW ENERGY S.L.U"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2022-01-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-9-28",
+     "num": 16117,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-05-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-92-28",
+     "num": 221638,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-07-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-135-28",
+     "num": 314954,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Disolución",
+      "Extinción",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "PALOMA ENERGY": {
    "id": "PALOMA ENERGY",
    "nombres": [
@@ -362937,6 +363733,42 @@
    "en_boe": false,
    "grupo": "ABEU FOTOVOLTAICA"
   },
+  "PANDIA NEW ENERGY": {
+   "id": "PANDIA NEW ENERGY",
+   "nombres": [
+    "PANDIA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339267,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28",
+     "num": 375591,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "PANGION HOLDING S A R L": {
    "id": "PANGION HOLDING S A R L",
    "nombres": [
@@ -363137,6 +363969,33 @@
    ],
    "en_boe": false,
    "grupo": "ADMINISTRADORA SOLAR HISPANO ALEMANA"
+  },
+  "PAPAYA NEW ENERGY": {
+   "id": "PAPAYA NEW ENERGY",
+   "nombres": [
+    "PAPAYA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED.06 A, PARQUE EMPRES (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28",
+     "num": 328329,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
   },
   "PARAMO DE LOS ANGOSTILLOS": {
    "id": "PARAMO DE LOS ANGOSTILLOS",
@@ -364159,7 +365018,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARC EOLIC SERRA VOLTORERA": {
    "id": "PARC EOLIC SERRA VOLTORERA",
@@ -365084,7 +365943,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO ALSA": {
    "id": "PARQUE EOLICO ALSA",
@@ -367438,7 +368297,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO CINSEIRO": {
    "id": "PARQUE EOLICO CINSEIRO",
@@ -370220,7 +371079,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ARAIZ ENERGY"
+   "grupo": "CAPITAL ENERGY"
   },
   "PARQUE EOLICO HINOJAL": {
    "id": "PARQUE EOLICO HINOJAL",
@@ -371850,7 +372709,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO MAGAZ": {
    "id": "PARQUE EOLICO MAGAZ",
@@ -382793,6 +383652,116 @@
    "en_boe": false,
    "grupo": "ACACIA POWER"
   },
+  "PETRA NEW ENERGY": {
+   "id": "PETRA NEW ENERGY",
+   "nombres": [
+    "PETRA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339409,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-12-29",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-246-28",
+     "num": 570892,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-12-30",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-247-28",
+     "num": 573444,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-143-28",
+     "num": 342153,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28",
+     "num": 378503,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-186-28",
+     "num": 417278,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-04",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28",
+     "num": 111223,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28",
+     "num": 281060,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28",
+     "num": 370011,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "PETUNIA POWER": {
    "id": "PETUNIA POWER",
    "nombres": [
@@ -389959,11 +390928,18 @@
   "PLANTA FV120": {
    "id": "PLANTA FV120",
    "nombres": [
+    "Planta FV120, SLU",
     "PLANTA FV120 SL"
    ],
-   "nifs": [],
-   "domicilios": [],
-   "actos_boe": [],
+   "nifs": [
+    "B88396189"
+   ],
+   "domicilios": [
+    "calle de la Princesa, 2 – 4ª Planta, C.P. 28008, Madrid"
+   ],
+   "actos_boe": [
+    "BOE-B-2026-34914"
+   ],
    "borme": [
     {
      "fecha": "2020-08-10",
@@ -390021,7 +390997,7 @@
      ]
     }
    ],
-   "en_boe": false,
+   "en_boe": true,
    "grupo": "ADHARA SOLAR"
   },
   "PLANTA FV121": {
@@ -395692,6 +396668,123 @@
    "en_boe": false,
    "grupo": "ATENEA ITG"
   },
+  "POLENTA NEW ENERGY": {
+   "id": "POLENTA NEW ENERGY",
+   "nombres": [
+    "POLENTA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339412,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28",
+     "num": 1921,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-17",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-11-28",
+     "num": 24726,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-03-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-57-28",
+     "num": 141652,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28",
+     "num": 378644,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-186-28",
+     "num": 417268,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-10-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-193-28",
+     "num": 431565,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-05",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28",
+     "num": 113006,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28",
+     "num": 281053,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28",
+     "num": 375343,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "POLLUX FV": {
    "id": "POLLUX FV",
    "nombres": [
@@ -398711,6 +399804,74 @@
    ],
    "en_boe": true,
    "grupo": "PROGRESION DINAMICA"
+  },
+  "PROGRESSUM ENERGY DEVELOPMENTS": {
+   "id": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "nombres": [
+    "PROGRESSUM ENERGY DEVELOPMENTS SOCIEDAD LIMITADA"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2020-09-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-173-28",
+     "num": 300601,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-02-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-31-28",
+     "num": 67853,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-02-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-31-28",
+     "num": 67854,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2022-04-01",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-64-28",
+     "num": 146656,
+     "actos": [
+      "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-13",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-132-28",
+     "num": 318597,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-11-15",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-221-28",
+     "num": 491080,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
   },
   "PROMALFAR LOGISTIA": {
    "id": "PROMALFAR LOGISTIA",
@@ -402827,6 +403988,15 @@
      "num": 309069,
      "actos": [
       "Revocaciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28",
+     "num": 477057,
+     "actos": [
+      "Reelecciones",
       "Datos registrales"
      ]
     }
@@ -430245,6 +431415,116 @@
    "en_boe": false,
    "grupo": "ALMENDRA RENOVABLES 400 KV"
   },
+  "SANDALA NEW ENERGY": {
+   "id": "SANDALA NEW ENERGY",
+   "nombres": [
+    "SANDALA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339430,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28",
+     "num": 1915,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-5-28",
+     "num": 12231,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-142-28",
+     "num": 339598,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28",
+     "num": 378605,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-186-28",
+     "num": 417276,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-04",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28",
+     "num": 111230,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28",
+     "num": 281078,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-07",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28",
+     "num": 370044,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "SANLUCAR PV HOLDING": {
    "id": "SANLUCAR PV HOLDING",
    "nombres": [
@@ -443246,6 +444526,20 @@
       "Sociedad unipersonal",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41",
+     "num": 477840,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Revocaciones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Disolución",
+      "Extinción",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -444511,7 +445805,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "SISTEMAS ENERGETICOS GOMERA": {
    "id": "SISTEMAS ENERGETICOS GOMERA",
@@ -447084,6 +448378,20 @@
      "num": 371666,
      "actos": [
       "Sociedad unipersonal",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41",
+     "num": 477852,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Revocaciones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Disolución",
+      "Extinción",
       "Datos registrales"
      ]
     }
@@ -460408,6 +461716,15 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-46",
+     "num": 478073,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": true,
@@ -465368,6 +466685,123 @@
    "en_boe": true,
    "grupo": "ACEDERA RENOVABLE"
   },
+  "TALARIA NEW ENERGY": {
+   "id": "TALARIA NEW ENERGY",
+   "nombres": [
+    "TALARIA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1 - ED. 06 A, PARQUE EMPR (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-14",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28",
+     "num": 339452,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-02",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28",
+     "num": 1918,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-01-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-8-28",
+     "num": 17371,
+     "actos": [
+      "Pérdida del caracter de unipersonalidad",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-03-23",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-57-28",
+     "num": 141643,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-07-27",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-142-28",
+     "num": 339535,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-08-24",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28",
+     "num": 378830,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2023-09-28",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-186-28",
+     "num": 417275,
+     "actos": [
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2024-03-05",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28",
+     "num": 113002,
+     "actos": [
+      "Revocaciones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-06-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28",
+     "num": 281057,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-08-12",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28",
+     "num": 375367,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "TALASOL SOLAR": {
    "id": "TALASOL SOLAR",
    "nombres": [
@@ -466828,7 +468262,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRACO EOLICA LES GARRIGUES DOS": {
    "id": "TARRACO EOLICA LES GARRIGUES DOS",
@@ -466950,7 +468384,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRACO EOLICA-ASCO": {
    "id": "TARRACO EOLICA-ASCO",
@@ -467100,7 +468534,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRAGONA POWER": {
    "id": "TARRAGONA POWER",
@@ -471246,6 +472680,33 @@
    "en_boe": false,
    "grupo": "ALTAIR ECOSOLAR"
   },
+  "TORONJA NEW ENERGY": {
+   "id": "TORONJA NEW ENERGY",
+   "nombres": [
+    "TORONJA NEW ENERGY SL"
+   ],
+   "nifs": [],
+   "domicilios": [
+    "PASEO DEL CLUB DEPORTIVO 1, ED 06 A, PARQUE EMPRE (POZUELO DE ALARCON)"
+   ],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2021-07-09",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-130-28",
+     "num": 332142,
+     "actos": [
+      "Constitución",
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Nombramientos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "ABETO NEW ENERGY"
+  },
   "TORRE DE MIGUEL SOLAR": {
    "id": "TORRE DE MIGUEL SOLAR",
    "nombres": [
@@ -472615,6 +474076,15 @@
      "actos": [
       "Ceses/Dimisiones",
       "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-10-26",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-50",
+     "num": 478235,
+     "actos": [
+      "Reelecciones",
       "Datos registrales"
      ]
     }
@@ -489012,7 +490482,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "WILD SUN": {
    "id": "WILD SUN",
@@ -607919,6 +609389,48 @@
    ],
    "primera": "2026-10-22",
    "ultima": "2026-10-22"
+  },
+  "SIRIUS (Salamanca)": {
+   "id": "SIRIUS (Salamanca)",
+   "nombres": [
+    "Sirius Solar"
+   ],
+   "mw": 48.11,
+   "tecnologias": [
+    "fotovoltaica",
+    "almacenamiento",
+    "hibrida"
+   ],
+   "titulares": [
+    "PLANTA FV120"
+   ],
+   "expedientes": [
+    "PFOT-ALM-251",
+    "FV120"
+   ],
+   "acumulacion": false,
+   "colectoras": [
+    "valcabado generacion|220/30"
+   ],
+   "municipios": [
+    "Zamora",
+    "Roales del Pan",
+    "Valcabado"
+   ],
+   "provincias": [
+    "Salamanca",
+    "Zamora"
+   ],
+   "actos": [
+    {
+     "id": "BOE-B-2026-34914",
+     "fecha": "2026-10-26",
+     "acto": "informacion_publica",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34914"
+    }
+   ],
+   "primera": "2026-10-26",
+   "ultima": "2026-10-26"
   }
  },
  "evidencias": [
@@ -620477,10 +621989,58 @@
   {
    "tipo": "historico",
    "a": "PF-1b7eb49c4e",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2022-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-247-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2023-01-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-5-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2023-01-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-8-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2023-01-16",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-10-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2023-01-17",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-11-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
    "b": "BUGANVILLA SOLAR PV",
    "detalle": "Ceses/Dimisiones: Adm. único",
    "fecha": "2023-02-08",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-27-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2023-04-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-76-28"
   },
   {
    "tipo": "historico",
@@ -620521,6 +622081,126 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2023-11-07",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-212-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PALMERA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2024-07-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-135-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PALMERA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Representante",
+   "fecha": "2024-07-15",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-135-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-1b7eb49c4e",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-1ffbddf4f6",
+   "b": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "detalle": "Representante",
+   "fecha": "2020-09-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-173-28"
   },
   {
    "tipo": "historico",
@@ -625667,6 +627347,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-8ac22cf723",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-8ac22cf723",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-8ac22cf723",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -625821,14 +627517,6 @@
   {
    "tipo": "persona",
    "a": "PF-8ac22cf723",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-8ac22cf723",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -625849,14 +627537,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-8ac22cf723",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -629603,28 +631283,28 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-122-31"
   },
   {
+   "tipo": "historico",
+   "a": "PF-bf83df4315",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-bf83df4315",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-bf83df4315",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY DIGITAL SERVICES",
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-08-12",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-154-20"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-bf83df4315",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-bf83df4315",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -630747,20 +632427,28 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-162-50"
   },
   {
+   "tipo": "historico",
+   "a": "PF-320b0a3c71",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-320b0a3c71",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-320b0a3c71",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY DIGITAL SERVICES",
    "detalle": "Apo.Man.Soli",
    "fecha": "2020-06-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-120-20"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-320b0a3c71",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "historico",
@@ -632539,6 +634227,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-844fa5b04c",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-844fa5b04c",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-844fa5b04c",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -632633,14 +634337,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-04-01",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-63-50"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-844fa5b04c",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "persona",
@@ -657565,6 +659261,14 @@
   {
    "tipo": "historico",
    "a": "SOLAER HOLDING",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2020-10-01",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-191-16"
+  },
+  {
+   "tipo": "historico",
+   "a": "SOLAER HOLDING",
    "b": "CITRONELLA FOTOVOLTAICA",
    "detalle": "Socio único: Socio único",
    "fecha": "2021-02-18",
@@ -658329,6 +660033,14 @@
    "detalle": "Socio único",
    "fecha": "2021-05-27",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-99-28"
+  },
+  {
+   "tipo": "control",
+   "a": "SOLAER HOLDING",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Socio único",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-15-16"
   },
   {
    "tipo": "control",
@@ -661173,6 +662885,14 @@
   {
    "tipo": "historico",
    "a": "PF-b8cab599c2",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. solidario",
+   "fecha": "2023-10-18",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-199-16"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-b8cab599c2",
    "b": "LIS FOTOVOLTAICA",
    "detalle": "Ceses/Dimisiones: Adm. solidario",
    "fecha": "2023-10-18",
@@ -661869,22 +663589,6 @@
   {
    "tipo": "historico",
    "a": "PF-ebf5f8fb48",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-ebf5f8fb48",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-ebf5f8fb48",
    "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
    "detalle": "Revocaciones: APOD.MANCOMU",
    "fecha": "2021-12-10",
@@ -661993,14 +663697,6 @@
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2026-03-30",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-61-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-ebf5f8fb48",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN, APODERAD.SOL",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "persona",
@@ -675155,6 +676851,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-178-50"
   },
   {
+   "tipo": "historico",
+   "a": "PF-c78173bc6b",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-c78173bc6b",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-c78173bc6b",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -675297,14 +677009,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-08-09",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-151-50"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-c78173bc6b",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "persona",
@@ -678315,6 +680019,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-0f3973aed6",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-0f3973aed6",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-0f3973aed6",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -678461,14 +680181,6 @@
   {
    "tipo": "persona",
    "a": "PF-0f3973aed6",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-0f3973aed6",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -678489,14 +680201,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-0f3973aed6",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -678915,6 +680619,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-95a436276f",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-95a436276f",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-95a436276f",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -679061,14 +680781,6 @@
   {
    "tipo": "persona",
    "a": "PF-95a436276f",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-95a436276f",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -679089,14 +680801,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-95a436276f",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -680427,20 +682131,28 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-162-50"
   },
   {
+   "tipo": "historico",
+   "a": "PF-6d7e3a9a01",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6d7e3a9a01",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-6d7e3a9a01",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY DIGITAL SERVICES",
    "detalle": "Apo.Man.Soli",
    "fecha": "2020-06-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-120-20"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-6d7e3a9a01",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "historico",
@@ -721532,70 +723244,6 @@
   },
   {
    "tipo": "historico",
-   "a": "COMSA RENOVABLES",
-   "b": "BE CATALA FV",
-   "detalle": "Revocaciones: ADM.CONJUNTO",
-   "fecha": "2022-06-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-117-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "COMSA RENOVABLES",
-   "b": "ENERGIAS VERDES MORQUILLAS",
-   "detalle": "Revocaciones: ADM.CONJUNTO",
-   "fecha": "2022-07-22",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-140-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "COMSA RENOVABLES",
-   "b": "ENERGIAS VERDES MORQUILLAS",
-   "detalle": "Revocaciones: ADM.CONJUNTO",
-   "fecha": "2023-08-07",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "COMSA RENOVABLES",
-   "b": "ENERGIAS VERDES SARGENTES DE LA LORA",
-   "detalle": "Revocaciones: ADM.CONJUNTO",
-   "fecha": "2023-08-07",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "COMSA RENOVABLES",
-   "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
-   "detalle": "Revocaciones: ADM.CONJUNTO",
-   "fecha": "2023-08-07",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-149-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-4a9c873f15",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: Apoderado",
-   "fecha": "2021-08-18",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-158-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-4a9c873f15",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Consejero",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-a78b782f3a",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "historico",
    "a": "PF-a78b782f3a",
    "b": "ENERGIAS VERDES MORQUILLAS",
    "detalle": "Revocaciones: ADM.CONJUNTO",
@@ -721675,38 +723323,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-9-08"
   },
   {
-   "tipo": "persona",
-   "a": "PF-a78b782f3a",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN, APODERAD.SOL",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-362920b6b5",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-e5c018d089",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-e5c018d089",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
    "tipo": "historico",
    "a": "PF-e5c018d089",
    "b": "BE CATALA FV",
@@ -721773,34 +723389,10 @@
   {
    "tipo": "persona",
    "a": "PF-e5c018d089",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-e5c018d089",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-91a072dc36",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-91a072dc36",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -721821,14 +723413,6 @@
   {
    "tipo": "historico",
    "a": "PF-7dab342ee2",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-7dab342ee2",
    "b": "BE CATALA FV",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-23",
@@ -721893,26 +723477,10 @@
   {
    "tipo": "persona",
    "a": "PF-7dab342ee2",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-7dab342ee2",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-09-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-184-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-9a1c0afd48",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -721981,14 +723549,6 @@
   {
    "tipo": "persona",
    "a": "PF-9a1c0afd48",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-9a1c0afd48",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-09-26",
@@ -721997,50 +723557,10 @@
   {
    "tipo": "historico",
    "a": "PF-c86a9ad93a",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c86a9ad93a",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-c86a9ad93a",
    "b": "SPT RENOVABLE",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-c86a9ad93a",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-60d34a5be9",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-60d34a5be9",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -722049,22 +723569,6 @@
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2024-08-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-166-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-60d34a5be9",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-f0cca37eab",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "historico",
@@ -722149,26 +723653,10 @@
   {
    "tipo": "persona",
    "a": "PF-f0cca37eab",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-f0cca37eab",
    "b": "SPT RENOVABLE",
    "detalle": "APOD.SOL/MAN",
    "fecha": "2023-09-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-184-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-7f4388c0b2",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
   },
   {
    "tipo": "persona",
@@ -722177,14 +723665,6 @@
    "detalle": "APODERAD.SOL",
    "fecha": "2023-02-21",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-36-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-15fbb93e35",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APODERAD.SOL",
-   "fecha": "2021-12-15",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08"
   },
   {
    "tipo": "historico",
@@ -756397,6 +757877,14 @@
   {
    "tipo": "historico",
    "a": "PF-8cc91539af",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. solidario",
+   "fecha": "2023-02-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-28-16"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-8cc91539af",
    "b": "PV INVESTMENTS SUDINV",
    "detalle": "Ceses/Dimisiones: Adm. único",
    "fecha": "2023-02-09",
@@ -761537,6 +763025,22 @@
    "detalle": "Apoderado",
    "fecha": "2022-04-11",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-70-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-be22fc5761",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2020-03-17",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-53-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-948d89eae6",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2020-03-17",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-53-30"
   },
   {
    "tipo": "historico",
@@ -814947,6 +816451,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-2e9ffb8d21",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2e9ffb8d21",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-2e9ffb8d21",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -815097,14 +816617,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-08-09",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-151-50"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-2e9ffb8d21",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "persona",
@@ -821115,6 +822627,142 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-116-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2022-04-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-82-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-20",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-95-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-08-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-162-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-08-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-162-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-79f4f25dd0",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-08-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-162-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6497d72dc1",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6497d72dc1",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6497d72dc1",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2488351d82",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2022-04-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-82-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2488351d82",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-20",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-95-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2488351d82",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2488351d82",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6b61a9327e",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2023-11-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-210-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-207312e457",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2025-04-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-64-30"
+  },
+  {
    "tipo": "persona",
    "a": "PF-2eaf2f530a",
    "b": "ENERGIAS ALTERNATIVAS DE LAS ISLAS",
@@ -821945,6 +823593,78 @@
    "detalle": "Adm. único",
    "fecha": "2020-06-24",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-120-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f4e6fad989",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f4e6fad989",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f4e6fad989",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2024-03-27",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-62-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-0aa96b9850",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-0aa96b9850",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5e69636b2a",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado mancomunado",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5e69636b2a",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-dd1f44308e",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-73570c94f4",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2021-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-116-30"
   },
   {
    "tipo": "historico",
@@ -823315,6 +825035,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-200-48"
   },
   {
+   "tipo": "historico",
+   "a": "PF-a5e0c95c1b",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-a5e0c95c1b",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-a5e0c95c1b",
    "b": "GERR GRUPO ENERGETICO XXI",
@@ -823429,14 +825165,6 @@
   {
    "tipo": "persona",
    "a": "PF-a5e0c95c1b",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Adm. mancomunado",
-   "fecha": "2026-02-27",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-40-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-a5e0c95c1b",
    "b": "SISTEMAS ENERGETICOS DE TARIFA",
    "detalle": "Adm. mancomunado",
    "fecha": "2026-03-03",
@@ -823446,14 +825174,6 @@
    "tipo": "persona",
    "a": "PF-a5e0c95c1b",
    "b": "SISTEMAS ENERGETICOS LA CAMARA",
-   "detalle": "Adm. mancomunado",
-   "fecha": "2026-02-27",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-40-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-a5e0c95c1b",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
    "detalle": "Adm. mancomunado",
    "fecha": "2026-02-27",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-40-41"
@@ -844220,6 +845940,30 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-1ac617d9e3",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-10-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-204-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-8c9b4b8c67",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-08-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-162-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e13ce0ba0d",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2022-10-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-204-30"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-e3ba3d1c89",
    "b": "ERG SOLAR TABERNAS",
    "detalle": "Ceses/Dimisiones: Representante",
@@ -856476,6 +858220,22 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-552981c12f",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-552981c12f",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-1684c5e3c1",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY EOLICA",
    "detalle": "Revocaciones: Apoderado",
@@ -858665,6 +860425,54 @@
    "detalle": "Apoderado mancomunado",
    "fecha": "2023-08-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-156-35"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "AERIS NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-08-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-152-28"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "PANDIA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "detalle": "Adm. único, Socio único",
+   "fecha": "2022-04-01",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-173-28"
+  },
+  {
+   "tipo": "control",
+   "a": "BEST WONDER BUSINESS",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
   },
   {
    "tipo": "historico",
@@ -865148,6 +866956,14 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-469e91b44c",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. solidario",
+   "fecha": "2026-04-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-70-16"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-238ec3ae22",
    "b": "SPV SCALE MAR 1",
    "detalle": "Ceses/Dimisiones: Adm. mancomunado",
@@ -869323,6 +871139,38 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-10c9b29da6",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-10c9b29da6",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-10c9b29da6",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-10c9b29da6",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-10c9b29da6",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -869477,14 +871325,6 @@
   {
    "tipo": "persona",
    "a": "PF-10c9b29da6",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Adm. mancomunado, Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-10c9b29da6",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-08-18",
@@ -869505,14 +871345,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-09-21",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-10c9b29da6",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Adm. mancomunado",
-   "fecha": "2026-06-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-119-41"
   },
   {
    "tipo": "historico",
@@ -870339,6 +872171,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-d5ca243170",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-d5ca243170",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-d5ca243170",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -870489,14 +872337,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2021-08-09",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-151-50"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-d5ca243170",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "persona",
@@ -871347,6 +873187,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-125-48"
   },
   {
+   "tipo": "historico",
+   "a": "PF-26bd60905e",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-26bd60905e",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-26bd60905e",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -871385,14 +873241,6 @@
    "detalle": "Adm. mancomunado",
    "fecha": "2024-05-28",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-101-48"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-26bd60905e",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2021-09-21",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-182-41"
   },
   {
    "tipo": "historico",
@@ -872443,6 +874291,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-6f7a1903d3",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-6f7a1903d3",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-6f7a1903d3",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY EUROPA",
@@ -872477,26 +874341,10 @@
   {
    "tipo": "persona",
    "a": "PF-6f7a1903d3",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-6f7a1903d3",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-24-15"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-6f7a1903d3",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -872971,6 +874819,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-dd939d5bc6",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-dd939d5bc6",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-dd939d5bc6",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY EUROPA",
@@ -873005,26 +874869,10 @@
   {
    "tipo": "persona",
    "a": "PF-dd939d5bc6",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-dd939d5bc6",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-24-15"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-dd939d5bc6",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -873489,6 +875337,22 @@
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2026-10-14",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-39a036ae98",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-39a036ae98",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
   },
   {
    "tipo": "persona",
@@ -873605,14 +875469,6 @@
   {
    "tipo": "persona",
    "a": "PF-39a036ae98",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-39a036ae98",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -873633,14 +875489,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-09-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-170-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-39a036ae98",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -874091,6 +875939,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-89570f9f07",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-89570f9f07",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-89570f9f07",
    "b": "GERR GRUPO ENERGETICO XXI",
@@ -874205,14 +876069,6 @@
   {
    "tipo": "persona",
    "a": "PF-89570f9f07",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-89570f9f07",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -874233,14 +876089,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2026-09-15",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-178-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-89570f9f07",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -874571,20 +876419,20 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-30-48"
   },
   {
-   "tipo": "persona",
+   "tipo": "historico",
    "a": "PF-2afa2bd387",
    "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
   },
   {
-   "tipo": "persona",
+   "tipo": "historico",
    "a": "PF-2afa2bd387",
    "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
   },
   {
    "tipo": "historico",
@@ -876649,6 +878497,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2020-10-21",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-204-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-0af856abe6",
+   "b": "OBERON ENERGY TRADING",
+   "detalle": "Representante",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28"
   },
   {
    "tipo": "persona",
@@ -893876,6 +895732,30 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-2cb9fc6cad",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2020-12-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-233-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-25ffed84ad",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2021-06-21",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-116-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-ade4a122a9",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2021-08-27",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-165-30"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-21c28f35d4",
    "b": "EDP ENERGIA",
    "detalle": "Revocaciones: Apoderado solidario",
@@ -895337,6 +897217,14 @@
    "detalle": "Socio único",
    "fecha": "2020-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-236-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-bf89bc9626",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2025-04-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-64-30"
   },
   {
    "tipo": "historico",
@@ -935395,14 +937283,6 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-117-28"
   },
   {
-   "tipo": "administra",
-   "a": "DEIMOS INVERSION",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Consejero",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
    "tipo": "historico",
    "a": "PF-f8d33f0769",
    "b": "COMSA GREEN ENERGY",
@@ -935411,52 +937291,12 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-109-08"
   },
   {
-   "tipo": "persona",
-   "a": "PF-f8d33f0769",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APODERAD.SOL",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-87f2060989",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-04cf4b362e",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-04cf4b362e",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
    "tipo": "historico",
    "a": "PF-04cf4b362e",
    "b": "ENERGIAS RENOVABLES VILLALONQUEJAR",
    "detalle": "Revocaciones: APOD.SOL/MAN",
    "fecha": "2021-12-10",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-235-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-04cf4b362e",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2022-07-18",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-136-08"
   },
   {
    "tipo": "historico",
@@ -935473,30 +937313,6 @@
    "detalle": "Revocaciones: APOD.MANCOMU",
    "fecha": "2024-08-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-162-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-06bdc94fe3",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-06bdc94fe3",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APOD.SOL/MAN",
-   "fecha": "2021-11-24",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-225-08"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-06bdc94fe3",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APOD.SOL/MAN",
-   "fecha": "2021-04-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-69-08"
   },
   {
    "tipo": "historico",
@@ -956516,6 +958332,14 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-ac53d8f32a",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2022-05-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-101-30"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-e8717af2ab",
    "b": "OTRAS PRODUCCIONES DE ENERGIA FOTOVOLTAICA",
    "detalle": "Revocaciones: Apo.Man.Soli",
@@ -961809,6 +963633,78 @@
    "detalle": "Revocaciones: Apo.Man.Soli",
    "fecha": "2021-07-14",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-133-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "AERIS NEW ENERGY",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2021-07-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Socio único: Socio único",
+   "fecha": "2021-07-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "ABETO NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "ARANDANO NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2021-07-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "ARDEA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2021-07-08",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-129-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "LIMA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2021-07-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "PALMERA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2024-05-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-92-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "PAPAYA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2021-07-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-128-28"
+  },
+  {
+   "tipo": "control",
+   "a": "PROGRESSUM ENERGY DEVELOPMENTS",
+   "b": "TORONJA NEW ENERGY",
+   "detalle": "Socio único",
+   "fecha": "2021-07-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-130-28"
   },
   {
    "tipo": "historico",
@@ -970372,6 +972268,22 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-608e9a676b",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-10-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-209-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-608e9a676b",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-10-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-209-30"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-ff695f4623",
    "b": "PROYECTO SOLKW UNO",
    "detalle": "Revocaciones: Apoderado",
@@ -976605,6 +978517,14 @@
   {
    "tipo": "historico",
    "a": "PF-fd74fb7a82",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. solidario",
+   "fecha": "2025-02-28",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-41-16"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fd74fb7a82",
    "b": "MACIS FOTOVOLTAICA",
    "detalle": "Ceses/Dimisiones: Adm. solidario",
    "fecha": "2025-03-13",
@@ -978569,14 +980489,6 @@
    "detalle": "Revocaciones: Apoderado solidario",
    "fecha": "2021-10-25",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-205-28"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-dc7dc6f3c8",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APODERAD.SOL",
-   "fecha": "2022-11-16",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-218-08"
   },
   {
    "tipo": "historico",
@@ -986212,14 +988124,6 @@
   },
   {
    "tipo": "persona",
-   "a": "PF-eb5a1d28d0",
-   "b": "COMSA RENOVABLES",
-   "detalle": "APODERAD.SOL",
-   "fecha": "2021-12-15",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-238-08"
-  },
-  {
-   "tipo": "persona",
    "a": "PF-f2fa935c06",
    "b": "CENTRAL ENERGY CONSULTORES",
    "detalle": "ADM.SOLIDAR",
@@ -988585,38 +990489,6 @@
    "detalle": "Revocaciones: Apoderado solidario",
    "fecha": "2023-01-05",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-4-47"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-de7c487cb5",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: Apoderado",
-   "fecha": "2021-12-30",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-de7c487cb5",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APODERAD.SOL",
-   "fecha": "2021-12-30",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d12f735b34",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: Apoderado",
-   "fecha": "2021-12-30",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
-  },
-  {
-   "tipo": "historico",
-   "a": "PF-d3e6a01728",
-   "b": "COMSA RENOVABLES",
-   "detalle": "Revocaciones: APODERAD.SOL",
-   "fecha": "2021-12-30",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2021-249-08"
   },
   {
    "tipo": "historico",
@@ -1008725,6 +1010597,54 @@
   {
    "tipo": "historico",
    "a": "PF-fc1f98c1df",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
    "b": "ENCINA NEW ENERGY",
    "detalle": "Ceses/Dimisiones: Adm. solidario",
    "fecha": "2024-06-05",
@@ -1008836,6 +1010756,102 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-10",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-109-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-fc1f98c1df",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-06-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-111-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2023-08-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2023-08-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc1f98c1df",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-ba27324db5",
    "b": "CEP RENEWABLES",
    "detalle": "Ceses/Dimisiones: Adm. único",
@@ -1008849,6 +1010865,30 @@
    "detalle": "Consejero",
    "fecha": "2023-11-23",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-223-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-559bb4e9e6",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Ceses/Dimisiones: Adm. mancomunado",
+   "fecha": "2023-08-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-164-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-559bb4e9e6",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2023-11-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-210-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-47af963aea",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Adm. mancomunado, Apo.Man.Soli, Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2022-04-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-82-30"
   },
   {
    "tipo": "historico",
@@ -1023347,6 +1025387,46 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-77-28"
   },
   {
+   "tipo": "persona",
+   "a": "PF-72bff1979e",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado",
+   "fecha": "2022-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-247-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-72bff1979e",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado",
+   "fecha": "2022-12-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-246-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-72bff1979e",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-72bff1979e",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-72bff1979e",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
    "tipo": "historico",
    "a": "PF-8477b6855b",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY",
@@ -1023697,6 +1025777,14 @@
    "detalle": "Apoderado",
    "fecha": "2023-12-22",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-242-28"
+  },
+  {
+   "tipo": "gestion",
+   "a": "IBERDROLA ENERGIA ESPANA",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2024-03-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-59-30"
   },
   {
    "tipo": "gestion",
@@ -1029401,6 +1031489,22 @@
    "detalle": "Adm. único",
    "fecha": "2026-06-22",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-117-08"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-2bee09ab62",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-10-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-209-30"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-bfd5ceef7c",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2025-04-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-64-30"
   },
   {
    "tipo": "historico",
@@ -1038371,6 +1040475,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-178-50"
   },
   {
+   "tipo": "historico",
+   "a": "PF-5b6b7af295",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5b6b7af295",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-5b6b7af295",
    "b": "PARQUE EOLICO DOS PICOS",
@@ -1038397,14 +1040517,6 @@
   {
    "tipo": "persona",
    "a": "PF-5b6b7af295",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-10-26",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-205-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-5b6b7af295",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2022-12-07",
@@ -1038425,14 +1040537,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2022-10-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-205-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-5b6b7af295",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2022-11-02",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-209-41"
   },
   {
    "tipo": "historico",
@@ -1051685,6 +1053789,14 @@
   {
    "tipo": "persona",
    "a": "PF-4bee81f223",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2022-12-22",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-242-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4bee81f223",
    "b": "IBERDROLA RENOVABLES CASTILLA LA MANCHA",
    "detalle": "Apoderado",
    "fecha": "2023-02-13",
@@ -1052891,6 +1055003,46 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-68-17"
   },
   {
+   "tipo": "persona",
+   "a": "PF-5bde9e7029",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado",
+   "fecha": "2022-12-30",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-247-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5bde9e7029",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado",
+   "fecha": "2022-12-29",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2022-246-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5bde9e7029",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5bde9e7029",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5bde9e7029",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado solidario",
+   "fecha": "2023-01-02",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-1-28"
+  },
+  {
    "tipo": "control",
    "a": "L Y G NTR CLEAN POWER MASTER HOLDING S A R L",
    "b": "CLEAN POWER SPAIN FIN HOLDINGS",
@@ -1052921,6 +1055073,198 @@
    "detalle": "Ceses/Dimisiones: Adm. solidario",
    "fecha": "2024-06-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-106-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-336d796428",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2023-08-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2023-08-24",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-161-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-336d796428",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
   },
   {
    "tipo": "historico",
@@ -1066260,6 +1068604,14 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-9885f6ebff",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2026-06-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-118-30"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-1da7ed6724",
    "b": "RENOVABLES SAMCA",
    "detalle": "Revocaciones: Apoderado",
@@ -1070547,28 +1072899,28 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-125-48"
   },
   {
+   "tipo": "historico",
+   "a": "PF-915e37ac0f",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-915e37ac0f",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-915e37ac0f",
    "b": "SIEMENS GAMESA RENEWABLE ENERGY",
    "detalle": "Apoderado",
    "fecha": "2023-04-12",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-69-48"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-915e37ac0f",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-915e37ac0f",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -1070915,6 +1073267,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-5be3afefbf",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5be3afefbf",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-5be3afefbf",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -1071061,14 +1073429,6 @@
   {
    "tipo": "persona",
    "a": "PF-5be3afefbf",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-5be3afefbf",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -1071089,14 +1073449,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-5be3afefbf",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -1071443,6 +1073795,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-244d414fb9",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-244d414fb9",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-244d414fb9",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -1071589,14 +1073957,6 @@
   {
    "tipo": "persona",
    "a": "PF-244d414fb9",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-244d414fb9",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -1071617,14 +1073977,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-244d414fb9",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "persona",
@@ -1075297,6 +1077649,14 @@
    "detalle": "Adm. solidario",
    "fecha": "2026-07-07",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-128-48"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-34994a23a9",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Adm. solidario",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28"
   },
   {
    "tipo": "persona",
@@ -1093931,6 +1096291,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-eb59dfc009",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-eb59dfc009",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-eb59dfc009",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -1094077,14 +1096453,6 @@
   {
    "tipo": "persona",
    "a": "PF-eb59dfc009",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-eb59dfc009",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -1094105,14 +1096473,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-eb59dfc009",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -1095179,6 +1097539,110 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-184-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-600d7e9519",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-4646a2b45f",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-4646a2b45f",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
    "tipo": "control",
    "a": "GREEN CAPITAL HOLDING II S A R L",
    "b": "CERECOL ENERGY",
@@ -1095601,6 +1098065,94 @@
    "detalle": "Socio único",
    "fecha": "2023-10-02",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-188-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e1e3555f1b",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e1e3555f1b",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e1e3555f1b",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e1e3555f1b",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-e1e3555f1b",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e1e3555f1b",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
   },
   {
    "tipo": "historico",
@@ -1100611,6 +1103163,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-198-08"
   },
   {
+   "tipo": "historico",
+   "a": "PF-3fca6864ca",
+   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-3fca6864ca",
+   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
+  },
+  {
    "tipo": "persona",
    "a": "PF-3fca6864ca",
    "b": "GAMESA ENERGY TRANSMISSION",
@@ -1100757,14 +1103325,6 @@
   {
    "tipo": "persona",
    "a": "PF-3fca6864ca",
-   "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-3fca6864ca",
    "b": "SISTEMAS ENERGETICOS CUNTIS",
    "detalle": "Apo.Man.Soli",
    "fecha": "2024-02-02",
@@ -1100785,14 +1103345,6 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2023-12-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-243-41"
-  },
-  {
-   "tipo": "persona",
-   "a": "PF-3fca6864ca",
-   "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
   },
   {
    "tipo": "historico",
@@ -1106203,6 +1108755,54 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
   },
   {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-25",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-01-23",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-16-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-04",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-45-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-8984e325ce",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2024-03-05",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-46-28"
+  },
+  {
    "tipo": "gestion",
    "a": "WPD DEVELOPMENT RENOVABLES",
    "b": "WPD PARQUE EOLICO CORRALNUEVO",
@@ -1106523,20 +1109123,20 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-162-50"
   },
   {
-   "tipo": "persona",
+   "tipo": "historico",
    "a": "PF-96ca463fe4",
    "b": "SISTEMAS ENERGETICOS CUERDA GITANA",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
   },
   {
-   "tipo": "persona",
+   "tipo": "historico",
    "a": "PF-96ca463fe4",
    "b": "SISTEMAS ENERGETICOS SIERRA DE LAS ESTANCIAS",
-   "detalle": "Apo.Man.Soli",
-   "fecha": "2024-01-25",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-18-41"
+   "detalle": "Revocaciones: Apo.Man.Soli",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-41"
   },
   {
    "tipo": "historico",
@@ -1121430,7 +1124030,7 @@
    "tipo": "persona",
    "a": "PF-0e9d9014dc",
    "b": "COX ENERGIA COMERCIALIZADORA ESPANA",
-   "detalle": "Apoderado",
+   "detalle": "Apoderado, Apoderado solidario",
    "fecha": "2025-05-19",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-92-28"
   },
@@ -1121462,7 +1124062,7 @@
    "tipo": "persona",
    "a": "PF-26d7cca835",
    "b": "COX ENERGIA COMERCIALIZADORA ESPANA",
-   "detalle": "Apoderado",
+   "detalle": "Apoderado, Apoderado solidario",
    "fecha": "2025-05-19",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-92-28"
   },
@@ -1128492,6 +1131092,54 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "PETRA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "SANDALA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-07",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-151-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "POLENTA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "PALATIUM NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "TALARIA NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-5951498536",
+   "b": "KIWI NEW ENERGY",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-08-12",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-154-28"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-5480cbc794",
    "b": "TOTALENERGIES ELECTRICIDAD Y GAS ESPANA",
    "detalle": "Ceses/Dimisiones: Consejero",
@@ -1131163,6 +1133811,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-30-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-07ffbd8cfc",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
    "tipo": "persona",
    "a": "PF-07ffbd8cfc",
    "b": "ENERGIAS EOLICAS DE CUENCA",
@@ -1131275,6 +1133931,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-175-38"
   },
   {
+   "tipo": "historico",
+   "a": "PF-a113267e08",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
    "tipo": "persona",
    "a": "PF-a113267e08",
    "b": "ENERGIAS EOLICAS DE CUENCA",
@@ -1131385,6 +1134049,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2024-09-11",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-175-38"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-9c2475a52e",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
   },
   {
    "tipo": "persona",
@@ -1137009,6 +1139681,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-02-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-39-38"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-554895b739",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-11-11",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-215-30"
   },
   {
    "tipo": "persona",
@@ -1148334,7 +1151014,7 @@
    "tipo": "persona",
    "a": "PF-20f1e92214",
    "b": "COX ENERGIA COMERCIALIZADORA ESPANA",
-   "detalle": "Apoderado",
+   "detalle": "Apoderado, Apoderado solidario",
    "fecha": "2025-05-19",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-92-28"
   },
@@ -1151985,6 +1154665,14 @@
    "detalle": "Revocaciones: Apo.Man.Soli",
    "fecha": "2025-03-27",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-60-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-489575cf13",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-04-03",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-65-30"
   },
   {
    "tipo": "historico",
@@ -1157713,6 +1160401,14 @@
    "detalle": "Adm. único, Socio único",
    "fecha": "2026-06-05",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-106-28"
+  },
+  {
+   "tipo": "control",
+   "a": "OBERON ENERGY GROUP",
+   "b": "OBERON ENERGY TRADING",
+   "detalle": "Adm. único, Socio único",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28"
   },
   {
    "tipo": "administra",
@@ -1165595,6 +1168291,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-149-28"
   },
   {
+   "tipo": "persona",
+   "a": "PF-950fd04779",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado mancomunado, Apoderado solidario",
+   "fecha": "2025-10-17",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-199-30"
+  },
+  {
    "tipo": "control",
    "a": "PXOG MUIRHILL LIMITED",
    "b": "TARBA ENERGIA",
@@ -1168725,6 +1171429,14 @@
   {
    "tipo": "persona",
    "a": "PF-06bae1bafa",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-11-11",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-215-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-06bae1bafa",
    "b": "FOTOVOLTAICA VARADERO",
    "detalle": "Apoderado solidario",
    "fecha": "2026-04-09",
@@ -1168945,6 +1171657,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-02-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-39-38"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-83f12c7ea8",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-11-11",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-215-30"
   },
   {
    "tipo": "persona",
@@ -1169169,6 +1171889,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-02-26",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-39-38"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-da0972d036",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2025-11-11",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-215-30"
   },
   {
    "tipo": "persona",
@@ -1175788,6 +1178516,38 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-85fd9acbfb",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-94838d84f1",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-41d1a2528f",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-d07bf86d40",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-47272b80ea",
    "b": "CENTRAL SOLAR TERMOELECTRICA CACERES",
    "detalle": "Apoderado",
@@ -1175860,11 +1178620,35 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-68a09284ce",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5b54a649ee",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apo.Man.Soli",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-5b54a649ee",
    "b": "IBERDROLA RENOVABLES CASTILLA LA MANCHA",
    "detalle": "Apoderado mancomunado, Apoderado solidario",
    "fecha": "2026-04-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-81-45"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-aec4ba5d16",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
   },
   {
    "tipo": "persona",
@@ -1175877,10 +1178661,26 @@
   {
    "tipo": "persona",
    "a": "PF-a004f6308b",
+   "b": "ENERGYWORKS CARTAGENA",
+   "detalle": "Apoderado solidario",
+   "fecha": "2026-04-09",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-67-30"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-a004f6308b",
    "b": "IBERDROLA RENOVABLES CASTILLA LA MANCHA",
    "detalle": "Apoderado mancomunado",
    "fecha": "2026-04-29",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-81-45"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-f5c9b43b48",
+   "b": "FOTOVOLTAICA GIRASOL",
+   "detalle": "Ceses/Dimisiones: Adm. solidario",
+   "fecha": "2026-10-26",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-206-28"
   },
   {
    "tipo": "persona",
@@ -1179537,6 +1182337,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-08-11",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-153-06"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5f5653eb3c",
+   "b": "SUSTAINABLE ENERGY ONE",
+   "detalle": "Apoderado mancomunado",
+   "fecha": "2026-08-14",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-156-28"
   },
   {
    "tipo": "control",
@@ -1191170,6 +1193978,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "ACUARIO SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "ADAMANTISAURUS INVEST",
    "sociedades": 2
   },
@@ -1194695,6 +1197508,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "BRONCE SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "BROZA SOLAR",
    "sociedades": 2
   },
@@ -1195336,6 +1198154,11 @@
   {
    "tipo": "conjunta",
    "id": "CLUTTON ITG",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
+   "id": "COBALTO SOLAR",
    "sociedades": 2
   },
   {
@@ -1199075,6 +1201898,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "ESCARLATA SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "ESCUDEROS 132KV RENOVABLES AIE",
    "sociedades": 4
   },
@@ -1201045,6 +1203873,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "GOLONDRINA SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "GOMEZ NARRO RENOVABLES 132 KV AIE",
    "sociedades": 6
   },
@@ -1202136,6 +1204969,11 @@
   {
    "tipo": "conjunta",
    "id": "HERACLES SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
+   "id": "HERCULES SOLAR",
    "sociedades": 2
   },
   {
@@ -1204415,6 +1207253,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "NARCISO SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "NATURENER SOLAR ORELLANA",
    "sociedades": 3
   },
@@ -1205636,6 +1208479,11 @@
   {
    "tipo": "conjunta",
    "id": "PERCHERON WIND",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
+   "id": "PERDIZ SOLAR",
    "sociedades": 2
   },
   {
@@ -1208725,6 +1211573,11 @@
   },
   {
    "tipo": "conjunta",
+   "id": "TOPACIO SOLAR",
+   "sociedades": 2
+  },
+  {
+   "tipo": "conjunta",
    "id": "TORDESILLAS RENOVABLES",
    "sociedades": 3
   },
@@ -1209761,12 +1212614,12 @@
   {
    "tipo": "persona",
    "id": "PF-0a6614fb6c",
-   "sociedades": 274
+   "sociedades": 283
   },
   {
    "tipo": "sociedad",
    "id": "IGNIS EQUITY HOLDINGS",
-   "sociedades": 172
+   "sociedades": 181
   },
   {
    "tipo": "sociedad",
@@ -1209776,7 +1212629,7 @@
   {
    "tipo": "persona",
    "id": "PF-1b7eb49c4e",
-   "sociedades": 49
+   "sociedades": 48
   },
   {
    "tipo": "persona",
@@ -1210776,7 +1213629,7 @@
   {
    "tipo": "persona",
    "id": "PF-552981c12f",
-   "sociedades": 103
+   "sociedades": 102
   },
   {
    "tipo": "sociedad",
@@ -1211156,7 +1214009,7 @@
   {
    "tipo": "persona",
    "id": "PF-f3b3ad2987",
-   "sociedades": 128
+   "sociedades": 136
   },
   {
    "tipo": "persona",
@@ -1212961,7 +1215814,7 @@
   {
    "tipo": "persona",
    "id": "PF-728166c117",
-   "sociedades": 50
+   "sociedades": 51
   },
   {
    "tipo": "persona",
@@ -1213210,12 +1216063,12 @@
   },
   {
    "tipo": "domicilio",
-   "id": "calle Ribera del Loira, 28, 28042, Madrid",
+   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
    "sociedades": 9
   },
   {
    "tipo": "domicilio",
-   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
+   "id": "calle Ribera del Loira, 28, 28042, Madrid",
    "sociedades": 9
   },
   {
@@ -1213301,17 +1216154,17 @@
   {
    "tipo": "domicilio",
    "id": "C/ Princesa, 2 - 4ª planta, 28008 Madrid",
-   "sociedades": 10
-  },
-  {
-   "tipo": "domicilio",
-   "id": "C/ Cardenal Marcelo Spínola 4, 1ºD 28016 Madrid",
-   "sociedades": 45
+   "sociedades": 11
   },
   {
    "tipo": "domicilio",
    "id": "calle Cardenal Marcelo Spinola 42, planta 5, CP 28016 Madrid",
    "sociedades": 13
+  },
+  {
+   "tipo": "domicilio",
+   "id": "C/ Cardenal Marcelo Spínola 4, 1ºD 28016 Madrid",
+   "sociedades": 45
   },
   {
    "tipo": "domicilio",
@@ -1213350,13 +1216203,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA REPUBLICA ARGENTINA 24 4 A - CP 41011 (SEVILLA)",
-   "sociedades": 18
+   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
+   "sociedades": 26
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA REPUBLICA ARGENTINA 9 1º D - CP 41011 (SEVILLA)",
-   "sociedades": 26
+   "id": "AVDA REPUBLICA ARGENTINA 24 4 A - CP 41011 (SEVILLA)",
+   "sociedades": 18
   },
   {
    "tipo": "domicilio",
@@ -1213365,13 +1216218,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
-   "sociedades": 39
+   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
+   "sociedades": 22
   },
   {
    "tipo": "domicilio",
-   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
-   "sociedades": 22
+   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
+   "sociedades": 39
   },
   {
    "tipo": "domicilio",
@@ -1213385,13 +1216238,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
-   "sociedades": 19
+   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
+   "sociedades": 21
   },
   {
    "tipo": "domicilio",
-   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
-   "sociedades": 21
+   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
+   "sociedades": 19
   },
   {
    "tipo": "domicilio",
@@ -1213440,18 +1216293,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
-  },
-  {
-   "tipo": "domicilio",
-   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
-   "sociedades": 16
-  },
-  {
-   "tipo": "domicilio",
    "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
    "sociedades": 9
+  },
+  {
+   "tipo": "domicilio",
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
   },
   {
    "tipo": "domicilio",
@@ -1213462,6 +1216310,11 @@
    "tipo": "domicilio",
    "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
    "sociedades": 24
+  },
+  {
+   "tipo": "domicilio",
+   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
+   "sociedades": 16
   },
   {
    "tipo": "domicilio",
