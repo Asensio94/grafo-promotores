@@ -1,10 +1,10 @@
 {
- "generado": "2026-11-18",
+ "generado": "2026-11-19",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 5476,
-  "inscripciones_borme": 150118,
-  "sociedades": 6662,
+  "actos_boe": 5477,
+  "inscripciones_borme": 150195,
+  "sociedades": 6663,
   "instalaciones": 2064,
   "grupos": 280,
   "indicios": 185
@@ -9843,6 +9843,7 @@
     "REPSOL MAIALS",
     "REPSOL PARAMILLOS",
     "REPSOL PUERTOLLANO SUNRISE",
+    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS",
     "REPSOL RENOVABLES",
     "REPSOL RENOVABLES OLMEDILLA",
     "REPSOL SERVICIOS RENOVABLES",
@@ -11934,89 +11935,6 @@
    ]
   },
   {
-   "id": "G-ALBACETE-ECO-ENERGIAS",
-   "sociedades": [
-    "ALBACETE ECO ENERGIAS",
-    "ALCALA ECO ENERGIAS",
-    "ALCOBENDAS ECO ENERGIAS",
-    "ASTURIAS ECO ENERGIAS",
-    "AULIVER SOLAR",
-    "AUSTRALIS ENERGIAS",
-    "AVILA ECO ENERGIAS",
-    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "BRUNETE DISTRICT HEATING",
-    "BURGOS ECO ENERGIAS",
-    "CEMENTO SOLAR SPAIN",
-    "CLEAN RENOVABLES DE COSMO",
-    "COFELY ENERGIA MARTORELL",
-    "DISTRICT ECO ENERGIAS",
-    "DISTRICT HEATING ECO ENERGIAS",
-    "ECOENERGY-ING FMH",
-    "ENER ALFA",
-    "ENER BETA",
-    "ENER DELTA",
-    "ENER EPSILON",
-    "ENER GAMMA",
-    "ENERGIA DE FERMAPO",
-    "ENERGIAS RENOVABLES BONETE 4",
-    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
-    "ENGIE CASTELNOU",
-    "ENGIE ESPANA",
-    "ENGIE ESPANA MANAGEMENT COMPANY",
-    "ENGIE ESPANA RENOVABLES",
-    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
-    "ENGIE PROYECTO AS PENIZAS",
-    "ENGIE PROYECTO QUINTOS",
-    "ENGIE PROYECTO RODICIO II",
-    "ENGIE PROYECTO SUIME",
-    "ENGIE PROYECTO TOURINAN",
-    "ENGIE SERVICIOS ENERGETICOS",
-    "EOLICA LAS CALLEJAS",
-    "GREENALIA WIND POWER CABANELAS",
-    "GREENALIA WIND POWER XESTEIRON",
-    "HUESCA ECO ENERGIAS",
-    "ITAMAR SOLAR",
-    "LEGANES ECO ENERGIAS",
-    "LEON ECO ENERGIAS",
-    "LOGRONO ECO ENERGIAS",
-    "LOOP ELECTRICIDAD Y GAS",
-    "LUGO ECO ENERGIAS",
-    "MARCELA SOLAR",
-    "MARTINA SOSTENIBLE",
-    "MERIDION PSFV",
-    "MOSTOLES ECO ENERGIAS",
-    "ORENSE ECO ENERGIAS",
-    "PARQUE EOLICO CERRO CABELLO",
-    "PARQUE SOLAR ENERGY 02",
-    "PARQUE SOLAR ENERGY NODE 03",
-    "PARQUE SOLAR ENERGY NODE 05",
-    "PARQUE SOLAR ENERGY NODE 06",
-    "PONFERRADA ECO ENERGIAS",
-    "POSICION QUINTOS DOS HERMANAS II",
-    "PUERTOLLANO ECO ENERGIAS",
-    "RENOVABLES DE ADEMIA",
-    "SEGOVIA ECO ENERGIAS",
-    "SOBERBINA ENERGIA",
-    "SOFOS ENERGIA",
-    "SOLAR LAS IRUELAS",
-    "TERUEL ECO ENERGIAS",
-    "TORREJON DE ARDOZ ECO ENERGIAS",
-    "VALLADOLID ECO ENERGIAS",
-    "ZARAGOZA ECO ENERGIAS"
-   ],
-   "en_boe": [
-    "BELLINGEN INVEST",
-    "BENILDE SOLAR",
-    "ENER EPSILON",
-    "ENGIE CASTELNOU",
-    "ITAMAR SOLAR",
-    "MARTINA SOSTENIBLE",
-    "PARQUE SOLAR ENERGY 02"
-   ]
-  },
-  {
    "id": "G-CONSTSOLAR-DEVA",
    "sociedades": [
     "CONSTSOLAR DEVA",
@@ -12073,6 +11991,87 @@
     "LINE ENERGY POWER",
     "STAR CAPITAL 2000",
     "SUN CAPITAL 2000"
+   ]
+  },
+  {
+   "id": "G-ALBACETE-ECO-ENERGIAS",
+   "sociedades": [
+    "ALBACETE ECO ENERGIAS",
+    "ALCALA ECO ENERGIAS",
+    "ALCOBENDAS ECO ENERGIAS",
+    "ASTURIAS ECO ENERGIAS",
+    "AULIVER SOLAR",
+    "AUSTRALIS ENERGIAS",
+    "AVILA ECO ENERGIAS",
+    "AXIMA SERVICIOS ENERGETICOS EUSKADI",
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "BRUNETE DISTRICT HEATING",
+    "BURGOS ECO ENERGIAS",
+    "CEMENTO SOLAR SPAIN",
+    "CLEAN RENOVABLES DE COSMO",
+    "COFELY ENERGIA MARTORELL",
+    "DISTRICT ECO ENERGIAS",
+    "DISTRICT HEATING ECO ENERGIAS",
+    "ECOENERGY-ING FMH",
+    "ENER ALFA",
+    "ENER BETA",
+    "ENER DELTA",
+    "ENER EPSILON",
+    "ENER GAMMA",
+    "ENERGIA DE FERMAPO",
+    "ENERGIAS RENOVABLES BONETE 4",
+    "ENERGY INVESTMENTS AND POINT CONNEXIONS",
+    "ENGIE ESPANA",
+    "ENGIE ESPANA MANAGEMENT COMPANY",
+    "ENGIE ESPANA RENOVABLES",
+    "ENGIE OPERACION Y MANTENIMIENTO DE ENERGIAS RENOVABLES",
+    "ENGIE PROYECTO AS PENIZAS",
+    "ENGIE PROYECTO QUINTOS",
+    "ENGIE PROYECTO RODICIO II",
+    "ENGIE PROYECTO SUIME",
+    "ENGIE PROYECTO TOURINAN",
+    "ENGIE SERVICIOS ENERGETICOS",
+    "EOLICA LAS CALLEJAS",
+    "GREENALIA WIND POWER CABANELAS",
+    "GREENALIA WIND POWER XESTEIRON",
+    "HUESCA ECO ENERGIAS",
+    "ITAMAR SOLAR",
+    "LEGANES ECO ENERGIAS",
+    "LEON ECO ENERGIAS",
+    "LOGRONO ECO ENERGIAS",
+    "LOOP ELECTRICIDAD Y GAS",
+    "LUGO ECO ENERGIAS",
+    "MARCELA SOLAR",
+    "MARTINA SOSTENIBLE",
+    "MERIDION PSFV",
+    "MOSTOLES ECO ENERGIAS",
+    "ORENSE ECO ENERGIAS",
+    "PARQUE EOLICO CERRO CABELLO",
+    "PARQUE SOLAR ENERGY 02",
+    "PARQUE SOLAR ENERGY NODE 03",
+    "PARQUE SOLAR ENERGY NODE 05",
+    "PARQUE SOLAR ENERGY NODE 06",
+    "PONFERRADA ECO ENERGIAS",
+    "POSICION QUINTOS DOS HERMANAS II",
+    "PUERTOLLANO ECO ENERGIAS",
+    "RENOVABLES DE ADEMIA",
+    "SEGOVIA ECO ENERGIAS",
+    "SOBERBINA ENERGIA",
+    "SOFOS ENERGIA",
+    "SOLAR LAS IRUELAS",
+    "TERUEL ECO ENERGIAS",
+    "TORREJON DE ARDOZ ECO ENERGIAS",
+    "VALLADOLID ECO ENERGIAS",
+    "ZARAGOZA ECO ENERGIAS"
+   ],
+   "en_boe": [
+    "BELLINGEN INVEST",
+    "BENILDE SOLAR",
+    "ENER EPSILON",
+    "ITAMAR SOLAR",
+    "MARTINA SOSTENIBLE",
+    "PARQUE SOLAR ENERGY 02"
    ]
   },
   {
@@ -14023,6 +14022,7 @@
     "ENAGAS INFRAESTRUCTURAS DE HIDROGENO",
     "ENAGAS TRANSPORTE",
     "ENAGAS TRANSPORTE DEL NORTE",
+    "INICIATIVAS DE GAS",
     "MUSEL ENERGY HUB",
     "SCALE GREEN ENERGY",
     "SCALE MAR 2",
@@ -14542,6 +14542,50 @@
    ]
   },
   {
+   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
+   "sociedades": [
+    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
+    "ALIZA ENERGY",
+    "ARMONIA GREEN AVILES",
+    "ARMONIA GREEN SEVILLA",
+    "ASESORIA ENERGETICA J Y G",
+    "BIOGASVERD",
+    "CANDELA COMERCIALIZADORA",
+    "CENTRAL ENERGY CONSULTORES",
+    "CONSULTORES DE ENERGIA 2021",
+    "CUPULA 6 1",
+    "ENGIE CASTELNOU",
+    "FOTOVOLT2024",
+    "IGNIS BIOFUELS",
+    "IGNIS DATA GAMMA",
+    "IGNIS DATA KAPPA",
+    "IGNIS ENERGIA",
+    "IGNIS ENERGY HOLDINGS",
+    "IGNIS ENERGY INDUSTRIES",
+    "IGNIS GENERACION",
+    "IGNIS HIDROGENO ALFA",
+    "IGNIS HIDROGENO IOTA",
+    "IGNIS HIDROGENO KAPPA",
+    "IGNIS HIDROGENO ZETA",
+    "IGNIS P2X HOLDINGS",
+    "IGNIS PARTNERS",
+    "IGNIS PROPERTIES",
+    "IGNIS SMART SOLUTIONS",
+    "IGNIS VENTURES",
+    "IZACAN 2024",
+    "MARESME ENERGY PLUS",
+    "NAO ENERGIA COMERCIALIZADORA",
+    "ROBLASUN 2",
+    "SEVERAL ENERGY",
+    "TEC 94",
+    "TILO SOLAR"
+   ],
+   "en_boe": [
+    "ENGIE CASTELNOU",
+    "IGNIS GENERACION"
+   ]
+  },
+  {
    "id": "G-ACEGAS-DESARROLLOS-FOTOVOLTAICOS",
    "sociedades": [
     "ACEGAS DESARROLLOS FOTOVOLTAICOS",
@@ -14958,6 +15002,23 @@
    "en_boe": [
     "CELEO APOLO FV",
     "GENERACION EOLICA CASTILLA LA MANCHA"
+   ]
+  },
+  {
+   "id": "G-EL-REFUGIO-FOTOVOLTAICO",
+   "sociedades": [
+    "EL REFUGIO FOTOVOLTAICO",
+    "FOTOVOLTAICA EL CASAR",
+    "ORONETA SOLAR",
+    "PFV ALBUFERA",
+    "PFV LA BARRACA",
+    "PFV PLA DE LLUM",
+    "PFV PRADO GRIS",
+    "SOLAR CENTURY HOLDING ESPANA"
+   ],
+   "en_boe": [
+    "FOTOVOLTAICA EL CASAR",
+    "PFV PRADO GRIS"
    ]
   },
   {
@@ -15823,48 +15884,6 @@
    ],
    "en_boe": [
     "ROMERAL SOLAR"
-   ]
-  },
-  {
-   "id": "G-AHMON-NH3-PROCESS-STORAGE-DISTRIBUTION",
-   "sociedades": [
-    "AHMON NH3 PROCESS STORAGE DISTRIBUTION",
-    "ALIZA ENERGY",
-    "ARMONIA GREEN AVILES",
-    "ARMONIA GREEN SEVILLA",
-    "ASESORIA ENERGETICA J Y G",
-    "BIOGASVERD",
-    "CANDELA COMERCIALIZADORA",
-    "CENTRAL ENERGY CONSULTORES",
-    "CONSULTORES DE ENERGIA 2021",
-    "CUPULA 6 1",
-    "FOTOVOLT2024",
-    "IGNIS BIOFUELS",
-    "IGNIS DATA GAMMA",
-    "IGNIS DATA KAPPA",
-    "IGNIS ENERGIA",
-    "IGNIS ENERGY HOLDINGS",
-    "IGNIS ENERGY INDUSTRIES",
-    "IGNIS GENERACION",
-    "IGNIS HIDROGENO ALFA",
-    "IGNIS HIDROGENO IOTA",
-    "IGNIS HIDROGENO KAPPA",
-    "IGNIS HIDROGENO ZETA",
-    "IGNIS P2X HOLDINGS",
-    "IGNIS PARTNERS",
-    "IGNIS PROPERTIES",
-    "IGNIS SMART SOLUTIONS",
-    "IGNIS VENTURES",
-    "IZACAN 2024",
-    "MARESME ENERGY PLUS",
-    "NAO ENERGIA COMERCIALIZADORA",
-    "ROBLASUN 2",
-    "SEVERAL ENERGY",
-    "TEC 94",
-    "TILO SOLAR"
-   ],
-   "en_boe": [
-    "IGNIS GENERACION"
    ]
   },
   {
@@ -16890,21 +16909,6 @@
    ]
   },
   {
-   "id": "G-EL-REFUGIO-FOTOVOLTAICO",
-   "sociedades": [
-    "EL REFUGIO FOTOVOLTAICO",
-    "ORONETA SOLAR",
-    "PFV ALBUFERA",
-    "PFV LA BARRACA",
-    "PFV PLA DE LLUM",
-    "PFV PRADO GRIS",
-    "SOLAR CENTURY HOLDING ESPANA"
-   ],
-   "en_boe": [
-    "PFV PRADO GRIS"
-   ]
-  },
-  {
    "id": "G-COSMO-HIVE",
    "sociedades": [
     "COSMO HIVE",
@@ -17484,17 +17488,6 @@
    ]
   },
   {
-   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
-   "sociedades": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
-    "REPSOL INDUSTRIAL TRANSFORMATION",
-    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS"
-   ],
-   "en_boe": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
-   ]
-  },
-  {
    "id": "G-ENERGIA-SIERREZUELA",
    "sociedades": [
     "ENERGIA SIERREZUELA",
@@ -17869,6 +17862,16 @@
    ],
    "en_boe": [
     "BIOGASTUR GENERACION NAVIA"
+   ]
+  },
+  {
+   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
+   "sociedades": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
+    "REPSOL INDUSTRIAL TRANSFORMATION"
+   ],
+   "en_boe": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
    ]
   },
   {
@@ -97251,6 +97254,15 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-48",
+     "num": 521374,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -112955,6 +112967,15 @@
      "num": 107447,
      "actos": [
       "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28",
+     "num": 522293,
+     "actos": [
+      "Revocaciones",
       "Datos registrales"
      ]
     }
@@ -131875,6 +131896,15 @@
      "num": 186350,
      "actos": [
       "Cambio de domicilio social",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-08",
+     "num": 521013,
+     "actos": [
+      "Nombramientos",
       "Datos registrales"
      ]
     }
@@ -174473,6 +174503,24 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28",
+     "num": 522153,
+     "actos": [
+      "Reelecciones",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28",
+     "num": 522154,
+     "actos": [
+      "Modificaciones estatutarias",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -179106,7 +179154,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "ALBACETE ECO ENERGIAS"
+   "grupo": "AHMON NH3 PROCESS STORAGE DISTRIBUTION"
   },
   "ENGIE ESPANA": {
    "id": "ENGIE ESPANA",
@@ -204506,10 +204554,23 @@
       "Otros conceptos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-46",
+     "num": 523167,
+     "actos": [
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Disolución",
+      "Extinción",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": true,
-   "grupo": "FOTOVOLTAICA EL CASAR"
+   "grupo": "EL REFUGIO FOTOVOLTAICO"
   },
   "FOTOVOLTAICA EL GLACIAR": {
    "id": "FOTOVOLTAICA EL GLACIAR",
@@ -272599,6 +272660,15 @@
       "Nombramientos",
       "Datos registrales"
      ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-48",
+     "num": 521375,
+     "actos": [
+      "Otros conceptos",
+      "Datos registrales"
+     ]
     }
    ],
    "en_boe": false,
@@ -280750,6 +280820,32 @@
    ],
    "en_boe": false,
    "grupo": "BELICHE SOLAR"
+  },
+  "INICIATIVAS DE GAS": {
+   "id": "INICIATIVAS DE GAS",
+   "nombres": [
+    "INICIATIVAS DE GAS SL"
+   ],
+   "nifs": [],
+   "domicilios": [],
+   "actos_boe": [],
+   "borme": [
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28",
+     "num": 521936,
+     "actos": [
+      "Declaración de unipersonalidad",
+      "Socio único",
+      "Ceses/Dimisiones",
+      "Nombramientos",
+      "Otros conceptos",
+      "Datos registrales"
+     ]
+    }
+   ],
+   "en_boe": false,
+   "grupo": "CLAGROWTH SPAIN"
   },
   "INICIATIVAS EOLICAS DE ALPERA": {
    "id": "INICIATIVAS EOLICAS DE ALPERA",
@@ -384824,7 +384920,9 @@
     "PISA SOLAR HOLDINGS SL"
    ],
    "nifs": [],
-   "domicilios": [],
+   "domicilios": [
+    "PASEO DE LA CASTELLANA 60 - 3ª PLANTA (MADRID)"
+   ],
    "actos_boe": [],
    "borme": [
     {
@@ -384891,6 +384989,17 @@
      "actos": [
       "Ceses/Dimisiones",
       "Nombramientos",
+      "Datos registrales"
+     ]
+    },
+    {
+     "fecha": "2026-11-19",
+     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28",
+     "num": 522281,
+     "actos": [
+      "Nombramientos",
+      "Modificaciones estatutarias",
+      "Cambio de domicilio social",
       "Datos registrales"
      ]
     }
@@ -419522,7 +419631,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
+   "grupo": "ALECTORIS ENERGIA SOSTENIBLE 1"
   },
   "REPSOL RENOVABLES": {
    "id": "REPSOL RENOVABLES",
@@ -658051,6 +658160,14 @@
   {
    "tipo": "persona",
    "a": "PF-b0c8c45bb6",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-b0c8c45bb6",
    "b": "PLANTA FOTOVOLTAICA GAMONAREJO 36",
    "detalle": "Apoderado solidario",
    "fecha": "2023-07-18",
@@ -723195,6 +723312,14 @@
   {
    "tipo": "persona",
    "a": "PF-012cd59dd6",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-012cd59dd6",
    "b": "PLANTA FOTOVOLTAICA GAMONAREJO 36",
    "detalle": "Apoderado solidario",
    "fecha": "2023-07-18",
@@ -723511,6 +723636,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-11-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-212-46"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-fc042900a1",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -725257,7 +725390,7 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2020-38-46"
   },
   {
-   "tipo": "participa",
+   "tipo": "control",
    "a": "SOLAR CENTURY HOLDING ESPANA",
    "b": "FOTOVOLTAICA EL CASAR",
    "detalle": "Socio único",
@@ -859929,6 +860062,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-221-46"
   },
   {
+   "tipo": "historico",
+   "a": "STATKRAFT SPAIN",
+   "b": "FOTOVOLTAICA EL CASAR",
+   "detalle": "Ceses/Dimisiones: Adm. único",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-46"
+  },
+  {
    "tipo": "participa",
    "a": "STATKRAFT SPAIN",
    "b": "ARADA SOLAR",
@@ -860151,14 +860292,6 @@
    "detalle": "Adm. solidario",
    "fecha": "2025-03-13",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-50-31"
-  },
-  {
-   "tipo": "participa",
-   "a": "STATKRAFT SPAIN",
-   "b": "FOTOVOLTAICA EL CASAR",
-   "detalle": "Adm. único",
-   "fecha": "2025-01-14",
-   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-8-46"
   },
   {
    "tipo": "administra",
@@ -867351,6 +867484,14 @@
    "detalle": "Revocaciones: Apoderado",
    "fecha": "2025-10-22",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-202-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-238ec3ae22",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Adm. mancomunado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -932855,6 +932996,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-11-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-212-46"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-5862e1f6ed",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "control",
@@ -1034033,6 +1034182,22 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-216-48"
   },
   {
+   "tipo": "historico",
+   "a": "PF-c2674932c4",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-c2674932c4",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Presidente",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-c2674932c4",
    "b": "ENAGAS",
@@ -1044409,6 +1044574,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2024-110-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-6d2a12e0be",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-6d2a12e0be",
    "b": "ENAGAS TRANSPORTE",
@@ -1052954,6 +1053127,14 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-e4afd4f4e4",
+   "b": "DESARROLLOS RENOVABLES IBERIA NY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-cbcb5642b6",
    "b": "ARCO ENERGIA 3",
    "detalle": "Revocaciones: Apoderado",
@@ -1055903,6 +1056084,14 @@
    "detalle": "Apoderado mancomunado",
    "fecha": "2026-09-02",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-bce28bd716",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -1076671,6 +1076860,14 @@
    "detalle": "Socio único: Socio único",
    "fecha": "2023-04-18",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2023-73-28"
+  },
+  {
+   "tipo": "control",
+   "a": "ENAGAS TRANSPORTE",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Socio único",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "historico",
@@ -1136169,6 +1136366,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-240-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-bb8b57d805",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-bb8b57d805",
    "b": "MUSEL ENERGY HUB",
@@ -1150034,6 +1150239,14 @@
   },
   {
    "tipo": "historico",
+   "a": "PF-ebec5faf37",
+   "b": "DESARROLLOS RENOVABLES IBERIA NY",
+   "detalle": "Revocaciones: Apoderado solidario",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "historico",
    "a": "PF-19d8e7742a",
    "b": "ENERFIN RENOVABLES II",
    "detalle": "Revocaciones: Apoderado",
@@ -1159263,6 +1159476,14 @@
    "detalle": "Apo.Man.Soli",
    "fecha": "2026-11-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-212-46"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-f11b16f6ed",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -1168739,6 +1168960,14 @@
   {
    "tipo": "persona",
    "a": "PF-d545b051c4",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-d545b051c4",
    "b": "RALOS DEVELOPMENT FOTOVOLTAICO SUR",
    "detalle": "Apoderado mancomunado",
    "fecha": "2026-08-31",
@@ -1171228,7 +1171457,7 @@
    "tipo": "persona",
    "a": "PF-9963e8e7d8",
    "b": "PISA SOLAR HOLDINGS",
-   "detalle": "Adm. solidario",
+   "detalle": "Adm. solidario, Apoderado",
    "fecha": "2025-07-31",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-144-28"
   },
@@ -1174487,6 +1174716,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-11-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-212-46"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-3ea34aefac",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -1178399,6 +1178636,14 @@
    "detalle": "Apoderado, Apoderado solidario",
    "fecha": "2025-11-27",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2025-227-33"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-cc671188be",
+   "b": "ELECTRA DEL LLOBREGAT ENERGIA",
+   "detalle": "APODERAD.SOL",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-08"
   },
   {
    "tipo": "persona",
@@ -1190353,6 +1190598,14 @@
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-28"
   },
   {
+   "tipo": "historico",
+   "a": "PF-aaa2275b51",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Representante",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
    "tipo": "persona",
    "a": "PF-aaa2275b51",
    "b": "FUSGAR ENERGY",
@@ -1190436,7 +1190689,7 @@
    "tipo": "persona",
    "a": "PF-2f99c58110",
    "b": "PISA SOLAR HOLDINGS",
-   "detalle": "Adm. solidario",
+   "detalle": "Adm. solidario, Apoderado",
    "fecha": "2026-09-15",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-178-28"
   },
@@ -1191002,6 +1191255,14 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-bb09a92864",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-2ff0ec7935",
    "b": "ARENOSAS SOLAR",
    "detalle": "Apo.Man.Soli",
@@ -1191042,6 +1191303,14 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-2ff0ec7935",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-92c3d5f4c9",
    "b": "ARENOSAS SOLAR",
    "detalle": "Apo.Man.Soli",
@@ -1191082,6 +1191351,14 @@
   },
   {
    "tipo": "persona",
+   "a": "PF-92c3d5f4c9",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "persona",
    "a": "PF-e54640f685",
    "b": "ARENOSAS SOLAR",
    "detalle": "Apoderado solidario",
@@ -1191119,6 +1191396,14 @@
    "detalle": "Apoderado solidario",
    "fecha": "2026-11-04",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-212-46"
+  },
+  {
+   "tipo": "persona",
+   "a": "PF-e54640f685",
+   "b": "PISA SOLAR HOLDINGS",
+   "detalle": "Apoderado",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "persona",
@@ -1191599,6 +1191884,22 @@
    "detalle": "Socio único",
    "fecha": "2026-11-17",
    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-220-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-d74851db7d",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
+  },
+  {
+   "tipo": "historico",
+   "a": "PF-d3bf76f6af",
+   "b": "INICIATIVAS DE GAS",
+   "detalle": "Ceses/Dimisiones: Consejero",
+   "fecha": "2026-11-19",
+   "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-222-28"
   },
   {
    "tipo": "domicilio",
@@ -1202079,11 +1202380,6 @@
   },
   {
    "tipo": "conjunta",
-   "id": "ALANGE ENERGY",
-   "sociedades": 3
-  },
-  {
-   "tipo": "conjunta",
    "id": "ALARCON SOLAR FLOTANTE",
    "sociedades": 3
   },
@@ -1205945,7 +1206241,7 @@
   {
    "tipo": "conjunta",
    "id": "COLECTORA CARMONA 400KV",
-   "sociedades": 7
+   "sociedades": 4
   },
   {
    "tipo": "conjunta",
@@ -1209949,11 +1210245,6 @@
   },
   {
    "tipo": "conjunta",
-   "id": "FOTOVOLTAICA EL CASAR",
-   "sociedades": 2
-  },
-  {
-   "tipo": "conjunta",
    "id": "FOTOVOLTAICA EL SERVALLEJO",
    "sociedades": 2
   },
@@ -1211825,11 +1212116,6 @@
   {
    "tipo": "conjunta",
    "id": "GUADALCACIN SOLAR FLOTANTE",
-   "sociedades": 3
-  },
-  {
-   "tipo": "conjunta",
-   "id": "GUADALTA",
    "sociedades": 3
   },
   {
@@ -1214916,11 +1215202,6 @@
    "tipo": "conjunta",
    "id": "NARCISO SOLAR",
    "sociedades": 2
-  },
-  {
-   "tipo": "conjunta",
-   "id": "NATURENER SOLAR ORELLANA",
-   "sociedades": 3
   },
   {
    "tipo": "conjunta",
@@ -1220290,12 +1220571,12 @@
   {
    "tipo": "sociedad",
    "id": "EOLICA DE MALAGA",
-   "sociedades": 59
+   "sociedades": 56
   },
   {
    "tipo": "sociedad",
    "id": "SONDASOL SPAIN",
-   "sociedades": 58
+   "sociedades": 55
   },
   {
    "tipo": "persona",
@@ -1220500,12 +1220781,12 @@
   {
    "tipo": "persona",
    "id": "PF-8d9ed2c413",
-   "sociedades": 77
+   "sociedades": 78
   },
   {
    "tipo": "persona",
    "id": "PF-fda665f7a4",
-   "sociedades": 120
+   "sociedades": 121
   },
   {
    "tipo": "persona",
@@ -1220565,7 +1220846,7 @@
   {
    "tipo": "persona",
    "id": "PF-231865a7ee",
-   "sociedades": 353
+   "sociedades": 352
   },
   {
    "tipo": "persona",
@@ -1222380,7 +1222661,7 @@
   {
    "tipo": "persona",
    "id": "PF-e4afd4f4e4",
-   "sociedades": 56
+   "sociedades": 54
   },
   {
    "tipo": "sociedad",
@@ -1222865,7 +1223146,7 @@
   {
    "tipo": "persona",
    "id": "PF-c0679cf04a",
-   "sociedades": 81
+   "sociedades": 82
   },
   {
    "tipo": "persona",
@@ -1223255,7 +1223536,7 @@
   {
    "tipo": "persona",
    "id": "PF-ebec5faf37",
-   "sociedades": 55
+   "sociedades": 53
   },
   {
    "tipo": "persona",
@@ -1223699,12 +1223980,12 @@
   },
   {
    "tipo": "domicilio",
-   "id": "calle Ribera del Loira, 28, 28042, Madrid",
+   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
    "sociedades": 9
   },
   {
    "tipo": "domicilio",
-   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
+   "id": "calle Ribera del Loira, 28, 28042, Madrid",
    "sociedades": 9
   },
   {
@@ -1223769,13 +1224050,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "Paseo de la Castellana 91, planta 11, 28046 Madrid",
-   "sociedades": 23
+   "id": "Paseo de la Castellana 259 D, planta 46, Torre Espacio, 28046 Madrid",
+   "sociedades": 16
   },
   {
    "tipo": "domicilio",
-   "id": "Paseo de la Castellana 259 D, planta 46, Torre Espacio, 28046 Madrid",
-   "sociedades": 16
+   "id": "Paseo de la Castellana 91, planta 11, 28046 Madrid",
+   "sociedades": 23
   },
   {
    "tipo": "domicilio",
@@ -1223874,13 +1224155,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
-   "sociedades": 19
+   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
+   "sociedades": 21
   },
   {
    "tipo": "domicilio",
-   "id": "C/ IRLANDA ( 13 - EDIFICIO CHAPARREJO, 41500ALCALA DE GUADAIRA)",
-   "sociedades": 21
+   "id": "C/ ESPALDILLAS DOS 6 - CP 41500 (ALCALA DE GUADAIRA)",
+   "sociedades": 19
   },
   {
    "tipo": "domicilio",
@@ -1223929,13 +1224210,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
-   "sociedades": 24
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
+   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
@@ -1223944,13 +1224225,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
-   "sociedades": 16
+   "id": "C/ MARQUES DE VILLORES, 8 2º 02001 (ALBACETE)",
+   "sociedades": 24
   },
   {
    "tipo": "domicilio",
-   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
-   "sociedades": 9
+   "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
+   "sociedades": 16
   },
   {
    "tipo": "domicilio",
