@@ -1,8 +1,8 @@
 {
- "generado": "2026-11-27",
+ "generado": "2026-11-28",
  "umbral_mw": 50.0,
  "resumen": {
-  "actos_boe": 5484,
+  "actos_boe": 5485,
   "inscripciones_borme": 150593,
   "sociedades": 6663,
   "instalaciones": 2069,
@@ -9909,7 +9909,6 @@
     "REPSOL MAIALS",
     "REPSOL PARAMILLOS",
     "REPSOL PUERTOLLANO SUNRISE",
-    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS",
     "REPSOL RENOVABLES",
     "REPSOL RENOVABLES OLMEDILLA",
     "REPSOL SERVICIOS RENOVABLES",
@@ -12008,7 +12007,6 @@
     "ASTURIAS ECO ENERGIAS",
     "AULIVER SOLAR",
     "AUSTRALIS ENERGIAS",
-    "AVILA ECO ENERGIAS",
     "AXIMA SERVICIOS ENERGETICOS EUSKADI",
     "BELLINGEN INVEST",
     "BENILDE SOLAR",
@@ -12843,6 +12841,38 @@
    ]
   },
   {
+   "id": "G-AVILA-ECO-ENERGIAS",
+   "sociedades": [
+    "AVILA ECO ENERGIAS",
+    "CROWIND",
+    "ENERGIA DE RIANSARES",
+    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
+    "EOLIA WINDCO",
+    "EOLICA DE CARABUENA",
+    "EOLICA DE MEDINACELI",
+    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
+    "FERGO GALICIA VENTO -P E MONDONEDO",
+    "INICIATIVAS EOLICAS DE ALPERA",
+    "LURIA DE ENERGIAS",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "PARQUE EOLICO CERRO OLIVA",
+    "PARQUE EOLICO MADRIDEJOS",
+    "SISTEMAS ENERGETICOS FUERTEVENTURA",
+    "TARRACO EOLICA LES GARRIGUES",
+    "TARRACO EOLICA LES GARRIGUES DOS",
+    "TARRACO EOLICA-ASCO",
+    "WIGEP ANDALUCIA"
+   ],
+   "en_boe": [
+    "EOLICA DE MEDINACELI",
+    "PARC EOLIC SANT ANTONI",
+    "PARQUE EOLICO ALENTISQUE",
+    "TARRACO EOLICA LES GARRIGUES",
+    "WIGEP ANDALUCIA"
+   ]
+  },
+  {
    "id": "G-ALDEBARAN-SERVICIOS-DE-MANTENIMIENTO-EOL",
    "sociedades": [
     "ALDEBARAN SERVICIOS DE MANTENIMIENTO EOLICO",
@@ -12871,37 +12901,6 @@
     "ICTIO SOLAR ORION",
     "NAVABUENA SOLAR",
     "SISTEMAS FOTOVOLTAICO DE LEVANTE"
-   ]
-  },
-  {
-   "id": "G-CROWIND",
-   "sociedades": [
-    "CROWIND",
-    "ENERGIA DE RIANSARES",
-    "ENERGIAS NATURALES MOLINOS DE CASTILLA",
-    "EOLIA WINDCO",
-    "EOLICA DE CARABUENA",
-    "EOLICA DE MEDINACELI",
-    "EXPLOTACIONES EOLICAS SIERRA DE ALCARAZ",
-    "FERGO GALICIA VENTO -P E MONDONEDO",
-    "INICIATIVAS EOLICAS DE ALPERA",
-    "LURIA DE ENERGIAS",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "PARQUE EOLICO CERRO OLIVA",
-    "PARQUE EOLICO MADRIDEJOS",
-    "SISTEMAS ENERGETICOS FUERTEVENTURA",
-    "TARRACO EOLICA LES GARRIGUES",
-    "TARRACO EOLICA LES GARRIGUES DOS",
-    "TARRACO EOLICA-ASCO",
-    "WIGEP ANDALUCIA"
-   ],
-   "en_boe": [
-    "EOLICA DE MEDINACELI",
-    "PARC EOLIC SANT ANTONI",
-    "PARQUE EOLICO ALENTISQUE",
-    "TARRACO EOLICA LES GARRIGUES",
-    "WIGEP ANDALUCIA"
    ]
   },
   {
@@ -17554,6 +17553,17 @@
    ]
   },
   {
+   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
+   "sociedades": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
+    "REPSOL INDUSTRIAL TRANSFORMATION",
+    "REPSOL RENEWABLE AND CIRCULAR SOLUTIONS"
+   ],
+   "en_boe": [
+    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
+   ]
+  },
+  {
    "id": "G-ENERGIA-SIERREZUELA",
    "sociedades": [
     "ENERGIA SIERREZUELA",
@@ -17928,16 +17938,6 @@
    ],
    "en_boe": [
     "BIOGASTUR GENERACION NAVIA"
-   ]
-  },
-  {
-   "id": "G-REPSOL-FUELS-SA-AMPLIACION-DEL-OBJETO-SO",
-   "sociedades": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051",
-    "REPSOL INDUSTRIAL TRANSFORMATION"
-   ],
-   "en_boe": [
-    "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
    ]
   },
   {
@@ -50715,7 +50715,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ALBACETE ECO ENERGIAS"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "AVINTIA ENERGIA": {
    "id": "AVINTIA ENERGIA",
@@ -96327,7 +96327,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "CRUCERO SOLAR": {
    "id": "CRUCERO SOLAR",
@@ -141684,7 +141684,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "ENERGIA DE SURIA": {
    "id": "ENERGIA DE SURIA",
@@ -165990,7 +165990,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "ENERGIAS RENOVABLES AGUIMES": {
    "id": "ENERGIAS RENOVABLES AGUIMES",
@@ -182781,7 +182781,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA AIRCAN": {
    "id": "EOLICA AIRCAN",
@@ -183129,7 +183129,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA DE CASTIL DE TIERRA": {
    "id": "EOLICA DE CASTIL DE TIERRA",
@@ -183346,7 +183346,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EOLICA DE RADONA": {
    "id": "EOLICA DE RADONA",
@@ -197539,7 +197539,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "EXPLOTACIONES EOLICAS SIERRA DE UTRERA": {
    "id": "EXPLOTACIONES EOLICAS SIERRA DE UTRERA",
@@ -200893,7 +200893,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "FERNANDO SOL": {
    "id": "FERNANDO SOL",
@@ -273643,7 +273643,8 @@
     "BOE-B-2026-25939",
     "BOE-A-2026-18635",
     "BOE-B-2026-30931",
-    "BOE-A-2026-21854"
+    "BOE-A-2026-21854",
+    "BOE-B-2026-39470"
    ],
    "borme": [
     {
@@ -281640,7 +281641,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "INMEDICAL THERAPEUTICS": {
    "id": "INMEDICAL THERAPEUTICS",
@@ -302219,7 +302220,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "LUSIBERIA": {
    "id": "LUSIBERIA",
@@ -364399,7 +364400,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARC EOLIC SERRA VOLTORERA": {
    "id": "PARC EOLIC SERRA VOLTORERA",
@@ -365344,7 +365345,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO ALSA": {
    "id": "PARQUE EOLICO ALSA",
@@ -367725,7 +367726,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO CINSEIRO": {
    "id": "PARQUE EOLICO CINSEIRO",
@@ -372146,7 +372147,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "PARQUE EOLICO MAGAZ": {
    "id": "PARQUE EOLICO MAGAZ",
@@ -420517,7 +420518,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "ALECTORIS ENERGIA SOSTENIBLE 1"
+   "grupo": "REPSOL FUELS SA AMPLIACION DEL OBJETO SOCIAL 2051"
   },
   "REPSOL RENOVABLES": {
    "id": "REPSOL RENOVABLES",
@@ -446008,7 +446009,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "SISTEMAS ENERGETICOS GOMERA": {
    "id": "SISTEMAS ENERGETICOS GOMERA",
@@ -468468,7 +468469,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRACO EOLICA LES GARRIGUES DOS": {
    "id": "TARRACO EOLICA LES GARRIGUES DOS",
@@ -468590,7 +468591,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRACO EOLICA-ASCO": {
    "id": "TARRACO EOLICA-ASCO",
@@ -468749,7 +468750,7 @@
     }
    ],
    "en_boe": false,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "TARRAGONA POWER": {
    "id": "TARRAGONA POWER",
@@ -491044,7 +491045,7 @@
     }
    ],
    "en_boe": true,
-   "grupo": "CROWIND"
+   "grupo": "AVILA ECO ENERGIAS"
   },
   "WILD SUN": {
    "id": "WILD SUN",
@@ -1227616,12 +1227617,12 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
+   "id": "calle Ribera del Loira, 28, 28042, Madrid",
    "sociedades": 9
   },
   {
    "tipo": "domicilio",
-   "id": "calle Ribera del Loira, 28, 28042, Madrid",
+   "id": "C/ Ribera del Loira, 60, 28042 Madrid",
    "sociedades": 9
   },
   {
@@ -1227686,13 +1227687,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "Paseo de la Castellana 259 D, planta 46, Torre Espacio, 28046 Madrid",
-   "sociedades": 16
+   "id": "Paseo de la Castellana 91, planta 11, 28046 Madrid",
+   "sociedades": 23
   },
   {
    "tipo": "domicilio",
-   "id": "Paseo de la Castellana 91, planta 11, 28046 Madrid",
-   "sociedades": 23
+   "id": "Paseo de la Castellana 259 D, planta 46, Torre Espacio, 28046 Madrid",
+   "sociedades": 16
   },
   {
    "tipo": "domicilio",
@@ -1227746,13 +1227747,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "AVDA MANUEL SIUROT 59 1º D - CP 41013 (SEVILLA)",
-   "sociedades": 25
+   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
+   "sociedades": 23
   },
   {
    "tipo": "domicilio",
-   "id": "Avda. Diego Martínez Barrio, n.º 4, planta 7, oficina 4B, edificio Viapol Center, 41013 (Sevilla) y NIF B-90475260",
-   "sociedades": 23
+   "id": "AVDA MANUEL SIUROT 59 1º D - CP 41013 (SEVILLA)",
+   "sociedades": 25
   },
   {
    "tipo": "domicilio",
@@ -1227771,13 +1227772,13 @@
   },
   {
    "tipo": "domicilio",
-   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
-   "sociedades": 39
+   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
+   "sociedades": 22
   },
   {
    "tipo": "domicilio",
-   "id": "C/ DEL CURA, 7 02002 (ALBACETE)",
-   "sociedades": 22
+   "id": "c/ Teodoro Camino 17, CP 02002 Albacete",
+   "sociedades": 39
   },
   {
    "tipo": "domicilio",
@@ -1227846,11 +1227847,6 @@
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
-   "sociedades": 15
-  },
-  {
-   "tipo": "domicilio",
    "id": "C/ MARQUES DE MOLINS, 13 1º d 02001 (ALBACETE)",
    "sociedades": 16
   },
@@ -1227861,13 +1227857,18 @@
   },
   {
    "tipo": "domicilio",
-   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
-   "sociedades": 9
+   "id": "C/ MARQUES DE MOLINS, 2 3º iz 02001 (ALBACETE)",
+   "sociedades": 17
   },
   {
    "tipo": "domicilio",
-   "id": "C/ MARQUES DE MOLINS, 2 3º iz 02001 (ALBACETE)",
-   "sociedades": 17
+   "id": "C/ MUELLE, 10 entreplanta dere 02001 (ALBACETE)",
+   "sociedades": 15
+  },
+  {
+   "tipo": "domicilio",
+   "id": "PSAJE LODARES, 3 2º dere 02001 (ALBACETE)",
+   "sociedades": 9
   },
   {
    "tipo": "domicilio",
